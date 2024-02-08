@@ -1,0 +1,4 @@
+fac_t_global_factura.sh  Script que se ejecuta crontab de linux 
+generaGlobal.sh          Script que se ejecuta crontab de linux 
+getServicioTerminalGlobal.pl  Script que solicita la informacíon de la venta de todos los puntos por servicio y dia llena la tabla fac_t_global_factura
+porServicioDiaria.pl  Script en perl que genera la factura global

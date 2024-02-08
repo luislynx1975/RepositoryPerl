@@ -1,0 +1,1 @@
+porServicioDiaria.pl Archivo que genera la facturacion diaria por servicio  y terminal

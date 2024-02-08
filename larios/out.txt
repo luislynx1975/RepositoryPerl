@@ -1,0 +1,7142 @@
+[3J[H[2Jtcs1   TCS  016577 
+ Valor de existir : 0
+2   TCS  016577 
+ Valor de existir : 0
+3   TCS  016577 
+ Valor de existir : 0
+4   TCS  016577 
+ Valor de existir : 0
+5   TCS  016577 
+ Valor de existir : 0
+6   TCS  016577 
+ Valor de existir : 0
+7   TCS  016577 
+ Valor de existir : 0
+8   TCS  016577 
+ Valor de existir : 0
+9   TCS  016577 
+ Valor de existir : 0
+10   TCS  016577 
+ Valor de existir : 0
+11   TCS  016577 
+ Valor de existir : 0
+12   TCS  016577 
+ Valor de existir : 0
+13   TCS  016577 
+ Valor de existir : 0
+14   TCS  016577 
+ Valor de existir : 0
+15   TCS  016577 
+ Valor de existir : 0
+16   TCS  016577 
+ Valor de existir : 0
+17   TCS  016577 
+ Valor de existir : 0
+18   TCS  016577 
+ Valor de existir : 0
+19   TCS  016577 
+ Valor de existir : 0
+20   TCS  016577 
+ Valor de existir : 0
+21   TCS  016577 
+ Valor de existir : 0
+22   TCS  016577 
+ Valor de existir : 0
+23   TCS  016577 
+ Valor de existir : 0
+24   TCS  016577 
+ Valor de existir : 0
+25   TCS  016577 
+ Valor de existir : 0
+26   TCS  016577 
+ Valor de existir : 0
+27   TCS  016577 
+ Valor de existir : 0
+28   TCS  016577 
+ Valor de existir : 0
+29   TCS  016577 
+ Valor de existir : 0
+30   TCS  016577 
+ Valor de existir : 0
+31   TCS  016577 
+ Valor de existir : 0
+32   TCS  016577 
+ Valor de existir : 0
+33   TCS  016577 
+ Valor de existir : 0
+34   TCS  016577 
+ Valor de existir : 0
+35   TCS  016577 
+ Valor de existir : 0
+36   TCS  016577 
+ Valor de existir : 0
+37   TCS  016577 
+ Valor de existir : 0
+38   TCS  016577 
+ Valor de existir : 0
+39   TCS  016577 
+ Valor de existir : 0
+40   TCS  016577 
+ Valor de existir : 0
+41   TCS  016577 
+ Valor de existir : 0
+42   TCS  016577 
+ Valor de existir : 0
+43   TCS  016577 
+ Valor de existir : 0
+44   TCS  016577 
+ Valor de existir : 0
+45   TCS  016577 
+ Valor de existir : 0
+46   TCS  016577 
+ Valor de existir : 0
+47   TCS  016577 
+ Valor de existir : 0
+48   TCS  016577 
+ Valor de existir : 0
+49   TCS  016577 
+ Valor de existir : 0
+50   TCS  016577 
+ Valor de existir : 0
+51   TCS  016577 
+ Valor de existir : 0
+52   TCS  016577 
+ Valor de existir : 0
+53   TCS  016577 
+ Valor de existir : 0
+54   TCS  016577 
+ Valor de existir : 0
+55   TCS  016577 
+ Valor de existir : 0
+56   TCS  016577 
+ Valor de existir : 0
+57   TCS  016577 
+ Valor de existir : 0
+58   TCS  016577 
+ Valor de existir : 0
+59   TCS  016577 
+ Valor de existir : 0
+60   TCS  016577 
+ Valor de existir : 0
+61   TCS  016577 
+ Valor de existir : 0
+62   TCS  016577 
+ Valor de existir : 0
+63   TCS  016577 
+ Valor de existir : 0
+64   TCS  016577 
+ Valor de existir : 0
+65   TCS  016577 
+ Valor de existir : 0
+66   TCS  016577 
+ Valor de existir : 0
+67   TCS  016577 
+ Valor de existir : 0
+68   TCS  016577 
+ Valor de existir : 0
+69   TCS  016577 
+ Valor de existir : 0
+70   TCS  016577 
+ Valor de existir : 0
+71   TCS  016577 
+ Valor de existir : 0
+72   TCS  016577 
+ Valor de existir : 0
+73   TCS  016577 
+ Valor de existir : 0
+74   TCS  016577 
+ Valor de existir : 0
+75   TCS  016577 
+ Valor de existir : 0
+76   TCS  016577 
+ Valor de existir : 0
+77   TCS  016577 
+ Valor de existir : 0
+78   TCS  016577 
+ Valor de existir : 0
+79   TCS  016577 
+ Valor de existir : 0
+80   TCS  016577 
+ Valor de existir : 0
+81   TCS  016577 
+ Valor de existir : 0
+82   TCS  016577 
+ Valor de existir : 0
+83   TCS  016577 
+ Valor de existir : 0
+84   TCS  016577 
+ Valor de existir : 0
+85   TCS  016577 
+ Valor de existir : 0
+86   TCS  016577 
+ Valor de existir : 0
+87   TCS  016577 
+ Valor de existir : 0
+88   TCS  016577 
+ Valor de existir : 0
+89   TCS  016577 
+ Valor de existir : 0
+90   TCS  016577 
+ Valor de existir : 0
+91   TCS  016577 
+ Valor de existir : 0
+92   TCS  016577 
+ Valor de existir : 0
+93   TCS  016577 
+ Valor de existir : 0
+94   TCS  016577 
+ Valor de existir : 0
+95   TCS  016577 
+ Valor de existir : 0
+96   TCS  016577 
+ Valor de existir : 0
+97   TCS  016577 
+ Valor de existir : 0
+98   TCS  016577 
+ Valor de existir : 0
+99   TCS  016577 
+ Valor de existir : 0
+100   TCS  016577 
+ Valor de existir : 0
+101   TCS  016577 
+ Valor de existir : 0
+102   TCS  016577 
+ Valor de existir : 0
+103   TCS  016577 
+ Valor de existir : 0
+104   TCS  016577 
+ Valor de existir : 0
+105   TCS  016577 
+ Valor de existir : 0
+106   TCS  016577 
+ Valor de existir : 0
+107   TCS  016577 
+ Valor de existir : 0
+108   TCS  016577 
+ Valor de existir : 0
+109   TCS  016577 
+ Valor de existir : 0
+110   TCS  016577 
+ Valor de existir : 0
+111   TCS  016577 
+ Valor de existir : 0
+112   TCS  016577 
+ Valor de existir : 0
+113   TCS  016577 
+ Valor de existir : 0
+114   TCS  016577 
+ Valor de existir : 0
+115   TCS  016577 
+ Valor de existir : 0
+116   TCS  016577 
+ Valor de existir : 0
+117   TCS  016577 
+ Valor de existir : 0
+118   TCS  016577 
+ Valor de existir : 0
+119   TCS  016577 
+ Valor de existir : 0
+120   TCS  016577 
+ Valor de existir : 0
+121   TCS  016577 
+ Valor de existir : 0
+122   TCS  016577 
+ Valor de existir : 0
+123   TCS  016577 
+ Valor de existir : 0
+124   TCS  016577 
+ Valor de existir : 0
+125   TCS  016577 
+ Valor de existir : 0
+126   TCS  016577 
+ Valor de existir : 0
+127   TCS  016577 
+ Valor de existir : 0
+128   TCS  016577 
+ Valor de existir : 0
+129   TCS  016577 
+ Valor de existir : 0
+130   TCS  016577 
+ Valor de existir : 0
+131   TCS  016577 
+ Valor de existir : 0
+132   TCS  016577 
+ Valor de existir : 0
+133   TCS  016577 
+ Valor de existir : 0
+134   TCS  016577 
+ Valor de existir : 0
+135   TCS  016577 
+ Valor de existir : 0
+136   TCS  016577 
+ Valor de existir : 0
+137   TCS  016577 
+ Valor de existir : 0
+138   TCS  016577 
+ Valor de existir : 0
+139   TCS  016577 
+ Valor de existir : 0
+140   TCS  016577 
+ Valor de existir : 0
+141   TCS  016577 
+ Valor de existir : 0
+142   TCS  016577 
+ Valor de existir : 0
+143   TCS  016577 
+ Valor de existir : 0
+144   TCS  016577 
+ Valor de existir : 0
+145   TCS  016577 
+ Valor de existir : 0
+146   TCS  016577 
+ Valor de existir : 0
+147   TCS  016577 
+ Valor de existir : 0
+148   TCS  016577 
+ Valor de existir : 0
+149   TCS  016577 
+ Valor de existir : 0
+150   TCS  016577 
+ Valor de existir : 0
+151   TCS  016577 
+ Valor de existir : 0
+152   TCS  016577 
+ Valor de existir : 0
+153   TCS  016577 
+ Valor de existir : 0
+154   TCS  016577 
+ Valor de existir : 0
+155   TCS  016577 
+ Valor de existir : 0
+156   TCS  016577 
+ Valor de existir : 0
+157   TCS  016577 
+ Valor de existir : 0
+158   TCS  016577 
+ Valor de existir : 0
+159   TCS  016577 
+ Valor de existir : 0
+160   TCS  016577 
+ Valor de existir : 0
+161   TCS  016577 
+ Valor de existir : 0
+162   TCS  016577 
+ Valor de existir : 0
+163   TCS  016577 
+ Valor de existir : 0
+164   TCS  016577 
+ Valor de existir : 0
+165   TCS  016577 
+ Valor de existir : 0
+166   TCS  016577 
+ Valor de existir : 0
+167   TCS  016577 
+ Valor de existir : 0
+168   TCS  016577 
+ Valor de existir : 0
+169   TCS  016577 
+ Valor de existir : 0
+170   TCS  016577 
+ Valor de existir : 0
+171   TCS  016577 
+ Valor de existir : 0
+172   TCS  016577 
+ Valor de existir : 0
+173   TCS  016577 
+ Valor de existir : 0
+174   TCS  016577 
+ Valor de existir : 0
+175   TCS  016577 
+ Valor de existir : 0
+176   TCS  016577 
+ Valor de existir : 0
+177   TCS  016577 
+ Valor de existir : 0
+178   TCS  016577 
+ Valor de existir : 0
+179   TCS  016577 
+ Valor de existir : 0
+180   TCS  016577 
+ Valor de existir : 0
+181   TCS  016577 
+ Valor de existir : 0
+182   TCS  016577 
+ Valor de existir : 0
+183   TCS  016577 
+ Valor de existir : 0
+184   TCS  016577 
+ Valor de existir : 0
+185   TCS  016577 
+ Valor de existir : 0
+186   TCS  016577 
+ Valor de existir : 0
+187   TCS  016577 
+ Valor de existir : 0
+188   TCS  016577 
+ Valor de existir : 0
+189   TCS  016577 
+ Valor de existir : 0
+190   TCS  016577 
+ Valor de existir : 0
+191   TCS  016577 
+ Valor de existir : 0
+192   TCS  016577 
+ Valor de existir : 0
+193   TCS  016577 
+ Valor de existir : 0
+194   TCS  016577 
+ Valor de existir : 0
+195   TCS  016577 
+ Valor de existir : 0
+196   TCS  016577 
+ Valor de existir : 0
+197   TCS  016577 
+ Valor de existir : 0
+198   TCS  016577 
+ Valor de existir : 0
+199   TCS  016577 
+ Valor de existir : 0
+200   TCS  016577 
+ Valor de existir : 0
+201   TCS  016577 
+ Valor de existir : 0
+202   TCS  016577 
+ Valor de existir : 0
+203   TCS  016577 
+ Valor de existir : 0
+204   TCS  016577 
+ Valor de existir : 0
+205   TCS  016577 
+ Valor de existir : 0
+206   TCS  016577 
+ Valor de existir : 0
+207   TCS  016577 
+ Valor de existir : 0
+208   TCS  016577 
+ Valor de existir : 0
+209   TCS  016577 
+ Valor de existir : 0
+210   TCS  016577 
+ Valor de existir : 0
+211   TCS  016577 
+ Valor de existir : 0
+212   TCS  016577 
+ Valor de existir : 0
+213   TCS  016577 
+ Valor de existir : 0
+214   TCS  016577 
+ Valor de existir : 0
+215   TCS  016577 
+ Valor de existir : 0
+216   TCS  016577 
+ Valor de existir : 0
+217   TCS  016577 
+ Valor de existir : 0
+218   TCS  016577 
+ Valor de existir : 0
+219   TCS  016577 
+ Valor de existir : 0
+220   TCS  016577 
+ Valor de existir : 0
+221   TCS  016577 
+ Valor de existir : 0
+222   TCS  016577 
+ Valor de existir : 0
+223   TCS  016577 
+ Valor de existir : 0
+224   TCS  016577 
+ Valor de existir : 0
+225   TCS  016577 
+ Valor de existir : 0
+226   TCS  016577 
+ Valor de existir : 0
+227   TCS  016577 
+ Valor de existir : 0
+228   TCS  016577 
+ Valor de existir : 0
+229   TCS  016577 
+ Valor de existir : 0
+230   TCS  016577 
+ Valor de existir : 0
+231   TCS  016577 
+ Valor de existir : 0
+232   TCS  016577 
+ Valor de existir : 0
+233   TCS  016577 
+ Valor de existir : 0
+234   TCS  016577 
+ Valor de existir : 0
+235   TCS  016577 
+ Valor de existir : 0
+236   TCS  016577 
+ Valor de existir : 0
+237   TCS  016577 
+ Valor de existir : 0
+238   TCS  016577 
+ Valor de existir : 0
+239   TCS  016577 
+ Valor de existir : 0
+240   TCS  016577 
+ Valor de existir : 0
+241   TCS  016577 
+ Valor de existir : 0
+242   TCS  016577 
+ Valor de existir : 0
+243   TCS  016577 
+ Valor de existir : 0
+244   TCS  016577 
+ Valor de existir : 0
+245   TCS  016577 
+ Valor de existir : 0
+246   TCS  016577 
+ Valor de existir : 0
+247   TCS  016577 
+ Valor de existir : 0
+248   TCS  016577 
+ Valor de existir : 0
+249   TCS  016577 
+ Valor de existir : 0
+250   TCS  016577 
+ Valor de existir : 0
+251   TCS  016577 
+ Valor de existir : 0
+252   TCS  016577 
+ Valor de existir : 0
+253   TCS  016577 
+ Valor de existir : 0
+254   TCS  016577 
+ Valor de existir : 0
+255   TCS  016577 
+ Valor de existir : 0
+256   TCS  016577 
+ Valor de existir : 0
+257   TCS  016577 
+ Valor de existir : 0
+258   TCS  016577 
+ Valor de existir : 0
+259   TCS  016577 
+ Valor de existir : 0
+260   TCS  016577 
+ Valor de existir : 0
+261   TCS  016577 
+ Valor de existir : 0
+262   TCS  016577 
+ Valor de existir : 0
+263   TCS  016577 
+ Valor de existir : 0
+264   TCS  016577 
+ Valor de existir : 0
+265   TCS  016577 
+ Valor de existir : 0
+266   TCS  016577 
+ Valor de existir : 0
+267   TCS  016577 
+ Valor de existir : 0
+268   TCS  016577 
+ Valor de existir : 0
+269   TCS  016577 
+ Valor de existir : 0
+270   TCS  016577 
+ Valor de existir : 0
+271   TCS  016577 
+ Valor de existir : 0
+272   TCS  016577 
+ Valor de existir : 0
+273   TCS  016577 
+ Valor de existir : 0
+274   TCS  016577 
+ Valor de existir : 0
+275   TCS  016577 
+ Valor de existir : 0
+276   TCS  016577 
+ Valor de existir : 0
+277   TCS  016577 
+ Valor de existir : 0
+278   TCS  016577 
+ Valor de existir : 0
+279   TCS  016577 
+ Valor de existir : 0
+280   TCS  016577 
+ Valor de existir : 0
+281   TCS  016577 
+ Valor de existir : 0
+282   TCS  016577 
+ Valor de existir : 0
+283   TCS  016577 
+ Valor de existir : 0
+284   TCS  016577 
+ Valor de existir : 0
+285   TCS  016577 
+ Valor de existir : 0
+286   TCS  016577 
+ Valor de existir : 0
+287   TCS  016577 
+ Valor de existir : 0
+288   TCS  016577 
+ Valor de existir : 0
+289   TCS  016577 
+ Valor de existir : 0
+290   TCS  016577 
+ Valor de existir : 0
+291   TCS  016577 
+ Valor de existir : 0
+292   TCS  016577 
+ Valor de existir : 0
+293   TCS  016577 
+ Valor de existir : 0
+294   TCS  016577 
+ Valor de existir : 0
+295   TCS  016577 
+ Valor de existir : 0
+296   TCS  016577 
+ Valor de existir : 0
+297   TCS  016577 
+ Valor de existir : 0
+298   TCS  016577 
+ Valor de existir : 0
+299   TCS  016577 
+ Valor de existir : 0
+300   TCS  016577 
+ Valor de existir : 0
+301   TCS  016577 
+ Valor de existir : 0
+302   TCS  016577 
+ Valor de existir : 0
+303   TCS  016577 
+ Valor de existir : 0
+304   TCS  016577 
+ Valor de existir : 0
+305   TCS  016577 
+ Valor de existir : 0
+306   TCS  016577 
+ Valor de existir : 0
+307   TCS  016577 
+ Valor de existir : 0
+308   TCS  016577 
+ Valor de existir : 0
+309   TCS  016577 
+ Valor de existir : 0
+310   TCS  016577 
+ Valor de existir : 0
+311   TCS  016577 
+ Valor de existir : 0
+312   TCS  016577 
+ Valor de existir : 0
+313   TCS  016577 
+ Valor de existir : 0
+314   TCS  016577 
+ Valor de existir : 0
+315   TCS  016577 
+ Valor de existir : 0
+316   TCS  016577 
+ Valor de existir : 0
+317   TCS  016577 
+ Valor de existir : 0
+318   TCS  016577 
+ Valor de existir : 0
+319   TCS  016577 
+ Valor de existir : 0
+320   TCS  016577 
+ Valor de existir : 0
+321   TCS  016577 
+ Valor de existir : 0
+322   TCS  016577 
+ Valor de existir : 0
+323   TCS  016577 
+ Valor de existir : 0
+324   TCS  016577 
+ Valor de existir : 0
+325   TCS  016577 
+ Valor de existir : 0
+326   TCS  016577 
+ Valor de existir : 0
+327   TCS  016577 
+ Valor de existir : 0
+328   TCS  016577 
+ Valor de existir : 0
+329   TCS  016577 
+ Valor de existir : 0
+330   TCS  016577 
+ Valor de existir : 0
+331   TCS  016577 
+ Valor de existir : 0
+332   TCS  016577 
+ Valor de existir : 0
+333   TCS  016577 
+ Valor de existir : 0
+334   TCS  016577 
+ Valor de existir : 0
+335   TCS  016577 
+ Valor de existir : 0
+336   TCS  016577 
+ Valor de existir : 0
+337   TCS  016577 
+ Valor de existir : 0
+338   TCS  016577 
+ Valor de existir : 0
+339   TCS  016577 
+ Valor de existir : 0
+340   TCS  016577 
+ Valor de existir : 0
+341   TCS  016577 
+ Valor de existir : 0
+342   TCS  016577 
+ Valor de existir : 0
+343   TCS  016577 
+ Valor de existir : 0
+344   TCS  016577 
+ Valor de existir : 0
+345   TCS  016577 
+ Valor de existir : 0
+346   TCS  016577 
+ Valor de existir : 0
+347   TCS  016577 
+ Valor de existir : 0
+348   TCS  016577 
+ Valor de existir : 0
+349   TCS  016577 
+ Valor de existir : 0
+350   TCS  016577 
+ Valor de existir : 0
+351   TCS  016577 
+ Valor de existir : 0
+352   TCS  016577 
+ Valor de existir : 0
+353   TCS  016577 
+ Valor de existir : 0
+354   TCS  016577 
+ Valor de existir : 0
+355   TCS  016577 
+ Valor de existir : 0
+356   TCS  016577 
+ Valor de existir : 0
+357   TCS  016577 
+ Valor de existir : 0
+358   TCS  016577 
+ Valor de existir : 0
+359   TCS  016577 
+ Valor de existir : 0
+360   TCS  016577 
+ Valor de existir : 0
+361   TCS  016577 
+ Valor de existir : 0
+362   TCS  016577 
+ Valor de existir : 0
+363   TCS  016577 
+ Valor de existir : 0
+364   TCS  016577 
+ Valor de existir : 0
+365   TCS  016577 
+ Valor de existir : 0
+366   TCS  016577 
+ Valor de existir : 0
+367   TCS  016577 
+ Valor de existir : 0
+368   TCS  016577 
+ Valor de existir : 0
+369   TCS  016577 
+ Valor de existir : 0
+370   TCS  016577 
+ Valor de existir : 0
+371   TCS  016577 
+ Valor de existir : 0
+372   TCS  016577 
+ Valor de existir : 0
+373   TCS  016577 
+ Valor de existir : 0
+374   TCS  016577 
+ Valor de existir : 0
+375   TCS  016577 
+ Valor de existir : 0
+376   TCS  016577 
+ Valor de existir : 0
+377   TCS  016577 
+ Valor de existir : 0
+378   TCS  016577 
+ Valor de existir : 0
+379   TCS  016577 
+ Valor de existir : 0
+380   TCS  016577 
+ Valor de existir : 0
+381   TCS  016577 
+ Valor de existir : 0
+382   TCS  016577 
+ Valor de existir : 0
+383   TCS  016577 
+ Valor de existir : 0
+384   TCS  016577 
+ Valor de existir : 0
+385   TCS  016577 
+ Valor de existir : 0
+386   TCS  016577 
+ Valor de existir : 0
+387   TCS  016577 
+ Valor de existir : 0
+388   TCS  016577 
+ Valor de existir : 0
+389   TCS  016577 
+ Valor de existir : 0
+390   TCS  016577 
+ Valor de existir : 0
+391   TCS  016577 
+ Valor de existir : 0
+392   TCS  016577 
+ Valor de existir : 0
+393   TCS  016577 
+ Valor de existir : 0
+394   TCS  016577 
+ Valor de existir : 0
+395   TCS  016577 
+ Valor de existir : 0
+396   TCS  016577 
+ Valor de existir : 0
+397   TCS  016577 
+ Valor de existir : 0
+398   TCS  016577 
+ Valor de existir : 0
+399   TCS  016577 
+ Valor de existir : 0
+400   TCS  016577 
+ Valor de existir : 0
+401   TCS  016577 
+ Valor de existir : 0
+402   TCS  016577 
+ Valor de existir : 0
+403   TCS  016577 
+ Valor de existir : 0
+404   TCS  016577 
+ Valor de existir : 0
+405   TCS  016577 
+ Valor de existir : 0
+406   TCS  016577 
+ Valor de existir : 0
+407   TCS  016577 
+ Valor de existir : 0
+408   TCS  016577 
+ Valor de existir : 0
+409   TCS  016577 
+ Valor de existir : 0
+410   TCS  016577 
+ Valor de existir : 0
+411   TCS  016577 
+ Valor de existir : 0
+412   TCS  016577 
+ Valor de existir : 0
+413   TCS  016577 
+ Valor de existir : 0
+414   TCS  016577 
+ Valor de existir : 0
+415   TCS  016577 
+ Valor de existir : 0
+416   TCS  016577 
+ Valor de existir : 0
+417   TCS  016577 
+ Valor de existir : 0
+418   TCS  016577 
+ Valor de existir : 0
+419   TCS  016577 
+ Valor de existir : 0
+420   TCS  016577 
+ Valor de existir : 0
+421   TCS  016577 
+ Valor de existir : 0
+422   TCS  016577 
+ Valor de existir : 0
+423   TCS  016577 
+ Valor de existir : 0
+424   TCS  016577 
+ Valor de existir : 0
+425   TCS  016577 
+ Valor de existir : 0
+426   TCS  016577 
+ Valor de existir : 0
+427   TCS  016577 
+ Valor de existir : 0
+428   TCS  016577 
+ Valor de existir : 0
+429   TCS  016577 
+ Valor de existir : 0
+430   TCS  016577 
+ Valor de existir : 0
+431   TCS  016577 
+ Valor de existir : 0
+432   TCS  016577 
+ Valor de existir : 0
+433   TCS  016577 
+ Valor de existir : 0
+434   TCS  016577 
+ Valor de existir : 0
+435   TCS  016577 
+ Valor de existir : 0
+436   TCS  016577 
+ Valor de existir : 0
+437   TCS  016577 
+ Valor de existir : 0
+438   TCS  016577 
+ Valor de existir : 0
+439   TCS  016577 
+ Valor de existir : 0
+440   TCS  016577 
+ Valor de existir : 0
+441   TCS  016577 
+ Valor de existir : 0
+442   TCS  016577 
+ Valor de existir : 0
+443   TCS  016577 
+ Valor de existir : 0
+444   TCS  016577 
+ Valor de existir : 0
+445   TCS  016577 
+ Valor de existir : 0
+446   TCS  016577 
+ Valor de existir : 0
+447   TCS  016577 
+ Valor de existir : 0
+448   TCS  016577 
+ Valor de existir : 0
+449   TCS  016577 
+ Valor de existir : 0
+450   TCS  016577 
+ Valor de existir : 0
+451   TCS  016577 
+ Valor de existir : 0
+452   TCS  016577 
+ Valor de existir : 0
+453   TCS  016577 
+ Valor de existir : 0
+454   TCS  016577 
+ Valor de existir : 0
+455   TCS  016577 
+ Valor de existir : 0
+456   TCS  016577 
+ Valor de existir : 0
+457   TCS  016577 
+ Valor de existir : 0
+458   TCS  016577 
+ Valor de existir : 0
+459   TCS  016577 
+ Valor de existir : 0
+460   TCS  016577 
+ Valor de existir : 0
+461   TCS  016577 
+ Valor de existir : 0
+462   TCS  016577 
+ Valor de existir : 0
+463   TCS  016577 
+ Valor de existir : 0
+464   TCS  016577 
+ Valor de existir : 0
+465   TCS  016577 
+ Valor de existir : 0
+466   TCS  016577 
+ Valor de existir : 0
+467   TCS  016577 
+ Valor de existir : 0
+468   TCS  016577 
+ Valor de existir : 0
+469   TCS  016577 
+ Valor de existir : 0
+470   TCS  016577 
+ Valor de existir : 0
+471   TCS  016577 
+ Valor de existir : 0
+472   TCS  016577 
+ Valor de existir : 0
+473   TCS  016577 
+ Valor de existir : 0
+474   TCS  016577 
+ Valor de existir : 0
+475   TCS  016577 
+ Valor de existir : 0
+476   TCS  016577 
+ Valor de existir : 0
+477   TCS  016577 
+ Valor de existir : 0
+478   TCS  016577 
+ Valor de existir : 0
+479   TCS  016577 
+ Valor de existir : 0
+480   TCS  016577 
+ Valor de existir : 0
+481   TCS  016577 
+ Valor de existir : 0
+482   TCS  016577 
+ Valor de existir : 0
+483   TCS  016577 
+ Valor de existir : 0
+484   TCS  016577 
+ Valor de existir : 0
+485   TCS  016577 
+ Valor de existir : 0
+486   TCS  016577 
+ Valor de existir : 0
+487   TCS  016577 
+ Valor de existir : 0
+488   TCS  016577 
+ Valor de existir : 0
+489   TCS  016577 
+ Valor de existir : 0
+490   TCS  016577 
+ Valor de existir : 0
+491   TCS  016577 
+ Valor de existir : 0
+492   TCS  016577 
+ Valor de existir : 0
+493   TCS  016577 
+ Valor de existir : 0
+494   TCS  016577 
+ Valor de existir : 0
+495   TCS  016577 
+ Valor de existir : 0
+496   TCS  016577 
+ Valor de existir : 0
+497   TCS  016577 
+ Valor de existir : 0
+498   TCS  016577 
+ Valor de existir : 0
+499   TCS  016577 
+ Valor de existir : 0
+500   TCS  016577 
+ Valor de existir : 0
+501   TCS  016577 
+ Valor de existir : 0
+502   TCS  016577 
+ Valor de existir : 0
+503   TCS  016577 
+ Valor de existir : 0
+504   TCS  016577 
+ Valor de existir : 0
+505   TCS  016577 
+ Valor de existir : 0
+506   TCS  016577 
+ Valor de existir : 0
+507   TCS  016577 
+ Valor de existir : 0
+508   TCS  016577 
+ Valor de existir : 0
+509   TCS  016577 
+ Valor de existir : 0
+510   TCS  016577 
+ Valor de existir : 0
+511   TCS  016577 
+ Valor de existir : 0
+512   TCS  016577 
+ Valor de existir : 0
+513   TCS  016577 
+ Valor de existir : 0
+514   TCS  016577 
+ Valor de existir : 0
+515   TCS  016577 
+ Valor de existir : 0
+516   TCS  016577 
+ Valor de existir : 0
+517   TCS  016577 
+ Valor de existir : 0
+518   TCS  016577 
+ Valor de existir : 0
+519   TCS  016577 
+ Valor de existir : 0
+520   TCS  016577 
+ Valor de existir : 0
+521   TCS  016577 
+ Valor de existir : 0
+522   TCS  016577 
+ Valor de existir : 0
+523   TCS  016577 
+ Valor de existir : 0
+524   TCS  016577 
+ Valor de existir : 0
+525   TCS  016577 
+ Valor de existir : 0
+526   TCS  016577 
+ Valor de existir : 0
+527   TCS  016577 
+ Valor de existir : 0
+528   TCS  016577 
+ Valor de existir : 0
+529   TCS  016577 
+ Valor de existir : 0
+530   TCS  016577 
+ Valor de existir : 0
+531   TCS  016577 
+ Valor de existir : 0
+532   TCS  016577 
+ Valor de existir : 0
+533   TCS  016577 
+ Valor de existir : 0
+534   TCS  016577 
+ Valor de existir : 0
+535   TCS  016577 
+ Valor de existir : 0
+536   TCS  016577 
+ Valor de existir : 0
+537   TCS  016577 
+ Valor de existir : 0
+538   TCS  016577 
+ Valor de existir : 0
+539   TCS  016577 
+ Valor de existir : 0
+540   TCS  016577 
+ Valor de existir : 0
+541   TCS  016577 
+ Valor de existir : 0
+542   TCS  016577 
+ Valor de existir : 0
+543   TCS  016577 
+ Valor de existir : 0
+544   TCS  016577 
+ Valor de existir : 0
+545   TCS  016577 
+ Valor de existir : 0
+546   TCS  016577 
+ Valor de existir : 0
+547   TCS  016577 
+ Valor de existir : 0
+548   TCS  016577 
+ Valor de existir : 0
+549   TCS  016577 
+ Valor de existir : 0
+550   TCS  016577 
+ Valor de existir : 0
+551   TCS  016577 
+ Valor de existir : 0
+552   TCS  016577 
+ Valor de existir : 0
+553   TCS  016577 
+ Valor de existir : 0
+554   TCS  016577 
+ Valor de existir : 0
+555   TCS  016577 
+ Valor de existir : 0
+556   TCS  016577 
+ Valor de existir : 0
+557   TCS  016577 
+ Valor de existir : 0
+558   TCS  016577 
+ Valor de existir : 0
+559   TCS  016577 
+ Valor de existir : 0
+560   TCS  016577 
+ Valor de existir : 0
+561   TCS  016577 
+ Valor de existir : 0
+562   TCS  016577 
+ Valor de existir : 0
+563   TCS  016577 
+ Valor de existir : 0
+564   TCS  016577 
+ Valor de existir : 0
+565   TCS  016577 
+ Valor de existir : 0
+566   TCS  016577 
+ Valor de existir : 0
+567   TCS  016577 
+ Valor de existir : 0
+568   TCS  016577 
+ Valor de existir : 0
+569   TCS  016577 
+ Valor de existir : 0
+570   TCS  016577 
+ Valor de existir : 0
+571   TCS  016577 
+ Valor de existir : 0
+572   TCS  016577 
+ Valor de existir : 0
+573   TCS  016577 
+ Valor de existir : 0
+574   TCS  016577 
+ Valor de existir : 0
+575   TCS  016577 
+ Valor de existir : 0
+576   TCS  016577 
+ Valor de existir : 0
+577   TCS  016577 
+ Valor de existir : 0
+578   TCS  016577 
+ Valor de existir : 0
+579   TCS  016577 
+ Valor de existir : 0
+580   TCS  016577 
+ Valor de existir : 0
+581   TCS  016577 
+ Valor de existir : 0
+582   TCS  016577 
+ Valor de existir : 0
+583   TCS  016577 
+ Valor de existir : 0
+584   TCS  016577 
+ Valor de existir : 0
+585   TCS  016577 
+ Valor de existir : 0
+586   TCS  016577 
+ Valor de existir : 0
+587   TCS  016577 
+ Valor de existir : 0
+588   TCS  016577 
+ Valor de existir : 0
+589   TCS  016577 
+ Valor de existir : 0
+590   TCS  016577 
+ Valor de existir : 0
+591   TCS  016577 
+ Valor de existir : 0
+592   TCS  016577 
+ Valor de existir : 0
+593   TCS  016577 
+ Valor de existir : 0
+594   TCS  016577 
+ Valor de existir : 0
+595   TCS  016577 
+ Valor de existir : 0
+596   TCS  016577 
+ Valor de existir : 0
+597   TCS  016577 
+ Valor de existir : 0
+598   TCS  016577 
+ Valor de existir : 0
+599   TCS  016577 
+ Valor de existir : 0
+600   TCS  016577 
+ Valor de existir : 0
+601   TCS  016577 
+ Valor de existir : 0
+602   TCS  016577 
+ Valor de existir : 0
+603   TCS  016577 
+ Valor de existir : 0
+604   TCS  016577 
+ Valor de existir : 0
+605   TCS  016577 
+ Valor de existir : 0
+606   TCS  016577 
+ Valor de existir : 0
+607   TCS  016577 
+ Valor de existir : 0
+608   TCS  016577 
+ Valor de existir : 0
+609   TCS  016577 
+ Valor de existir : 0
+610   TCS  016577 
+ Valor de existir : 0
+611   TCS  016577 
+ Valor de existir : 0
+612   TCS  016577 
+ Valor de existir : 0
+613   TCS  016577 
+ Valor de existir : 0
+614   TCS  016577 
+ Valor de existir : 0
+615   TCS  016577 
+ Valor de existir : 0
+616   TCS  016577 
+ Valor de existir : 0
+617   TCS  016577 
+ Valor de existir : 0
+618   TCS  016577 
+ Valor de existir : 0
+619   TCS  016577 
+ Valor de existir : 0
+620   TCS  016577 
+ Valor de existir : 0
+621   TCS  016577 
+ Valor de existir : 0
+622   TCS  016577 
+ Valor de existir : 0
+623   TCS  016577 
+ Valor de existir : 0
+624   TCS  016577 
+ Valor de existir : 0
+625   TCS  016577 
+ Valor de existir : 0
+626   TCS  016577 
+ Valor de existir : 0
+627   TCS  016577 
+ Valor de existir : 0
+628   TCS  016577 
+ Valor de existir : 0
+629   TCS  016577 
+ Valor de existir : 0
+630   TCS  016577 
+ Valor de existir : 0
+631   TCS  016577 
+ Valor de existir : 0
+632   TCS  016577 
+ Valor de existir : 0
+633   TCS  016577 
+ Valor de existir : 0
+634   TCS  016577 
+ Valor de existir : 0
+635   TCS  016577 
+ Valor de existir : 0
+636   TCS  016577 
+ Valor de existir : 0
+637   TCS  016577 
+ Valor de existir : 0
+638   TCS  016577 
+ Valor de existir : 0
+639   TCS  016577 
+ Valor de existir : 0
+640   TCS  016577 
+ Valor de existir : 0
+641   TCS  016577 
+ Valor de existir : 0
+642   TCS  016577 
+ Valor de existir : 0
+643   TCS  016577 
+ Valor de existir : 0
+644   TCS  016577 
+ Valor de existir : 0
+645   TCS  016577 
+ Valor de existir : 0
+646   TCS  016577 
+ Valor de existir : 0
+647   TCS  016577 
+ Valor de existir : 0
+648   TCS  016577 
+ Valor de existir : 0
+649   TCS  016577 
+ Valor de existir : 0
+650   TCS  016577 
+ Valor de existir : 0
+651   TCS  016577 
+ Valor de existir : 0
+652   TCS  016577 
+ Valor de existir : 0
+653   TCS  016577 
+ Valor de existir : 0
+654   TCS  016577 
+ Valor de existir : 0
+655   TCS  016577 
+ Valor de existir : 0
+656   TCS  016577 
+ Valor de existir : 0
+657   TCS  016577 
+ Valor de existir : 0
+658   TCS  016577 
+ Valor de existir : 0
+659   TCS  016577 
+ Valor de existir : 0
+660   TCS  016577 
+ Valor de existir : 0
+661   TCS  016577 
+ Valor de existir : 0
+662   TCS  016577 
+ Valor de existir : 0
+663   TCS  016577 
+ Valor de existir : 0
+664   TCS  016577 
+ Valor de existir : 0
+665   TCS  016577 
+ Valor de existir : 0
+666   TCS  016577 
+ Valor de existir : 0
+667   TCS  016577 
+ Valor de existir : 0
+668   TCS  016577 
+ Valor de existir : 0
+669   TCS  016577 
+ Valor de existir : 0
+670   TCS  016577 
+ Valor de existir : 0
+671   TCS  016577 
+ Valor de existir : 0
+672   TCS  016577 
+ Valor de existir : 0
+673   TCS  016577 
+ Valor de existir : 0
+674   TCS  016577 
+ Valor de existir : 0
+675   TCS  016577 
+ Valor de existir : 0
+676   TCS  016577 
+ Valor de existir : 0
+677   TCS  016577 
+ Valor de existir : 0
+678   TCS  016577 
+ Valor de existir : 0
+679   TCS  016577 
+ Valor de existir : 0
+680   TCS  016577 
+ Valor de existir : 0
+681   TCS  016577 
+ Valor de existir : 0
+682   TCS  016577 
+ Valor de existir : 0
+683   TCS  016577 
+ Valor de existir : 0
+684   TCS  016577 
+ Valor de existir : 0
+685   TCS  016577 
+ Valor de existir : 0
+686   TCS  016577 
+ Valor de existir : 0
+687   TCS  016577 
+ Valor de existir : 0
+688   TCS  016577 
+ Valor de existir : 0
+689   TCS  016577 
+ Valor de existir : 0
+690   TCS  016577 
+ Valor de existir : 0
+691   TCS  016577 
+ Valor de existir : 0
+692   TCS  016577 
+ Valor de existir : 0
+693   TCS  016577 
+ Valor de existir : 0
+694   TCS  016577 
+ Valor de existir : 0
+695   TCS  016577 
+ Valor de existir : 0
+696   TCS  016577 
+ Valor de existir : 0
+697   TCS  016577 
+ Valor de existir : 0
+698   TCS  016577 
+ Valor de existir : 0
+699   TCS  016577 
+ Valor de existir : 0
+700   TCS  016577 
+ Valor de existir : 0
+701   TCS  016577 
+ Valor de existir : 0
+702   TCS  016577 
+ Valor de existir : 0
+703   TCS  016577 
+ Valor de existir : 0
+704   TCS  016577 
+ Valor de existir : 0
+705   TCS  016577 
+ Valor de existir : 0
+706   TCS  016577 
+ Valor de existir : 0
+707   TCS  016577 
+ Valor de existir : 0
+708   TCS  016577 
+ Valor de existir : 0
+709   TCS  016577 
+ Valor de existir : 0
+710   TCS  016577 
+ Valor de existir : 0
+711   TCS  016577 
+ Valor de existir : 0
+712   TCS  016577 
+ Valor de existir : 0
+713   TCS  016577 
+ Valor de existir : 0
+714   TCS  016577 
+ Valor de existir : 0
+715   TCS  016577 
+ Valor de existir : 0
+716   TCS  016577 
+ Valor de existir : 0
+717   TCS  016577 
+ Valor de existir : 0
+718   TCS  016577 
+ Valor de existir : 0
+719   TCS  016577 
+ Valor de existir : 0
+720   TCS  016577 
+ Valor de existir : 0
+721   TCS  016577 
+ Valor de existir : 0
+722   TCS  016577 
+ Valor de existir : 0
+723   TCS  016577 
+ Valor de existir : 0
+724   TCS  016577 
+ Valor de existir : 0
+725   TCS  016577 
+ Valor de existir : 0
+726   TCS  016577 
+ Valor de existir : 0
+727   TCS  016577 
+ Valor de existir : 0
+728   TCS  016577 
+ Valor de existir : 0
+729   TCS  016577 
+ Valor de existir : 0
+730   TCS  016577 
+ Valor de existir : 0
+731   TCS  016577 
+ Valor de existir : 0
+732   TCS  016577 
+ Valor de existir : 0
+733   TCS  016577 
+ Valor de existir : 0
+734   TCS  016577 
+ Valor de existir : 0
+735   TCS  016577 
+ Valor de existir : 0
+736   TCS  016577 
+ Valor de existir : 0
+737   TCS  016577 
+ Valor de existir : 0
+738   TCS  016577 
+ Valor de existir : 0
+739   TCS  016577 
+ Valor de existir : 0
+740   TCS  016577 
+ Valor de existir : 0
+741   TCS  016577 
+ Valor de existir : 0
+742   TCS  016577 
+ Valor de existir : 0
+743   TCS  016577 
+ Valor de existir : 0
+744   TCS  016577 
+ Valor de existir : 0
+745   TCS  016577 
+ Valor de existir : 0
+746   TCS  016577 
+ Valor de existir : 0
+747   TCS  016577 
+ Valor de existir : 0
+748   TCS  016577 
+ Valor de existir : 0
+749   TCS  016577 
+ Valor de existir : 0
+750   TCS  016577 
+ Valor de existir : 0
+751   TCS  016577 
+ Valor de existir : 0
+752   TCS  016577 
+ Valor de existir : 0
+753   TCS  016577 
+ Valor de existir : 0
+754   TCS  016577 
+ Valor de existir : 0
+755   TCS  016577 
+ Valor de existir : 0
+756   TCS  016577 
+ Valor de existir : 0
+757   TCS  016577 
+ Valor de existir : 0
+758   TCS  016577 
+ Valor de existir : 0
+759   TCS  016577 
+ Valor de existir : 0
+760   TCS  016577 
+ Valor de existir : 0
+761   TCS  016577 
+ Valor de existir : 0
+762   TCS  016577 
+ Valor de existir : 0
+763   TCS  016577 
+ Valor de existir : 0
+764   TCS  016577 
+ Valor de existir : 0
+765   TCS  016577 
+ Valor de existir : 0
+766   TCS  016577 
+ Valor de existir : 0
+767   TCS  016577 
+ Valor de existir : 0
+768   TCS  016577 
+ Valor de existir : 0
+769   TCS  016577 
+ Valor de existir : 0
+770   TCS  016577 
+ Valor de existir : 0
+771   TCS  016577 
+ Valor de existir : 0
+772   TCS  016577 
+ Valor de existir : 0
+773   TCS  016577 
+ Valor de existir : 0
+774   TCS  016577 
+ Valor de existir : 0
+775   TCS  016577 
+ Valor de existir : 0
+776   TCS  016577 
+ Valor de existir : 0
+777   TCS  016577 
+ Valor de existir : 0
+778   TCS  016577 
+ Valor de existir : 0
+779   TCS  016577 
+ Valor de existir : 0
+780   TCS  016577 
+ Valor de existir : 0
+781   TCS  016577 
+ Valor de existir : 0
+782   TCS  016577 
+ Valor de existir : 0
+783   TCS  016577 
+ Valor de existir : 0
+784   TCS  016577 
+ Valor de existir : 0
+785   TCS  016577 
+ Valor de existir : 0
+786   TCS  016577 
+ Valor de existir : 0
+787   TCS  016577 
+ Valor de existir : 0
+788   TCS  016577 
+ Valor de existir : 0
+789   TCS  016577 
+ Valor de existir : 0
+790   TCS  016577 
+ Valor de existir : 0
+791   TCS  016577 
+ Valor de existir : 0
+792   TCS  016577 
+ Valor de existir : 0
+793   TCS  016577 
+ Valor de existir : 0
+794   TCS  016577 
+ Valor de existir : 0
+795   TCS  016577 
+ Valor de existir : 0
+796   TCS  016577 
+ Valor de existir : 0
+797   TCS  016577 
+ Valor de existir : 0
+798   TCS  016577 
+ Valor de existir : 0
+799   TCS  016577 
+ Valor de existir : 0
+800   TCS  016577 
+ Valor de existir : 0
+801   TCS  016577 
+ Valor de existir : 0
+802   TCS  016577 
+ Valor de existir : 0
+803   TCS  016577 
+ Valor de existir : 0
+804   TCS  016577 
+ Valor de existir : 0
+805   TCS  016577 
+ Valor de existir : 0
+806   TCS  016577 
+ Valor de existir : 0
+807   TCS  016577 
+ Valor de existir : 0
+808   TCS  016577 
+ Valor de existir : 0
+809   TCS  016577 
+ Valor de existir : 0
+810   TCS  016577 
+ Valor de existir : 0
+811   TCS  016577 
+ Valor de existir : 0
+812   TCS  016577 
+ Valor de existir : 0
+813   TCS  016577 
+ Valor de existir : 0
+814   TCS  016577 
+ Valor de existir : 0
+815   TCS  016577 
+ Valor de existir : 0
+816   TCS  016577 
+ Valor de existir : 0
+817   TCS  016577 
+ Valor de existir : 0
+818   TCS  016577 
+ Valor de existir : 0
+819   TCS  016577 
+ Valor de existir : 0
+820   TCS  016577 
+ Valor de existir : 0
+821   TCS  016577 
+ Valor de existir : 0
+822   TCS  016577 
+ Valor de existir : 0
+823   TCS  016577 
+ Valor de existir : 0
+824   TCS  016577 
+ Valor de existir : 0
+825   TCS  016577 
+ Valor de existir : 0
+826   TCS  016577 
+ Valor de existir : 0
+827   TCS  016577 
+ Valor de existir : 0
+828   TCS  016577 
+ Valor de existir : 0
+829   TCS  016577 
+ Valor de existir : 0
+830   TCS  016577 
+ Valor de existir : 0
+831   TCS  016577 
+ Valor de existir : 0
+832   TCS  016577 
+ Valor de existir : 0
+833   TCS  016577 
+ Valor de existir : 0
+834   TCS  016577 
+ Valor de existir : 0
+835   TCS  016577 
+ Valor de existir : 0
+836   TCS  016577 
+ Valor de existir : 0
+837   TCS  016577 
+ Valor de existir : 0
+838   TCS  016577 
+ Valor de existir : 0
+839   TCS  016577 
+ Valor de existir : 0
+840   TCS  016577 
+ Valor de existir : 0
+841   TCS  016577 
+ Valor de existir : 0
+842   TCS  016577 
+ Valor de existir : 0
+843   TCS  016577 
+ Valor de existir : 0
+844   TCS  016577 
+ Valor de existir : 0
+845   TCS  016577 
+ Valor de existir : 0
+846   TCS  016577 
+ Valor de existir : 0
+847   TCS  016577 
+ Valor de existir : 0
+848   TCS  016577 
+ Valor de existir : 0
+849   TCS  016577 
+ Valor de existir : 0
+850   TCS  016577 
+ Valor de existir : 0
+851   TCS  016577 
+ Valor de existir : 0
+852   TCS  016577 
+ Valor de existir : 0
+853   TCS  016577 
+ Valor de existir : 0
+854   TCS  016577 
+ Valor de existir : 0
+855   TCS  016577 
+ Valor de existir : 0
+856   TCS  016577 
+ Valor de existir : 0
+857   TCS  016577 
+ Valor de existir : 0
+858   TCS  016577 
+ Valor de existir : 0
+859   TCS  016577 
+ Valor de existir : 0
+860   TCS  016577 
+ Valor de existir : 0
+861   TCS  016577 
+ Valor de existir : 0
+862   TCS  016577 
+ Valor de existir : 0
+863   TCS  016577 
+ Valor de existir : 0
+864   TCS  016577 
+ Valor de existir : 0
+865   TCS  016577 
+ Valor de existir : 0
+866   TCS  016577 
+ Valor de existir : 0
+867   TCS  016577 
+ Valor de existir : 0
+868   TCS  016577 
+ Valor de existir : 0
+869   TCS  016577 
+ Valor de existir : 0
+870   TCS  016577 
+ Valor de existir : 0
+871   TCS  016577 
+ Valor de existir : 0
+872   TCS  016577 
+ Valor de existir : 0
+873   TCS  016577 
+ Valor de existir : 0
+874   TCS  016577 
+ Valor de existir : 0
+875   TCS  016577 
+ Valor de existir : 0
+876   TCS  016577 
+ Valor de existir : 0
+877   TCS  016577 
+ Valor de existir : 0
+878   TCS  016577 
+ Valor de existir : 0
+879   TCS  016577 
+ Valor de existir : 0
+880   TCS  016577 
+ Valor de existir : 0
+881   TCS  016577 
+ Valor de existir : 0
+882   TCS  016577 
+ Valor de existir : 0
+883   TCS  016577 
+ Valor de existir : 0
+884   TCS  016577 
+ Valor de existir : 0
+885   TCS  016577 
+ Valor de existir : 0
+886   TCS  016577 
+ Valor de existir : 0
+887   TCS  016577 
+ Valor de existir : 0
+888   TCS  016577 
+ Valor de existir : 0
+889   TCS  016577 
+ Valor de existir : 0
+890   TCS  016577 
+ Valor de existir : 0
+891   TCS  016577 
+ Valor de existir : 0
+892   TCS  016577 
+ Valor de existir : 0
+893   TCS  016577 
+ Valor de existir : 0
+894   TCS  016577 
+ Valor de existir : 0
+895   TCS  016577 
+ Valor de existir : 0
+896   TCS  016577 
+ Valor de existir : 0
+897   TCS  016577 
+ Valor de existir : 0
+898   TCS  016577 
+ Valor de existir : 0
+899   TCS  016577 
+ Valor de existir : 0
+900   TCS  016577 
+ Valor de existir : 0
+901   TCS  016577 
+ Valor de existir : 0
+902   TCS  016577 
+ Valor de existir : 0
+903   TCS  016577 
+ Valor de existir : 0
+904   TCS  016577 
+ Valor de existir : 0
+905   TCS  016577 
+ Valor de existir : 0
+906   TCS  016577 
+ Valor de existir : 0
+907   TCS  016577 
+ Valor de existir : 0
+908   TCS  016577 
+ Valor de existir : 0
+909   TCS  016577 
+ Valor de existir : 0
+910   TCS  016577 
+ Valor de existir : 0
+911   TCS  016577 
+ Valor de existir : 0
+912   TCS  016577 
+ Valor de existir : 0
+913   TCS  016577 
+ Valor de existir : 0
+914   TCS  016577 
+ Valor de existir : 0
+915   TCS  016577 
+ Valor de existir : 0
+916   TCS  016577 
+ Valor de existir : 0
+917   TCS  016577 
+ Valor de existir : 0
+918   TCS  016577 
+ Valor de existir : 0
+919   TCS  016577 
+ Valor de existir : 0
+920   TCS  016577 
+ Valor de existir : 0
+921   TCS  016577 
+ Valor de existir : 0
+922   TCS  016577 
+ Valor de existir : 0
+923   TCS  016577 
+ Valor de existir : 0
+924   TCS  016577 
+ Valor de existir : 0
+925   TCS  016577 
+ Valor de existir : 0
+926   TCS  016577 
+ Valor de existir : 0
+927   TCS  016577 
+ Valor de existir : 0
+928   TCS  016577 
+ Valor de existir : 0
+929   TCS  016577 
+ Valor de existir : 0
+930   TCS  016577 
+ Valor de existir : 0
+931   TCS  016577 
+ Valor de existir : 0
+932   TCS  016577 
+ Valor de existir : 0
+933   TCS  016577 
+ Valor de existir : 0
+934   TCS  016577 
+ Valor de existir : 0
+935   TCS  016577 
+ Valor de existir : 0
+936   TCS  016577 
+ Valor de existir : 0
+937   TCS  016577 
+ Valor de existir : 0
+938   TCS  016577 
+ Valor de existir : 0
+939   TCS  016577 
+ Valor de existir : 0
+940   TCS  016577 
+ Valor de existir : 0
+941   TCS  016577 
+ Valor de existir : 0
+942   TCS  016577 
+ Valor de existir : 0
+943   TCS  016577 
+ Valor de existir : 0
+944   TCS  016577 
+ Valor de existir : 0
+945   TCS  016577 
+ Valor de existir : 0
+946   TCS  016577 
+ Valor de existir : 0
+947   TCS  016577 
+ Valor de existir : 0
+948   TCS  016577 
+ Valor de existir : 0
+949   TCS  016577 
+ Valor de existir : 0
+950   TCS  016577 
+ Valor de existir : 0
+951   TCS  016577 
+ Valor de existir : 0
+952   TCS  016577 
+ Valor de existir : 0
+953   TCS  016577 
+ Valor de existir : 0
+954   TCS  016577 
+ Valor de existir : 0
+955   TCS  016577 
+ Valor de existir : 0
+956   TCS  016577 
+ Valor de existir : 0
+957   TCS  016577 
+ Valor de existir : 0
+958   TCS  016577 
+ Valor de existir : 0
+959   TCS  016577 
+ Valor de existir : 0
+960   TCS  016577 
+ Valor de existir : 0
+961   TCS  016577 
+ Valor de existir : 0
+962   TCS  016577 
+ Valor de existir : 0
+963   TCS  016577 
+ Valor de existir : 0
+964   TCS  016577 
+ Valor de existir : 0
+965   TCS  016577 
+ Valor de existir : 0
+966   TCS  016577 
+ Valor de existir : 0
+967   TCS  016577 
+ Valor de existir : 0
+968   TCS  016577 
+ Valor de existir : 0
+969   TCS  016577 
+ Valor de existir : 0
+970   TCS  016577 
+ Valor de existir : 0
+971   TCS  016577 
+ Valor de existir : 0
+972   TCS  016577 
+ Valor de existir : 0
+973   TCS  016577 
+ Valor de existir : 0
+974   TCS  016577 
+ Valor de existir : 0
+975   TCS  016577 
+ Valor de existir : 0
+976   TCS  016577 
+ Valor de existir : 0
+977   TCS  016577 
+ Valor de existir : 0
+978   TCS  016577 
+ Valor de existir : 0
+979   TCS  016577 
+ Valor de existir : 0
+980   TCS  016577 
+ Valor de existir : 0
+981   TCS  016577 
+ Valor de existir : 0
+982   TCS  016577 
+ Valor de existir : 0
+983   TCS  016577 
+ Valor de existir : 0
+984   TCS  016577 
+ Valor de existir : 0
+985   TCS  016577 
+ Valor de existir : 0
+986   TCS  016577 
+ Valor de existir : 0
+987   TCS  016577 
+ Valor de existir : 0
+988   TCS  016577 
+ Valor de existir : 0
+989   TCS  016577 
+ Valor de existir : 0
+990   TCS  016577 
+ Valor de existir : 0
+991   TCS  016577 
+ Valor de existir : 0
+992   TCS  016577 
+ Valor de existir : 0
+993   TCS  016577 
+ Valor de existir : 0
+994   TCS  016577 
+ Valor de existir : 0
+995   TCS  016577 
+ Valor de existir : 0
+996   TCS  016577 
+ Valor de existir : 0
+997   TCS  016577 
+ Valor de existir : 0
+998   TCS  016577 
+ Valor de existir : 0
+999   TCS  016577 
+ Valor de existir : 0
+1000   TCS  016577 
+ Valor de existir : 0
+1001   TCS  016577 
+ Valor de existir : 0
+1002   TCS  016577 
+ Valor de existir : 0
+1003   TCS  016577 
+ Valor de existir : 0
+1004   TCS  016577 
+ Valor de existir : 0
+1005   TCS  016577 
+ Valor de existir : 0
+1006   TCS  016577 
+ Valor de existir : 0
+1007   TCS  016577 
+ Valor de existir : 0
+1008   TCS  016577 
+ Valor de existir : 0
+1009   TCS  016577 
+ Valor de existir : 0
+1010   TCS  016577 
+ Valor de existir : 0
+1011   TCS  016577 
+ Valor de existir : 0
+1012   TCS  016577 
+ Valor de existir : 0
+1013   TCS  016577 
+ Valor de existir : 0
+1014   TCS  016577 
+ Valor de existir : 0
+1015   TCS  016577 
+ Valor de existir : 0
+1016   TCS  016577 
+ Valor de existir : 0
+1017   TCS  016577 
+ Valor de existir : 0
+1018   TCS  016577 
+ Valor de existir : 0
+1019   TCS  016577 
+ Valor de existir : 0
+1020   TCS  016577 
+ Valor de existir : 0
+1021   TCS  016577 
+ Valor de existir : 0
+1022   TCS  016577 
+ Valor de existir : 0
+1023   TCS  016577 
+ Valor de existir : 0
+1024   TCS  016577 
+ Valor de existir : 0
+1025   TCS  016577 
+ Valor de existir : 0
+1026   TCS  016577 
+ Valor de existir : 0
+1027   TCS  016577 
+ Valor de existir : 0
+1028   TCS  016577 
+ Valor de existir : 0
+1029   TCS  016577 
+ Valor de existir : 0
+1030   TCS  016577 
+ Valor de existir : 0
+1031   TCS  016577 
+ Valor de existir : 0
+1032   TCS  016577 
+ Valor de existir : 0
+1033   TCS  016577 
+ Valor de existir : 0
+1034   TCS  016577 
+ Valor de existir : 0
+1035   TCS  016577 
+ Valor de existir : 0
+1036   TCS  016577 
+ Valor de existir : 0
+1037   TCS  016577 
+ Valor de existir : 0
+1038   TCS  016577 
+ Valor de existir : 0
+1039   TCS  016577 
+ Valor de existir : 0
+1040   TCS  016577 
+ Valor de existir : 0
+1041   TCS  016577 
+ Valor de existir : 0
+1042   TCS  016577 
+ Valor de existir : 0
+1043   TCS  016577 
+ Valor de existir : 0
+1044   TCS  016577 
+ Valor de existir : 0
+1045   TCS  016577 
+ Valor de existir : 0
+1046   TCS  016577 
+ Valor de existir : 0
+1047   TCS  016577 
+ Valor de existir : 0
+1048   TCS  016577 
+ Valor de existir : 0
+1049   TCS  016577 
+ Valor de existir : 0
+1050   TCS  016577 
+ Valor de existir : 0
+1051   TCS  016577 
+ Valor de existir : 0
+1052   TCS  016577 
+ Valor de existir : 0
+1053   TCS  016577 
+ Valor de existir : 0
+1054   TCS  016577 
+ Valor de existir : 0
+1055   TCS  016577 
+ Valor de existir : 0
+1056   TCS  016577 
+ Valor de existir : 0
+1057   TCS  016577 
+ Valor de existir : 0
+1058   TCS  016577 
+ Valor de existir : 0
+1059   TCS  016577 
+ Valor de existir : 0
+1060   TCS  016577 
+ Valor de existir : 0
+1061   TCS  016577 
+ Valor de existir : 0
+1062   TCS  016577 
+ Valor de existir : 0
+1063   TCS  016577 
+ Valor de existir : 0
+1064   TCS  016577 
+ Valor de existir : 0
+1065   TCS  016577 
+ Valor de existir : 0
+1066   TCS  016577 
+ Valor de existir : 0
+1067   TCS  016577 
+ Valor de existir : 0
+1068   TCS  016577 
+ Valor de existir : 0
+1069   TCS  016577 
+ Valor de existir : 0
+1070   TCS  016577 
+ Valor de existir : 0
+1071   TCS  016577 
+ Valor de existir : 0
+1072   TCS  016577 
+ Valor de existir : 0
+1073   TCS  016577 
+ Valor de existir : 0
+1074   TCS  016577 
+ Valor de existir : 0
+1075   TCS  016577 
+ Valor de existir : 0
+1076   TCS  016577 
+ Valor de existir : 0
+1077   TCS  016577 
+ Valor de existir : 0
+1078   TCS  016577 
+ Valor de existir : 0
+1079   TCS  016577 
+ Valor de existir : 0
+1080   TCS  016577 
+ Valor de existir : 0
+1081   TCS  016577 
+ Valor de existir : 0
+1082   TCS  016577 
+ Valor de existir : 0
+1083   TCS  016577 
+ Valor de existir : 0
+1084   TCS  016577 
+ Valor de existir : 0
+1085   TCS  016577 
+ Valor de existir : 0
+1086   TCS  016577 
+ Valor de existir : 0
+1087   TCS  016577 
+ Valor de existir : 0
+1088   TCS  016577 
+ Valor de existir : 0
+1089   TCS  016577 
+ Valor de existir : 0
+1090   TCS  016577 
+ Valor de existir : 0
+1091   TCS  016577 
+ Valor de existir : 0
+1092   TCS  016577 
+ Valor de existir : 0
+1093   TCS  016577 
+ Valor de existir : 0
+1094   TCS  016577 
+ Valor de existir : 0
+1095   TCS  016577 
+ Valor de existir : 0
+1096   TCS  016577 
+ Valor de existir : 0
+1097   TCS  016577 
+ Valor de existir : 0
+1098   TCS  016577 
+ Valor de existir : 0
+1099   TCS  016577 
+ Valor de existir : 0
+1100   TCS  016577 
+ Valor de existir : 0
+1101   TCS  016577 
+ Valor de existir : 0
+1102   TCS  016577 
+ Valor de existir : 0
+1103   TCS  016577 
+ Valor de existir : 0
+1104   TCS  016577 
+ Valor de existir : 0
+1105   TCS  016577 
+ Valor de existir : 0
+1106   TCS  016577 
+ Valor de existir : 0
+1107   TCS  016577 
+ Valor de existir : 0
+1108   TCS  016577 
+ Valor de existir : 0
+1109   TCS  016577 
+ Valor de existir : 0
+1110   TCS  016577 
+ Valor de existir : 0
+1111   TCS  016577 
+ Valor de existir : 0
+1112   TCS  016577 
+ Valor de existir : 0
+1113   TCS  016577 
+ Valor de existir : 0
+1114   TCS  016577 
+ Valor de existir : 0
+1115   TCS  016577 
+ Valor de existir : 0
+1116   TCS  016577 
+ Valor de existir : 0
+1117   TCS  016577 
+ Valor de existir : 0
+1118   TCS  016577 
+ Valor de existir : 0
+1119   TCS  016577 
+ Valor de existir : 0
+1120   TCS  016577 
+ Valor de existir : 0
+1121   TCS  016577 
+ Valor de existir : 0
+1122   TCS  016577 
+ Valor de existir : 0
+1123   TCS  016577 
+ Valor de existir : 0
+1124   TCS  016577 
+ Valor de existir : 0
+1125   TCS  016577 
+ Valor de existir : 0
+1126   TCS  016577 
+ Valor de existir : 0
+1127   TCS  016577 
+ Valor de existir : 0
+1128   TCS  016577 
+ Valor de existir : 0
+1129   TCS  016577 
+ Valor de existir : 0
+1130   TCS  016577 
+ Valor de existir : 0
+1131   TCS  016577 
+ Valor de existir : 0
+1132   TCS  016577 
+ Valor de existir : 0
+1133   TCS  016577 
+ Valor de existir : 0
+1134   TCS  016577 
+ Valor de existir : 0
+1135   TCS  016577 
+ Valor de existir : 0
+1136   TCS  016577 
+ Valor de existir : 0
+1137   TCS  016577 
+ Valor de existir : 0
+1138   TCS  016577 
+ Valor de existir : 0
+1139   TCS  016577 
+ Valor de existir : 0
+1140   TCS  016577 
+ Valor de existir : 0
+1141   TCS  016577 
+ Valor de existir : 0
+1142   TCS  016577 
+ Valor de existir : 0
+1143   TCS  016577 
+ Valor de existir : 0
+1144   TCS  016577 
+ Valor de existir : 0
+1145   TCS  016577 
+ Valor de existir : 0
+1146   TCS  016577 
+ Valor de existir : 0
+1147   TCS  016577 
+ Valor de existir : 0
+1148   TCS  016577 
+ Valor de existir : 0
+1149   TCS  016577 
+ Valor de existir : 0
+1150   TCS  016577 
+ Valor de existir : 0
+1151   TCS  016577 
+ Valor de existir : 0
+1152   TCS  016577 
+ Valor de existir : 0
+1153   TCS  016577 
+ Valor de existir : 0
+1154   TCS  016577 
+ Valor de existir : 0
+1155   TCS  016577 
+ Valor de existir : 0
+1156   TCS  016577 
+ Valor de existir : 0
+1157   TCS  016577 
+ Valor de existir : 0
+1158   TCS  016577 
+ Valor de existir : 0
+1159   TCS  016577 
+ Valor de existir : 0
+1160   TCS  016577 
+ Valor de existir : 0
+1161   TCS  016577 
+ Valor de existir : 0
+1162   TCS  016577 
+ Valor de existir : 0
+1163   TCS  016577 
+ Valor de existir : 0
+1164   TCS  016577 
+ Valor de existir : 0
+1165   TCS  016577 
+ Valor de existir : 0
+1166   TCS  016577 
+ Valor de existir : 0
+1167   TCS  016577 
+ Valor de existir : 0
+1168   TCS  016577 
+ Valor de existir : 0
+1169   TCS  016577 
+ Valor de existir : 0
+1170   TCS  016577 
+ Valor de existir : 0
+1171   TCS  016577 
+ Valor de existir : 0
+1172   TCS  016577 
+ Valor de existir : 0
+1173   TCS  016577 
+ Valor de existir : 0
+1174   TCS  016577 
+ Valor de existir : 0
+1175   TCS  016577 
+ Valor de existir : 0
+1176   TCS  016577 
+ Valor de existir : 0
+1177   TCS  016577 
+ Valor de existir : 0
+1178   TCS  016577 
+ Valor de existir : 0
+1179   TCS  016577 
+ Valor de existir : 0
+1180   TCS  016577 
+ Valor de existir : 0
+1181   TCS  016577 
+ Valor de existir : 0
+1182   TCS  016577 
+ Valor de existir : 0
+1183   TCS  016577 
+ Valor de existir : 0
+1184   TCS  016577 
+ Valor de existir : 0
+1185   TCS  016577 
+ Valor de existir : 0
+1186   TCS  016577 
+ Valor de existir : 0
+1187   TCS  016577 
+ Valor de existir : 0
+1188   TCS  016577 
+ Valor de existir : 0
+1189   TCS  016577 
+ Valor de existir : 0
+1190   TCS  016577 
+ Valor de existir : 0
+1191   TCS  016577 
+ Valor de existir : 0
+1192   TCS  016577 
+ Valor de existir : 0
+1193   TCS  016577 
+ Valor de existir : 0
+1194   TCS  016577 
+ Valor de existir : 0
+1195   TCS  016577 
+ Valor de existir : 0
+1196   TCS  016577 
+ Valor de existir : 0
+1197   TCS  016577 
+ Valor de existir : 0
+1198   TCS  016577 
+ Valor de existir : 0
+1199   TCS  016577 
+ Valor de existir : 0
+1200   TCS  016577 
+ Valor de existir : 0
+1201   TCS  016577 
+ Valor de existir : 0
+1202   TCS  016577 
+ Valor de existir : 0
+1203   TCS  016577 
+ Valor de existir : 0
+1204   TCS  016577 
+ Valor de existir : 0
+1205   TCS  016577 
+ Valor de existir : 0
+1206   TCS  016577 
+ Valor de existir : 0
+1207   TCS  016577 
+ Valor de existir : 0
+1208   TCS  016577 
+ Valor de existir : 0
+1209   TCS  016577 
+ Valor de existir : 0
+1210   TCS  016577 
+ Valor de existir : 0
+1211   TCS  016577 
+ Valor de existir : 0
+1212   TCS  016577 
+ Valor de existir : 0
+1213   TCS  016577 
+ Valor de existir : 0
+1214   TCS  016577 
+ Valor de existir : 0
+1215   TCS  016577 
+ Valor de existir : 0
+1216   TCS  016577 
+ Valor de existir : 0
+1217   TCS  016577 
+ Valor de existir : 0
+1218   TCS  016577 
+ Valor de existir : 0
+1219   TCS  016577 
+ Valor de existir : 0
+1220   TCS  016577 
+ Valor de existir : 0
+1221   TCS  016577 
+ Valor de existir : 0
+1222   TCS  016577 
+ Valor de existir : 0
+1223   TCS  016577 
+ Valor de existir : 0
+1224   TCS  016577 
+ Valor de existir : 0
+1225   TCS  016577 
+ Valor de existir : 0
+1226   TCS  016577 
+ Valor de existir : 0
+1227   TCS  016577 
+ Valor de existir : 0
+1228   TCS  016577 
+ Valor de existir : 0
+1229   TCS  016577 
+ Valor de existir : 0
+1230   TCS  016577 
+ Valor de existir : 0
+1231   TCS  016577 
+ Valor de existir : 0
+1232   TCS  016577 
+ Valor de existir : 0
+1233   TCS  016577 
+ Valor de existir : 0
+1234   TCS  016577 
+ Valor de existir : 0
+1235   TCS  016577 
+ Valor de existir : 0
+1236   TCS  016577 
+ Valor de existir : 0
+1237   TCS  016577 
+ Valor de existir : 0
+1238   TCS  016577 
+ Valor de existir : 0
+1239   TCS  016577 
+ Valor de existir : 0
+1240   TCS  016577 
+ Valor de existir : 0
+1241   TCS  016577 
+ Valor de existir : 0
+1242   TCS  016577 
+ Valor de existir : 0
+1243   TCS  016577 
+ Valor de existir : 0
+1244   TCS  016577 
+ Valor de existir : 0
+1245   TCS  016577 
+ Valor de existir : 0
+1246   TCS  016577 
+ Valor de existir : 0
+1247   TCS  016577 
+ Valor de existir : 0
+1248   TCS  016577 
+ Valor de existir : 0
+1249   TCS  016577 
+ Valor de existir : 0
+1250   TCS  016577 
+ Valor de existir : 0
+1251   TCS  016577 
+ Valor de existir : 0
+1252   TCS  016577 
+ Valor de existir : 0
+1253   TCS  016577 
+ Valor de existir : 0
+1254   TCS  016577 
+ Valor de existir : 0
+1255   TCS  016577 
+ Valor de existir : 0
+1256   TCS  016577 
+ Valor de existir : 0
+1257   TCS  016577 
+ Valor de existir : 0
+1258   TCS  016577 
+ Valor de existir : 0
+1259   TCS  016577 
+ Valor de existir : 0
+1260   TCS  016577 
+ Valor de existir : 0
+1261   TCS  016577 
+ Valor de existir : 0
+1262   TCS  016577 
+ Valor de existir : 0
+1263   TCS  016577 
+ Valor de existir : 0
+1264   TCS  016577 
+ Valor de existir : 0
+1265   TCS  016577 
+ Valor de existir : 0
+1266   TCS  016577 
+ Valor de existir : 0
+1267   TCS  016577 
+ Valor de existir : 0
+1268   TCS  016577 
+ Valor de existir : 0
+1269   TCS  016577 
+ Valor de existir : 0
+1270   TCS  016577 
+ Valor de existir : 0
+1271   TCS  016577 
+ Valor de existir : 0
+1272   TCS  016577 
+ Valor de existir : 0
+1273   TCS  016577 
+ Valor de existir : 0
+1274   TCS  016577 
+ Valor de existir : 0
+1275   TCS  016577 
+ Valor de existir : 0
+1276   TCS  016577 
+ Valor de existir : 0
+1277   TCS  016577 
+ Valor de existir : 0
+1278   TCS  016577 
+ Valor de existir : 0
+1279   TCS  016577 
+ Valor de existir : 0
+1280   TCS  016577 
+ Valor de existir : 0
+1281   TCS  016577 
+ Valor de existir : 0
+1282   TCS  016577 
+ Valor de existir : 0
+1283   TCS  016577 
+ Valor de existir : 0
+1284   TCS  016577 
+ Valor de existir : 0
+1285   TCS  016577 
+ Valor de existir : 0
+1286   TCS  016577 
+ Valor de existir : 0
+1287   TCS  016577 
+ Valor de existir : 0
+1288   TCS  016577 
+ Valor de existir : 0
+1289   TCS  016577 
+ Valor de existir : 0
+1290   TCS  016577 
+ Valor de existir : 0
+1291   TCS  016577 
+ Valor de existir : 0
+1292   TCS  016577 
+ Valor de existir : 0
+1293   TCS  016577 
+ Valor de existir : 0
+1294   TCS  016577 
+ Valor de existir : 0
+1295   TCS  016577 
+ Valor de existir : 0
+1296   TCS  016577 
+ Valor de existir : 0
+1297   TCS  016577 
+ Valor de existir : 0
+1298   TCS  016577 
+ Valor de existir : 0
+1299   TCS  016577 
+ Valor de existir : 0
+1300   TCS  016577 
+ Valor de existir : 0
+1301   TCS  016577 
+ Valor de existir : 0
+1302   TCS  016577 
+ Valor de existir : 0
+1303   TCS  016577 
+ Valor de existir : 0
+1304   TCS  016577 
+ Valor de existir : 0
+1305   TCS  016577 
+ Valor de existir : 0
+1306   TCS  016577 
+ Valor de existir : 0
+1307   TCS  016577 
+ Valor de existir : 0
+1308   TCS  016577 
+ Valor de existir : 0
+1309   TCS  016577 
+ Valor de existir : 0
+1310   TCS  016577 
+ Valor de existir : 0
+1311   TCS  016577 
+ Valor de existir : 0
+1312   TCS  016577 
+ Valor de existir : 0
+1313   TCS  016577 
+ Valor de existir : 0
+1314   TCS  016577 
+ Valor de existir : 0
+1315   TCS  016577 
+ Valor de existir : 0
+1316   TCS  016577 
+ Valor de existir : 0
+1317   TCS  016577 
+ Valor de existir : 0
+1318   TCS  016577 
+ Valor de existir : 0
+1319   TCS  016577 
+ Valor de existir : 0
+1320   TCS  016577 
+ Valor de existir : 0
+1321   TCS  016577 
+ Valor de existir : 0
+1322   TCS  016577 
+ Valor de existir : 0
+1323   TCS  016577 
+ Valor de existir : 0
+1324   TCS  016577 
+ Valor de existir : 0
+1325   TCS  016577 
+ Valor de existir : 0
+1326   TCS  016577 
+ Valor de existir : 0
+1327   TCS  016577 
+ Valor de existir : 0
+1328   TCS  016577 
+ Valor de existir : 0
+1329   TCS  016577 
+ Valor de existir : 0
+1330   TCS  016577 
+ Valor de existir : 0
+1331   TCS  016577 
+ Valor de existir : 0
+1332   TCS  016577 
+ Valor de existir : 0
+1333   TCS  016577 
+ Valor de existir : 0
+1334   TCS  016577 
+ Valor de existir : 0
+1335   TCS  016577 
+ Valor de existir : 0
+1336   TCS  016577 
+ Valor de existir : 0
+1337   TCS  016577 
+ Valor de existir : 0
+1338   TCS  016577 
+ Valor de existir : 0
+1339   TCS  016577 
+ Valor de existir : 0
+1340   TCS  016577 
+ Valor de existir : 0
+1341   TCS  016577 
+ Valor de existir : 0
+1342   TCS  016577 
+ Valor de existir : 0
+1343   TCS  016577 
+ Valor de existir : 0
+1344   TCS  016577 
+ Valor de existir : 0
+1345   TCS  016577 
+ Valor de existir : 0
+1346   TCS  016577 
+ Valor de existir : 0
+1347   TCS  016577 
+ Valor de existir : 0
+1348   TCS  016577 
+ Valor de existir : 0
+1349   TCS  016577 
+ Valor de existir : 0
+1350   TCS  016577 
+ Valor de existir : 0
+1351   TCS  016577 
+ Valor de existir : 0
+1352   TCS  016577 
+ Valor de existir : 0
+1353   TCS  016577 
+ Valor de existir : 0
+1354   TCS  016577 
+ Valor de existir : 0
+1355   TCS  016577 
+ Valor de existir : 0
+1356   TCS  016577 
+ Valor de existir : 0
+1357   TCS  016577 
+ Valor de existir : 0
+1358   TCS  016577 
+ Valor de existir : 0
+1359   TCS  016577 
+ Valor de existir : 0
+1360   TCS  016577 
+ Valor de existir : 0
+1361   TCS  016577 
+ Valor de existir : 0
+1362   TCS  016577 
+ Valor de existir : 0
+1363   TCS  016577 
+ Valor de existir : 0
+1364   TCS  016577 
+ Valor de existir : 0
+1365   TCS  016577 
+ Valor de existir : 0
+1366   TCS  016577 
+ Valor de existir : 0
+1367   TCS  016577 
+ Valor de existir : 0
+1368   TCS  016577 
+ Valor de existir : 0
+1369   TCS  016577 
+ Valor de existir : 0
+1370   TCS  016577 
+ Valor de existir : 0
+1371   TCS  016577 
+ Valor de existir : 0
+1372   TCS  016577 
+ Valor de existir : 0
+1373   TCS  016577 
+ Valor de existir : 0
+1374   TCS  016577 
+ Valor de existir : 0
+1375   TCS  016577 
+ Valor de existir : 0
+1376   TCS  016577 
+ Valor de existir : 0
+1377   TCS  016577 
+ Valor de existir : 0
+1378   TCS  016577 
+ Valor de existir : 0
+1379   TCS  016577 
+ Valor de existir : 0
+1380   TCS  016577 
+ Valor de existir : 0
+1381   TCS  016577 
+ Valor de existir : 0
+1382   TCS  016577 
+ Valor de existir : 0
+1383   TCS  016577 
+ Valor de existir : 0
+1384   TCS  016577 
+ Valor de existir : 0
+1385   TCS  016577 
+ Valor de existir : 0
+1386   TCS  016577 
+ Valor de existir : 0
+1387   TCS  016577 
+ Valor de existir : 0
+1388   TCS  016577 
+ Valor de existir : 0
+1389   TCS  016577 
+ Valor de existir : 0
+1390   TCS  016577 
+ Valor de existir : 0
+1391   TCS  016577 
+ Valor de existir : 0
+1392   TCS  016577 
+ Valor de existir : 0
+1393   TCS  016577 
+ Valor de existir : 0
+1394   TCS  016577 
+ Valor de existir : 0
+1395   TCS  016577 
+ Valor de existir : 0
+1396   TCS  016577 
+ Valor de existir : 0
+1397   TCS  016577 
+ Valor de existir : 0
+1398   TCS  016577 
+ Valor de existir : 0
+1399   TCS  016577 
+ Valor de existir : 0
+1400   TCS  016577 
+ Valor de existir : 0
+1401   TCS  016577 
+ Valor de existir : 0
+1402   TCS  016577 
+ Valor de existir : 0
+1403   TCS  016577 
+ Valor de existir : 0
+1404   TCS  016577 
+ Valor de existir : 0
+1405   TCS  016577 
+ Valor de existir : 0
+1406   TCS  016577 
+ Valor de existir : 0
+1407   TCS  016577 
+ Valor de existir : 0
+1408   TCS  016577 
+ Valor de existir : 0
+1409   TCS  016577 
+ Valor de existir : 0
+1410   TCS  016577 
+ Valor de existir : 0
+1411   TCS  016577 
+ Valor de existir : 0
+1412   TCS  016577 
+ Valor de existir : 0
+1413   TCS  016577 
+ Valor de existir : 0
+1414   TCS  016577 
+ Valor de existir : 0
+1415   TCS  016577 
+ Valor de existir : 0
+1416   TCS  016577 
+ Valor de existir : 0
+1417   TCS  016577 
+ Valor de existir : 0
+1418   TCS  016577 
+ Valor de existir : 0
+1419   TCS  016577 
+ Valor de existir : 0
+1420   TCS  016577 
+ Valor de existir : 0
+1421   TCS  016577 
+ Valor de existir : 0
+1422   TCS  016577 
+ Valor de existir : 0
+1423   TCS  016577 
+ Valor de existir : 0
+1424   TCS  016577 
+ Valor de existir : 0
+1425   TCS  016577 
+ Valor de existir : 0
+1426   TCS  016577 
+ Valor de existir : 0
+1427   TCS  016577 
+ Valor de existir : 0
+1428   TCS  016577 
+ Valor de existir : 0
+1429   TCS  016577 
+ Valor de existir : 0
+1430   TCS  016577 
+ Valor de existir : 0
+1431   TCS  016577 
+ Valor de existir : 0
+1432   TCS  016577 
+ Valor de existir : 0
+1433   TCS  016577 
+ Valor de existir : 0
+1434   TCS  016577 
+ Valor de existir : 0
+1435   TCS  016577 
+ Valor de existir : 0
+1436   TCS  016577 
+ Valor de existir : 0
+1437   TCS  016577 
+ Valor de existir : 0
+1438   TCS  016577 
+ Valor de existir : 0
+1439   TCS  016577 
+ Valor de existir : 0
+1440   TCS  016577 
+ Valor de existir : 0
+1441   TCS  016577 
+ Valor de existir : 0
+1442   TCS  016577 
+ Valor de existir : 0
+1443   TCS  016577 
+ Valor de existir : 0
+1444   TCS  016577 
+ Valor de existir : 0
+1445   TCS  016577 
+ Valor de existir : 0
+1446   TCS  016577 
+ Valor de existir : 0
+1447   TCS  016577 
+ Valor de existir : 0
+1448   TCS  016577 
+ Valor de existir : 0
+1449   TCS  016577 
+ Valor de existir : 0
+1450   TCS  016577 
+ Valor de existir : 0
+1451   TCS  016577 
+ Valor de existir : 0
+1452   TCS  016577 
+ Valor de existir : 0
+1453   TCS  016577 
+ Valor de existir : 0
+1454   TCS  016577 
+ Valor de existir : 0
+1455   TCS  016577 
+ Valor de existir : 0
+1456   TCS  016577 
+ Valor de existir : 0
+1457   TCS  016577 
+ Valor de existir : 0
+1458   TCS  016577 
+ Valor de existir : 0
+1459   TCS  016577 
+ Valor de existir : 0
+1460   TCS  016577 
+ Valor de existir : 0
+1461   TCS  016577 
+ Valor de existir : 0
+1462   TCS  016577 
+ Valor de existir : 0
+1463   TCS  016577 
+ Valor de existir : 0
+1464   TCS  016577 
+ Valor de existir : 0
+1465   TCS  016577 
+ Valor de existir : 0
+1466   TCS  016577 
+ Valor de existir : 0
+1467   TCS  016577 
+ Valor de existir : 0
+1468   TCS  016577 
+ Valor de existir : 0
+1469   TCS  016577 
+ Valor de existir : 0
+1470   TCS  016577 
+ Valor de existir : 0
+1471   TCS  016577 
+ Valor de existir : 0
+1472   TCS  016577 
+ Valor de existir : 0
+1473   TCS  016577 
+ Valor de existir : 0
+1474   TCS  016577 
+ Valor de existir : 0
+1475   TCS  016577 
+ Valor de existir : 0
+1476   TCS  016577 
+ Valor de existir : 0
+1477   TCS  016577 
+ Valor de existir : 0
+1478   TCS  016577 
+ Valor de existir : 0
+1479   TCS  016577 
+ Valor de existir : 0
+1480   TCS  016577 
+ Valor de existir : 0
+1481   TCS  016577 
+ Valor de existir : 0
+1482   TCS  016577 
+ Valor de existir : 0
+1483   TCS  016577 
+ Valor de existir : 0
+1484   TCS  016577 
+ Valor de existir : 0
+1485   TCS  016577 
+ Valor de existir : 0
+1486   TCS  016577 
+ Valor de existir : 0
+1487   TCS  016577 
+ Valor de existir : 0
+1488   TCS  016577 
+ Valor de existir : 0
+1489   TCS  016577 
+ Valor de existir : 0
+1490   TCS  016577 
+ Valor de existir : 0
+1491   TCS  016577 
+ Valor de existir : 0
+1492   TCS  016577 
+ Valor de existir : 0
+1493   TCS  016577 
+ Valor de existir : 0
+1494   TCS  016577 
+ Valor de existir : 0
+1495   TCS  016577 
+ Valor de existir : 0
+1496   TCS  016577 
+ Valor de existir : 0
+1497   TCS  016577 
+ Valor de existir : 0
+1498   TCS  016577 
+ Valor de existir : 0
+1499   TCS  016577 
+ Valor de existir : 0
+1500   TCS  016577 
+ Valor de existir : 0
+1501   TCS  016577 
+ Valor de existir : 0
+1502   TCS  016577 
+ Valor de existir : 0
+1503   TCS  016577 
+ Valor de existir : 0
+1504   TCS  016577 
+ Valor de existir : 0
+1505   TCS  016577 
+ Valor de existir : 0
+1506   TCS  016577 
+ Valor de existir : 0
+1507   TCS  016577 
+ Valor de existir : 0
+1508   TCS  016577 
+ Valor de existir : 0
+1509   TCS  016577 
+ Valor de existir : 0
+1510   TCS  016577 
+ Valor de existir : 0
+1511   TCS  016577 
+ Valor de existir : 0
+1512   TCS  016577 
+ Valor de existir : 0
+1513   TCS  016577 
+ Valor de existir : 0
+1514   TCS  016577 
+ Valor de existir : 0
+1515   TCS  016577 
+ Valor de existir : 0
+1516   TCS  016577 
+ Valor de existir : 0
+1517   TCS  016577 
+ Valor de existir : 0
+1518   TCS  016577 
+ Valor de existir : 0
+1519   TCS  016577 
+ Valor de existir : 0
+1520   TCS  016577 
+ Valor de existir : 0
+1521   TCS  016577 
+ Valor de existir : 0
+1522   TCS  016577 
+ Valor de existir : 0
+1523   TCS  016577 
+ Valor de existir : 0
+1524   TCS  016577 
+ Valor de existir : 0
+1525   TCS  016577 
+ Valor de existir : 0
+1526   TCS  016577 
+ Valor de existir : 0
+1527   TCS  016577 
+ Valor de existir : 0
+1528   TCS  016577 
+ Valor de existir : 0
+1529   TCS  016577 
+ Valor de existir : 0
+1530   TCS  016577 
+ Valor de existir : 0
+1531   TCS  016577 
+ Valor de existir : 0
+1532   TCS  016577 
+ Valor de existir : 0
+1533   TCS  016577 
+ Valor de existir : 0
+1534   TCS  016577 
+ Valor de existir : 0
+1535   TCS  016577 
+ Valor de existir : 0
+1536   TCS  016577 
+ Valor de existir : 0
+1537   TCS  016577 
+ Valor de existir : 0
+1538   TCS  016577 
+ Valor de existir : 0
+1539   TCS  016577 
+ Valor de existir : 0
+1540   TCS  016577 
+ Valor de existir : 0
+1541   TCS  016577 
+ Valor de existir : 0
+1542   TCS  016577 
+ Valor de existir : 0
+1543   TCS  016577 
+ Valor de existir : 0
+1544   TCS  016577 
+ Valor de existir : 0
+1545   TCS  016577 
+ Valor de existir : 0
+1546   TCS  016577 
+ Valor de existir : 0
+1547   TCS  016577 
+ Valor de existir : 0
+1548   TCS  016577 
+ Valor de existir : 0
+1549   TCS  016577 
+ Valor de existir : 0
+1550   TCS  016577 
+ Valor de existir : 0
+1551   TCS  016577 
+ Valor de existir : 0
+1552   TCS  016577 
+ Valor de existir : 0
+1553   TCS  016577 
+ Valor de existir : 0
+1554   TCS  016577 
+ Valor de existir : 0
+1555   TCS  016577 
+ Valor de existir : 0
+1556   TCS  016577 
+ Valor de existir : 0
+1557   TCS  016577 
+ Valor de existir : 0
+1558   TCS  016577 
+ Valor de existir : 0
+1559   TCS  016577 
+ Valor de existir : 0
+1560   TCS  016577 
+ Valor de existir : 0
+1561   TCS  016577 
+ Valor de existir : 0
+1562   TCS  016577 
+ Valor de existir : 0
+1563   TCS  016577 
+ Valor de existir : 0
+1564   TCS  016577 
+ Valor de existir : 0
+1565   TCS  016577 
+ Valor de existir : 0
+1566   TCS  016577 
+ Valor de existir : 0
+1567   TCS  016577 
+ Valor de existir : 0
+1568   TCS  016577 
+ Valor de existir : 0
+1569   TCS  016577 
+ Valor de existir : 0
+1570   TCS  016577 
+ Valor de existir : 0
+1571   TCS  016577 
+ Valor de existir : 0
+1572   TCS  016577 
+ Valor de existir : 0
+1573   TCS  016577 
+ Valor de existir : 0
+1574   TCS  016577 
+ Valor de existir : 0
+1575   TCS  016577 
+ Valor de existir : 0
+1576   TCS  016577 
+ Valor de existir : 0
+1577   TCS  016577 
+ Valor de existir : 0
+1578   TCS  016577 
+ Valor de existir : 0
+1579   TCS  016577 
+ Valor de existir : 0
+1580   TCS  016577 
+ Valor de existir : 0
+1581   TCS  016577 
+ Valor de existir : 0
+1582   TCS  016577 
+ Valor de existir : 0
+1583   TCS  016577 
+ Valor de existir : 0
+1584   TCS  016577 
+ Valor de existir : 0
+1585   TCS  016577 
+ Valor de existir : 0
+1586   TCS  016577 
+ Valor de existir : 0
+1587   TCS  016577 
+ Valor de existir : 0
+1588   TCS  016577 
+ Valor de existir : 0
+1589   TCS  016577 
+ Valor de existir : 0
+1590   TCS  016577 
+ Valor de existir : 0
+1591   TCS  016577 
+ Valor de existir : 0
+1592   TCS  016577 
+ Valor de existir : 0
+1593   TCS  016577 
+ Valor de existir : 0
+1594   TCS  016577 
+ Valor de existir : 0
+1595   TCS  016577 
+ Valor de existir : 0
+1596   TCS  016577 
+ Valor de existir : 0
+1597   TCS  016577 
+ Valor de existir : 0
+1598   TCS  016577 
+ Valor de existir : 0
+1599   TCS  016577 
+ Valor de existir : 0
+1600   TCS  016577 
+ Valor de existir : 0
+1601   TCS  016577 
+ Valor de existir : 0
+1602   TCS  016577 
+ Valor de existir : 0
+1603   TCS  016577 
+ Valor de existir : 0
+1604   TCS  016577 
+ Valor de existir : 0
+1605   TCS  016577 
+ Valor de existir : 0
+1606   TCS  016577 
+ Valor de existir : 0
+1607   TCS  016577 
+ Valor de existir : 0
+1608   TCS  016577 
+ Valor de existir : 0
+1609   TCS  016577 
+ Valor de existir : 0
+1610   TCS  016577 
+ Valor de existir : 0
+1611   TCS  016577 
+ Valor de existir : 0
+1612   TCS  016577 
+ Valor de existir : 0
+1613   TCS  016577 
+ Valor de existir : 0
+1614   TCS  016577 
+ Valor de existir : 0
+1615   TCS  016577 
+ Valor de existir : 0
+1616   TCS  016577 
+ Valor de existir : 0
+1617   TCS  016577 
+ Valor de existir : 0
+1618   TCS  016577 
+ Valor de existir : 0
+1619   TCS  016577 
+ Valor de existir : 0
+1620   TCS  016577 
+ Valor de existir : 0
+1621   TCS  016577 
+ Valor de existir : 0
+1622   TCS  016577 
+ Valor de existir : 0
+1623   TCS  016577 
+ Valor de existir : 0
+1624   TCS  016577 
+ Valor de existir : 0
+1625   TCS  016577 
+ Valor de existir : 0
+1626   TCS  016577 
+ Valor de existir : 0
+1627   TCS  016577 
+ Valor de existir : 0
+1628   TCS  016577 
+ Valor de existir : 0
+1629   TCS  016577 
+ Valor de existir : 0
+1630   TCS  016577 
+ Valor de existir : 0
+1631   TCS  016577 
+ Valor de existir : 0
+1632   TCS  016577 
+ Valor de existir : 0
+1633   TCS  016577 
+ Valor de existir : 0
+1634   TCS  016577 
+ Valor de existir : 0
+1635   TCS  016577 
+ Valor de existir : 0
+1636   TCS  016577 
+ Valor de existir : 0
+1637   TCS  016577 
+ Valor de existir : 0
+1638   TCS  016577 
+ Valor de existir : 0
+1639   TCS  016577 
+ Valor de existir : 0
+1640   TCS  016577 
+ Valor de existir : 0
+1641   TCS  016577 
+ Valor de existir : 0
+1642   TCS  016577 
+ Valor de existir : 0
+1643   TCS  016577 
+ Valor de existir : 0
+1644   TCS  016577 
+ Valor de existir : 0
+1645   TCS  016577 
+ Valor de existir : 0
+1646   TCS  016577 
+ Valor de existir : 0
+1647   TCS  016577 
+ Valor de existir : 0
+1648   TCS  016577 
+ Valor de existir : 0
+1649   TCS  016577 
+ Valor de existir : 0
+1650   TCS  016577 
+ Valor de existir : 0
+1651   TCS  016577 
+ Valor de existir : 0
+1652   TCS  016577 
+ Valor de existir : 0
+1653   TCS  016577 
+ Valor de existir : 0
+1654   TCS  016577 
+ Valor de existir : 0
+1655   TCS  016577 
+ Valor de existir : 0
+1656   TCS  016577 
+ Valor de existir : 0
+1657   TCS  016577 
+ Valor de existir : 0
+1658   TCS  016577 
+ Valor de existir : 0
+1659   TCS  016577 
+ Valor de existir : 0
+1660   TCS  016577 
+ Valor de existir : 0
+1661   TCS  016577 
+ Valor de existir : 0
+1662   TCS  016577 
+ Valor de existir : 0
+1663   TCS  016577 
+ Valor de existir : 0
+1664   TCS  016577 
+ Valor de existir : 0
+1665   TCS  016577 
+ Valor de existir : 0
+1666   TCS  016577 
+ Valor de existir : 0
+1667   TCS  016577 
+ Valor de existir : 0
+1668   TCS  016577 
+ Valor de existir : 0
+1669   TCS  016577 
+ Valor de existir : 0
+1670   TCS  016577 
+ Valor de existir : 0
+1671   TCS  016577 
+ Valor de existir : 0
+1672   TCS  016577 
+ Valor de existir : 0
+1673   TCS  016577 
+ Valor de existir : 0
+1674   TCS  016577 
+ Valor de existir : 0
+1675   TCS  016577 
+ Valor de existir : 0
+1676   TCS  016577 
+ Valor de existir : 0
+1677   TCS  016577 
+ Valor de existir : 0
+1678   TCS  016577 
+ Valor de existir : 0
+1679   TCS  016577 
+ Valor de existir : 0
+1680   TCS  016577 
+ Valor de existir : 0
+1681   TCS  016577 
+ Valor de existir : 0
+1682   TCS  016577 
+ Valor de existir : 0
+1683   TCS  016577 
+ Valor de existir : 0
+1684   TCS  016577 
+ Valor de existir : 0
+1685   TCS  016577 
+ Valor de existir : 0
+1686   TCS  016577 
+ Valor de existir : 0
+1687   TCS  016577 
+ Valor de existir : 0
+1688   TCS  016577 
+ Valor de existir : 0
+1689   TCS  016577 
+ Valor de existir : 0
+1690   TCS  016577 
+ Valor de existir : 0
+1691   TCS  016577 
+ Valor de existir : 0
+1692   TCS  016577 
+ Valor de existir : 0
+1693   TCS  016577 
+ Valor de existir : 0
+1694   TCS  016577 
+ Valor de existir : 0
+1695   TCS  016577 
+ Valor de existir : 0
+1696   TCS  016577 
+ Valor de existir : 0
+1697   TCS  016577 
+ Valor de existir : 0
+1698   TCS  016577 
+ Valor de existir : 0
+1699   TCS  016577 
+ Valor de existir : 0
+1700   TCS  016577 
+ Valor de existir : 0
+1701   TCS  016577 
+ Valor de existir : 0
+1702   TCS  016577 
+ Valor de existir : 0
+1703   TCS  016577 
+ Valor de existir : 0
+1704   TCS  016577 
+ Valor de existir : 0
+1705   TCS  016577 
+ Valor de existir : 0
+1706   TCS  016577 
+ Valor de existir : 0
+1707   TCS  016577 
+ Valor de existir : 0
+1708   TCS  016577 
+ Valor de existir : 0
+1709   TCS  016577 
+ Valor de existir : 0
+1710   TCS  016577 
+ Valor de existir : 0
+1711   TCS  016577 
+ Valor de existir : 0
+1712   TCS  016577 
+ Valor de existir : 0
+1713   TCS  016577 
+ Valor de existir : 0
+1714   TCS  016577 
+ Valor de existir : 0
+1715   TCS  016577 
+ Valor de existir : 0
+1716   TCS  016577 
+ Valor de existir : 0
+1717   TCS  016577 
+ Valor de existir : 0
+1718   TCS  016577 
+ Valor de existir : 0
+1719   TCS  016577 
+ Valor de existir : 0
+1720   TCS  016577 
+ Valor de existir : 0
+1721   TCS  016577 
+ Valor de existir : 0
+1722   TCS  016577 
+ Valor de existir : 0
+1723   TCS  016577 
+ Valor de existir : 0
+1724   TCS  016577 
+ Valor de existir : 0
+1725   TCS  016577 
+ Valor de existir : 0
+1726   TCS  016577 
+ Valor de existir : 0
+1727   TCS  016577 
+ Valor de existir : 0
+1728   TCS  016577 
+ Valor de existir : 0
+1729   TCS  016577 
+ Valor de existir : 0
+1730   TCS  016577 
+ Valor de existir : 0
+1731   TCS  016577 
+ Valor de existir : 0
+1732   TCS  016577 
+ Valor de existir : 0
+1733   TCS  016577 
+ Valor de existir : 0
+1734   TCS  016577 
+ Valor de existir : 0
+1735   TCS  016577 
+ Valor de existir : 0
+1736   TCS  016577 
+ Valor de existir : 0
+1737   TCS  016577 
+ Valor de existir : 0
+1738   TCS  016577 
+ Valor de existir : 0
+1739   TCS  016577 
+ Valor de existir : 0
+1740   TCS  016577 
+ Valor de existir : 0
+1741   TCS  016577 
+ Valor de existir : 0
+1742   TCS  016577 
+ Valor de existir : 0
+1743   TCS  016577 
+ Valor de existir : 0
+1744   TCS  016577 
+ Valor de existir : 0
+1745   TCS  016577 
+ Valor de existir : 0
+1746   TCS  016577 
+ Valor de existir : 0
+1747   TCS  016577 
+ Valor de existir : 0
+1748   TCS  016577 
+ Valor de existir : 0
+1749   TCS  016577 
+ Valor de existir : 0
+1750   TCS  016577 
+ Valor de existir : 0
+1751   TCS  016577 
+ Valor de existir : 0
+1752   TCS  016577 
+ Valor de existir : 0
+1753   TCS  016577 
+ Valor de existir : 0
+1754   TCS  016577 
+ Valor de existir : 0
+1755   TCS  016577 
+ Valor de existir : 0
+1756   TCS  016577 
+ Valor de existir : 0
+1757   TCS  016577 
+ Valor de existir : 0
+1758   TCS  016577 
+ Valor de existir : 0
+1759   TCS  016577 
+ Valor de existir : 0
+1760   TCS  016577 
+ Valor de existir : 0
+1761   TCS  016577 
+ Valor de existir : 0
+1762   TCS  016577 
+ Valor de existir : 0
+1763   TCS  016577 
+ Valor de existir : 0
+1764   TCS  016577 
+ Valor de existir : 0
+1765   TCS  016577 
+ Valor de existir : 0
+1766   TCS  016577 
+ Valor de existir : 0
+1767   TCS  016577 
+ Valor de existir : 0
+1768   TCS  016577 
+ Valor de existir : 0
+1769   TCS  016577 
+ Valor de existir : 0
+1770   TCS  016577 
+ Valor de existir : 0
+1771   TCS  016577 
+ Valor de existir : 0
+1772   TCS  016577 
+ Valor de existir : 0
+1773   TCS  016577 
+ Valor de existir : 0
+1774   TCS  016577 
+ Valor de existir : 0
+1775   TCS  016577 
+ Valor de existir : 0
+1776   TCS  016577 
+ Valor de existir : 0
+1777   TCS  016577 
+ Valor de existir : 0
+1778   TCS  016577 
+ Valor de existir : 0
+1779   TCS  016577 
+ Valor de existir : 0
+1780   TCS  016577 
+ Valor de existir : 0
+1781   TCS  016577 
+ Valor de existir : 0
+1782   TCS  016577 
+ Valor de existir : 0
+1783   TCS  016577 
+ Valor de existir : 0
+1784   TCS  016577 
+ Valor de existir : 0
+1785   TCS  016577 
+ Valor de existir : 0
+1786   TCS  016577 
+ Valor de existir : 0
+1787   TCS  016577 
+ Valor de existir : 0
+1788   TCS  016577 
+ Valor de existir : 0
+1789   TCS  016577 
+ Valor de existir : 0
+1790   TCS  016577 
+ Valor de existir : 0
+1791   TCS  016577 
+ Valor de existir : 0
+1792   TCS  016577 
+ Valor de existir : 0
+1793   TCS  016577 
+ Valor de existir : 0
+1794   TCS  016577 
+ Valor de existir : 0
+1795   TCS  016577 
+ Valor de existir : 0
+1796   TCS  016577 
+ Valor de existir : 0
+1797   TCS  016577 
+ Valor de existir : 0
+1798   TCS  016577 
+ Valor de existir : 0
+1799   TCS  016577 
+ Valor de existir : 0
+1800   TCS  016577 
+ Valor de existir : 0
+1801   TCS  016577 
+ Valor de existir : 0
+1802   TCS  016577 
+ Valor de existir : 0
+1803   TCS  016577 
+ Valor de existir : 0
+1804   TCS  016577 
+ Valor de existir : 0
+1805   TCS  016577 
+ Valor de existir : 0
+1806   TCS  016577 
+ Valor de existir : 0
+1807   TCS  016577 
+ Valor de existir : 0
+1808   TCS  016577 
+ Valor de existir : 0
+1809   TCS  016577 
+ Valor de existir : 0
+1810   TCS  016577 
+ Valor de existir : 0
+1811   TCS  016577 
+ Valor de existir : 0
+1812   TCS  016577 
+ Valor de existir : 0
+1813   TCS  016577 
+ Valor de existir : 0
+1814   TCS  016577 
+ Valor de existir : 0
+1815   TCS  016577 
+ Valor de existir : 0
+1816   TCS  016577 
+ Valor de existir : 0
+1817   TCS  016577 
+ Valor de existir : 0
+1818   TCS  016577 
+ Valor de existir : 0
+1819   TCS  016577 
+ Valor de existir : 0
+1820   TCS  016577 
+ Valor de existir : 0
+1821   TCS  016577 
+ Valor de existir : 0
+1822   TCS  016577 
+ Valor de existir : 0
+1823   TCS  016577 
+ Valor de existir : 0
+1824   TCS  016577 
+ Valor de existir : 0
+1825   TCS  016577 
+ Valor de existir : 0
+1826   TCS  016577 
+ Valor de existir : 0
+1827   TCS  016577 
+ Valor de existir : 0
+1828   TCS  016577 
+ Valor de existir : 0
+1829   TCS  016577 
+ Valor de existir : 0
+1830   TCS  016577 
+ Valor de existir : 0
+1831   TCS  016577 
+ Valor de existir : 0
+1832   TCS  016577 
+ Valor de existir : 0
+1833   TCS  016577 
+ Valor de existir : 0
+1834   TCS  016577 
+ Valor de existir : 0
+1835   TCS  016577 
+ Valor de existir : 0
+1836   TCS  016577 
+ Valor de existir : 0
+1837   TCS  016577 
+ Valor de existir : 0
+1838   TCS  016577 
+ Valor de existir : 0
+1839   TCS  016577 
+ Valor de existir : 0
+1840   TCS  016577 
+ Valor de existir : 0
+1841   TCS  016577 
+ Valor de existir : 0
+1842   TCS  016577 
+ Valor de existir : 0
+1843   TCS  016577 
+ Valor de existir : 0
+1844   TCS  016577 
+ Valor de existir : 0
+1845   TCS  016577 
+ Valor de existir : 0
+1846   TCS  016577 
+ Valor de existir : 0
+1847   TCS  016577 
+ Valor de existir : 0
+1848   TCS  016577 
+ Valor de existir : 0
+1849   TCS  016577 
+ Valor de existir : 0
+1850   TCS  016577 
+ Valor de existir : 0
+1851   TCS  016577 
+ Valor de existir : 0
+1852   TCS  016577 
+ Valor de existir : 0
+1853   TCS  016577 
+ Valor de existir : 0
+1854   TCS  016577 
+ Valor de existir : 0
+1855   TCS  016577 
+ Valor de existir : 0
+1856   TCS  016577 
+ Valor de existir : 0
+1857   TCS  016577 
+ Valor de existir : 0
+1858   TCS  016577 
+ Valor de existir : 0
+1859   TCS  016577 
+ Valor de existir : 0
+1860   TCS  016577 
+ Valor de existir : 0
+1861   TCS  016577 
+ Valor de existir : 0
+1862   TCS  016577 
+ Valor de existir : 0
+1863   TCS  016577 
+ Valor de existir : 0
+1864   TCS  016577 
+ Valor de existir : 0
+1865   TCS  016577 
+ Valor de existir : 0
+1866   TCS  016577 
+ Valor de existir : 0
+1867   TCS  016577 
+ Valor de existir : 0
+1868   TCS  016577 
+ Valor de existir : 0
+1869   TCS  016577 
+ Valor de existir : 0
+1870   TCS  016577 
+ Valor de existir : 0
+1871   TCS  016577 
+ Valor de existir : 0
+1872   TCS  016577 
+ Valor de existir : 0
+1873   TCS  016577 
+ Valor de existir : 0
+1874   TCS  016577 
+ Valor de existir : 0
+1875   TCS  016577 
+ Valor de existir : 0
+1876   TCS  016577 
+ Valor de existir : 0
+1877   TCS  016577 
+ Valor de existir : 0
+1878   TCS  016577 
+ Valor de existir : 0
+1879   TCS  016577 
+ Valor de existir : 0
+1880   TCS  016577 
+ Valor de existir : 0
+1881   TCS  016577 
+ Valor de existir : 0
+1882   TCS  016577 
+ Valor de existir : 0
+1883   TCS  016577 
+ Valor de existir : 0
+1884   TCS  016577 
+ Valor de existir : 0
+1885   TCS  016577 
+ Valor de existir : 0
+1886   TCS  016577 
+ Valor de existir : 0
+1887   TCS  016577 
+ Valor de existir : 0
+1888   TCS  016577 
+ Valor de existir : 0
+1889   TCS  016577 
+ Valor de existir : 0
+1890   TCS  016577 
+ Valor de existir : 0
+1891   TCS  016577 
+ Valor de existir : 0
+1892   TCS  016577 
+ Valor de existir : 0
+1893   TCS  016577 
+ Valor de existir : 0
+1894   TCS  016577 
+ Valor de existir : 0
+1895   TCS  016577 
+ Valor de existir : 0
+1896   TCS  016577 
+ Valor de existir : 0
+1897   TCS  016577 
+ Valor de existir : 0
+1898   TCS  016577 
+ Valor de existir : 0
+1899   TCS  016577 
+ Valor de existir : 0
+1900   TCS  016577 
+ Valor de existir : 0
+1901   TCS  016577 
+ Valor de existir : 0
+1902   TCS  016577 
+ Valor de existir : 0
+1903   TCS  016577 
+ Valor de existir : 0
+1904   TCS  016577 
+ Valor de existir : 0
+1905   TCS  016577 
+ Valor de existir : 0
+1906   TCS  016577 
+ Valor de existir : 0
+1907   TCS  016577 
+ Valor de existir : 0
+1908   TCS  016577 
+ Valor de existir : 0
+1909   TCS  016577 
+ Valor de existir : 0
+1910   TCS  016577 
+ Valor de existir : 0
+1911   TCS  016577 
+ Valor de existir : 0
+1912   TCS  016577 
+ Valor de existir : 0
+1913   TCS  016577 
+ Valor de existir : 0
+1914   TCS  016577 
+ Valor de existir : 0
+1915   TCS  016577 
+ Valor de existir : 0
+1916   TCS  016577 
+ Valor de existir : 0
+1917   TCS  016577 
+ Valor de existir : 0
+1918   TCS  016577 
+ Valor de existir : 0
+1919   TCS  016577 
+ Valor de existir : 0
+1920   TCS  016577 
+ Valor de existir : 0
+1921   TCS  016577 
+ Valor de existir : 0
+1922   TCS  016577 
+ Valor de existir : 0
+1923   TCS  016577 
+ Valor de existir : 0
+1924   TCS  016577 
+ Valor de existir : 0
+1925   TCS  016577 
+ Valor de existir : 0
+1926   TCS  016577 
+ Valor de existir : 0
+1927   TCS  016577 
+ Valor de existir : 0
+1928   TCS  016577 
+ Valor de existir : 0
+1929   TCS  016577 
+ Valor de existir : 0
+1930   TCS  016577 
+ Valor de existir : 0
+1931   TCS  016577 
+ Valor de existir : 0
+1932   TCS  016577 
+ Valor de existir : 0
+1933   TCS  016577 
+ Valor de existir : 0
+1934   TCS  016577 
+ Valor de existir : 0
+1935   TCS  016577 
+ Valor de existir : 0
+1936   TCS  016577 
+ Valor de existir : 0
+1937   TCS  016577 
+ Valor de existir : 0
+1938   TCS  016577 
+ Valor de existir : 0
+1939   TCS  016577 
+ Valor de existir : 0
+1940   TCS  016577 
+ Valor de existir : 0
+1941   TCS  016577 
+ Valor de existir : 0
+1942   TCS  016577 
+ Valor de existir : 0
+1943   TCS  016577 
+ Valor de existir : 0
+1944   TCS  016577 
+ Valor de existir : 0
+1945   TCS  016577 
+ Valor de existir : 0
+1946   TCS  016577 
+ Valor de existir : 0
+1947   TCS  016577 
+ Valor de existir : 0
+1948   TCS  016577 
+ Valor de existir : 0
+1949   TCS  016577 
+ Valor de existir : 0
+1950   TCS  016577 
+ Valor de existir : 0
+1951   TCS  016577 
+ Valor de existir : 0
+1952   TCS  016577 
+ Valor de existir : 0
+1953   TCS  016577 
+ Valor de existir : 0
+1954   TCS  016577 
+ Valor de existir : 0
+1955   TCS  016577 
+ Valor de existir : 0
+1956   TCS  016577 
+ Valor de existir : 0
+1957   TCS  016577 
+ Valor de existir : 0
+1958   TCS  016577 
+ Valor de existir : 0
+1959   TCS  016577 
+ Valor de existir : 0
+1960   TCS  016577 
+ Valor de existir : 0
+1961   TCS  016577 
+ Valor de existir : 0
+1962   TCS  016577 
+ Valor de existir : 0
+1963   TCS  016577 
+ Valor de existir : 0
+1964   TCS  016577 
+ Valor de existir : 0
+1965   TCS  016577 
+ Valor de existir : 0
+1966   TCS  016577 
+ Valor de existir : 0
+1967   TCS  016577 
+ Valor de existir : 0
+1968   TCS  016577 
+ Valor de existir : 0
+1969   TCS  016577 
+ Valor de existir : 0
+1970   TCS  016577 
+ Valor de existir : 0
+1971   TCS  016577 
+ Valor de existir : 0
+1972   TCS  016577 
+ Valor de existir : 0
+1973   TCS  016577 
+ Valor de existir : 0
+1974   TCS  016577 
+ Valor de existir : 0
+1975   TCS  016577 
+ Valor de existir : 0
+1976   TCS  016577 
+ Valor de existir : 0
+1977   TCS  016577 
+ Valor de existir : 0
+1978   TCS  016577 
+ Valor de existir : 0
+1979   TCS  016577 
+ Valor de existir : 0
+1980   TCS  016577 
+ Valor de existir : 0
+1981   TCS  016577 
+ Valor de existir : 0
+1982   TCS  016577 
+ Valor de existir : 0
+1983   TCS  016577 
+ Valor de existir : 0
+1984   TCS  016577 
+ Valor de existir : 0
+1985   TCS  016577 
+ Valor de existir : 0
+1986   TCS  016577 
+ Valor de existir : 0
+1987   TCS  016577 
+ Valor de existir : 0
+1988   TCS  016577 
+ Valor de existir : 0
+1989   TCS  016577 
+ Valor de existir : 0
+1990   TCS  016577 
+ Valor de existir : 0
+1991   TCS  016577 
+ Valor de existir : 0
+1992   TCS  016577 
+ Valor de existir : 0
+1993   TCS  016577 
+ Valor de existir : 0
+1994   TCS  016577 
+ Valor de existir : 0
+1995   TCS  016577 
+ Valor de existir : 0
+1996   TCS  016577 
+ Valor de existir : 0
+1997   TCS  016577 
+ Valor de existir : 0
+1998   TCS  016577 
+ Valor de existir : 0
+1999   TCS  016577 
+ Valor de existir : 0
+2000   TCS  016577 
+ Valor de existir : 0
+2001   TCS  016577 
+ Valor de existir : 0
+2002   TCS  016577 
+ Valor de existir : 0
+2003   TCS  016577 
+ Valor de existir : 0
+2004   TCS  016577 
+ Valor de existir : 0
+2005   TCS  016577 
+ Valor de existir : 0
+2006   TCS  016577 
+ Valor de existir : 0
+2007   TCS  016577 
+ Valor de existir : 0
+2008   TCS  016577 
+ Valor de existir : 0
+2009   TCS  016577 
+ Valor de existir : 0
+2010   TCS  016577 
+ Valor de existir : 0
+2011   TCS  016577 
+ Valor de existir : 0
+2012   TCS  016577 
+ Valor de existir : 0
+2013   TCS  016577 
+ Valor de existir : 0
+2014   TCS  016577 
+ Valor de existir : 0
+2015   TCS  016577 
+ Valor de existir : 0
+2016   TCS  016577 
+ Valor de existir : 0
+2017   TCS  016577 
+ Valor de existir : 0
+2018   TCS  016577 
+ Valor de existir : 0
+2019   TCS  016577 
+ Valor de existir : 0
+2020   TCS  016577 
+ Valor de existir : 0
+2021   TCS  016577 
+ Valor de existir : 0
+2022   TCS  016577 
+ Valor de existir : 0
+2023   TCS  016577 
+ Valor de existir : 0
+2024   TCS  016577 
+ Valor de existir : 0
+2025   TCS  016577 
+ Valor de existir : 0
+2026   TCS  016577 
+ Valor de existir : 0
+2027   TCS  016577 
+ Valor de existir : 0
+2028   TCS  016577 
+ Valor de existir : 0
+2029   TCS  016577 
+ Valor de existir : 0
+2030   TCS  016577 
+ Valor de existir : 0
+2031   TCS  016577 
+ Valor de existir : 0
+2032   TCS  016577 
+ Valor de existir : 0
+2033   TCS  016577 
+ Valor de existir : 0
+2034   TCS  016577 
+ Valor de existir : 0
+2035   TCS  016577 
+ Valor de existir : 0
+2036   TCS  016577 
+ Valor de existir : 0
+2037   TCS  016577 
+ Valor de existir : 0
+2038   TCS  016577 
+ Valor de existir : 0
+2039   TCS  016577 
+ Valor de existir : 0
+2040   TCS  016577 
+ Valor de existir : 0
+2041   TCS  016577 
+ Valor de existir : 0
+2042   TCS  016577 
+ Valor de existir : 0
+2043   TCS  016577 
+ Valor de existir : 0
+2044   TCS  016577 
+ Valor de existir : 0
+2045   TCS  016577 
+ Valor de existir : 0
+2046   TCS  016577 
+ Valor de existir : 0
+2047   TCS  016577 
+ Valor de existir : 0
+2048   TCS  016577 
+ Valor de existir : 0
+2049   TCS  016577 
+ Valor de existir : 0
+2050   TCS  016577 
+ Valor de existir : 0
+2051   TCS  016577 
+ Valor de existir : 0
+2052   TCS  016577 
+ Valor de existir : 0
+2053   TCS  016577 
+ Valor de existir : 0
+2054   TCS  016577 
+ Valor de existir : 0
+2055   TCS  016577 
+ Valor de existir : 0
+2056   TCS  016577 
+ Valor de existir : 0
+2057   TCS  016577 
+ Valor de existir : 0
+2058   TCS  016577 
+ Valor de existir : 0
+2059   TCS  016577 
+ Valor de existir : 0
+2060   TCS  016577 
+ Valor de existir : 0
+2061   TCS  016577 
+ Valor de existir : 0
+2062   TCS  016577 
+ Valor de existir : 0
+2063   TCS  016577 
+ Valor de existir : 0
+2064   TCS  016577 
+ Valor de existir : 0
+2065   TCS  016577 
+ Valor de existir : 0
+2066   TCS  016577 
+ Valor de existir : 0
+2067   TCS  016577 
+ Valor de existir : 0
+2068   TCS  016577 
+ Valor de existir : 0
+2069   TCS  016577 
+ Valor de existir : 0
+2070   TCS  016577 
+ Valor de existir : 0
+2071   TCS  016577 
+ Valor de existir : 0
+2072   TCS  016577 
+ Valor de existir : 0
+2073   TCS  016577 
+ Valor de existir : 0
+2074   TCS  016577 
+ Valor de existir : 0
+2075   TCS  016577 
+ Valor de existir : 0
+2076   TCS  016577 
+ Valor de existir : 0
+2077   TCS  016577 
+ Valor de existir : 0
+2078   TCS  016577 
+ Valor de existir : 0
+2079   TCS  016577 
+ Valor de existir : 0
+2080   TCS  016577 
+ Valor de existir : 0
+2081   TCS  016577 
+ Valor de existir : 0
+2082   TCS  016577 
+ Valor de existir : 0
+2083   TCS  016577 
+ Valor de existir : 0
+2084   TCS  016577 
+ Valor de existir : 0
+2085   TCS  016577 
+ Valor de existir : 0
+2086   TCS  016577 
+ Valor de existir : 0
+2087   TCS  016577 
+ Valor de existir : 0
+2088   TCS  016577 
+ Valor de existir : 0
+2089   TCS  016577 
+ Valor de existir : 0
+2090   TCS  016577 
+ Valor de existir : 0
+2091   TCS  016577 
+ Valor de existir : 0
+2092   TCS  016577 
+ Valor de existir : 0
+2093   TCS  016577 
+ Valor de existir : 0
+2094   TCS  016577 
+ Valor de existir : 0
+2095   TCS  016577 
+ Valor de existir : 0
+2096   TCS  016577 
+ Valor de existir : 0
+2097   TCS  016577 
+ Valor de existir : 0
+2098   TCS  016577 
+ Valor de existir : 0
+2099   TCS  016577 
+ Valor de existir : 0
+2100   TCS  016577 
+ Valor de existir : 0
+2101   TCS  016577 
+ Valor de existir : 0
+2102   TCS  016577 
+ Valor de existir : 0
+2103   TCS  016577 
+ Valor de existir : 0
+2104   TCS  016577 
+ Valor de existir : 0
+2105   TCS  016577 
+ Valor de existir : 0
+2106   TCS  016577 
+ Valor de existir : 0
+2107   TCS  016577 
+ Valor de existir : 0
+2108   TCS  016577 
+ Valor de existir : 0
+2109   TCS  016577 
+ Valor de existir : 0
+2110   TCS  016577 
+ Valor de existir : 0
+2111   TCS  016577 
+ Valor de existir : 0
+2112   TCS  016577 
+ Valor de existir : 0
+2113   TCS  016577 
+ Valor de existir : 0
+2114   TCS  016577 
+ Valor de existir : 0
+2115   TCS  016577 
+ Valor de existir : 0
+2116   TCS  016577 
+ Valor de existir : 0
+2117   TCS  016577 
+ Valor de existir : 0
+2118   TCS  016577 
+ Valor de existir : 0
+2119   TCS  016577 
+ Valor de existir : 0
+2120   TCS  016577 
+ Valor de existir : 0
+2121   TCS  016577 
+ Valor de existir : 0
+2122   TCS  016577 
+ Valor de existir : 0
+2123   TCS  016577 
+ Valor de existir : 0
+2124   TCS  016577 
+ Valor de existir : 0
+2125   TCS  016577 
+ Valor de existir : 0
+2126   TCS  016577 
+ Valor de existir : 0
+2127   TCS  016577 
+ Valor de existir : 0
+2128   TCS  016577 
+ Valor de existir : 0
+2129   TCS  016577 
+ Valor de existir : 0
+2130   TCS  016577 
+ Valor de existir : 0
+2131   TCS  016577 
+ Valor de existir : 0
+2132   TCS  016577 
+ Valor de existir : 0
+2133   TCS  016577 
+ Valor de existir : 0
+2134   TCS  016577 
+ Valor de existir : 0
+2135   TCS  016577 
+ Valor de existir : 0
+2136   TCS  016577 
+ Valor de existir : 0
+2137   TCS  016577 
+ Valor de existir : 0
+2138   TCS  016577 
+ Valor de existir : 0
+2139   TCS  016577 
+ Valor de existir : 0
+2140   TCS  016577 
+ Valor de existir : 0
+2141   TCS  016577 
+ Valor de existir : 0
+2142   TCS  016577 
+ Valor de existir : 0
+2143   TCS  016577 
+ Valor de existir : 0
+2144   TCS  016577 
+ Valor de existir : 0
+2145   TCS  016577 
+ Valor de existir : 0
+2146   TCS  016577 
+ Valor de existir : 0
+2147   TCS  016577 
+ Valor de existir : 0
+2148   TCS  016577 
+ Valor de existir : 0
+2149   TCS  016577 
+ Valor de existir : 0
+2150   TCS  016577 
+ Valor de existir : 0
+2151   TCS  016577 
+ Valor de existir : 0
+2152   TCS  016577 
+ Valor de existir : 0
+2153   TCS  016577 
+ Valor de existir : 0
+2154   TCS  016577 
+ Valor de existir : 0
+2155   TCS  016577 
+ Valor de existir : 0
+2156   TCS  016577 
+ Valor de existir : 0
+2157   TCS  016577 
+ Valor de existir : 0
+2158   TCS  016577 
+ Valor de existir : 0
+2159   TCS  016577 
+ Valor de existir : 0
+2160   TCS  016577 
+ Valor de existir : 0
+2161   TCS  016577 
+ Valor de existir : 0
+2162   TCS  016577 
+ Valor de existir : 0
+2163   TCS  016577 
+ Valor de existir : 0
+2164   TCS  016577 
+ Valor de existir : 0
+2165   TCS  016577 
+ Valor de existir : 0
+2166   TCS  016577 
+ Valor de existir : 0
+2167   TCS  016577 
+ Valor de existir : 0
+2168   TCS  016577 
+ Valor de existir : 0
+2169   TCS  016577 
+ Valor de existir : 0
+2170   TCS  016577 
+ Valor de existir : 0
+2171   TCS  016577 
+ Valor de existir : 0
+2172   TCS  016577 
+ Valor de existir : 0
+2173   TCS  016577 
+ Valor de existir : 0
+2174   TCS  016577 
+ Valor de existir : 0
+2175   TCS  016577 
+ Valor de existir : 0
+2176   TCS  016577 
+ Valor de existir : 0
+2177   TCS  016577 
+ Valor de existir : 0
+2178   TCS  016577 
+ Valor de existir : 0
+2179   TCS  016577 
+ Valor de existir : 0
+2180   TCS  016577 
+ Valor de existir : 0
+2181   TCS  016577 
+ Valor de existir : 0
+2182   TCS  016577 
+ Valor de existir : 0
+2183   TCS  016577 
+ Valor de existir : 0
+2184   TCS  016577 
+ Valor de existir : 0
+2185   TCS  016577 
+ Valor de existir : 0
+2186   TCS  016577 
+ Valor de existir : 0
+2187   TCS  016577 
+ Valor de existir : 0
+2188   TCS  016577 
+ Valor de existir : 0
+2189   TCS  016577 
+ Valor de existir : 0
+2190   TCS  016577 
+ Valor de existir : 0
+2191   TCS  016577 
+ Valor de existir : 0
+2192   TCS  016577 
+ Valor de existir : 0
+2193   TCS  016577 
+ Valor de existir : 0
+2194   TCS  016577 
+ Valor de existir : 0
+2195   TCS  016577 
+ Valor de existir : 0
+2196   TCS  016577 
+ Valor de existir : 0
+2197   TCS  016577 
+ Valor de existir : 0
+2198   TCS  016577 
+ Valor de existir : 0
+2199   TCS  016577 
+ Valor de existir : 0
+2200   TCS  016577 
+ Valor de existir : 0
+2201   TCS  016577 
+ Valor de existir : 0
+2202   TCS  016577 
+ Valor de existir : 0
+2203   TCS  016577 
+ Valor de existir : 0
+2204   TCS  016577 
+ Valor de existir : 0
+2205   TCS  016577 
+ Valor de existir : 0
+2206   TCS  016577 
+ Valor de existir : 0
+2207   TCS  016577 
+ Valor de existir : 0
+2208   TCS  016577 
+ Valor de existir : 0
+2209   TCS  016577 
+ Valor de existir : 0
+2210   TCS  016577 
+ Valor de existir : 0
+2211   TCS  016577 
+ Valor de existir : 0
+2212   TCS  016577 
+ Valor de existir : 0
+2213   TCS  016577 
+ Valor de existir : 0
+2214   TCS  016577 
+ Valor de existir : 0
+2215   TCS  016577 
+ Valor de existir : 0
+2216   TCS  016577 
+ Valor de existir : 0
+2217   TCS  016577 
+ Valor de existir : 0
+2218   TCS  016577 
+ Valor de existir : 0
+2219   TCS  016577 
+ Valor de existir : 0
+2220   TCS  016577 
+ Valor de existir : 0
+2221   TCS  016577 
+ Valor de existir : 0
+2222   TCS  016577 
+ Valor de existir : 0
+2223   TCS  016577 
+ Valor de existir : 0
+2224   TCS  016577 
+ Valor de existir : 0
+2225   TCS  016577 
+ Valor de existir : 0
+2226   TCS  016577 
+ Valor de existir : 0
+2227   TCS  016577 
+ Valor de existir : 0
+2228   TCS  016577 
+ Valor de existir : 0
+2229   TCS  016577 
+ Valor de existir : 0
+2230   TCS  016577 
+ Valor de existir : 0
+2231   TCS  016577 
+ Valor de existir : 0
+2232   TCS  016577 
+ Valor de existir : 0
+2233   TCS  016577 
+ Valor de existir : 0
+2234   TCS  016577 
+ Valor de existir : 0
+2235   TCS  016577 
+ Valor de existir : 0
+2236   TCS  016577 
+ Valor de existir : 0
+2237   TCS  016577 
+ Valor de existir : 0
+2238   TCS  016577 
+ Valor de existir : 0
+2239   TCS  016577 
+ Valor de existir : 0
+2240   TCS  016577 
+ Valor de existir : 0
+2241   TCS  016577 
+ Valor de existir : 0
+2242   TCS  016577 
+ Valor de existir : 0
+2243   TCS  016577 
+ Valor de existir : 0
+2244   TCS  016577 
+ Valor de existir : 0
+2245   TCS  016577 
+ Valor de existir : 0
+2246   TCS  016577 
+ Valor de existir : 0
+2247   TCS  016577 
+ Valor de existir : 0
+2248   TCS  016577 
+ Valor de existir : 0
+2249   TCS  016577 
+ Valor de existir : 0
+2250   TCS  016577 
+ Valor de existir : 0
+2251   TCS  016577 
+ Valor de existir : 0
+2252   TCS  016577 
+ Valor de existir : 0
+2253   TCS  016577 
+ Valor de existir : 0
+2254   TCS  016577 
+ Valor de existir : 0
+2255   TCS  016577 
+ Valor de existir : 0
+2256   TCS  016577 
+ Valor de existir : 0
+2257   TCS  016577 
+ Valor de existir : 0
+2258   TCS  016577 
+ Valor de existir : 0
+2259   TCS  016577 
+ Valor de existir : 0
+2260   TCS  016577 
+ Valor de existir : 0
+2261   TCS  016577 
+ Valor de existir : 0
+2262   TCS  016577 
+ Valor de existir : 0
+2263   TCS  016577 
+ Valor de existir : 0
+2264   TCS  016577 
+ Valor de existir : 0
+2265   TCS  016577 
+ Valor de existir : 0
+2266   TCS  016577 
+ Valor de existir : 0
+2267   TCS  016577 
+ Valor de existir : 0
+2268   TCS  016577 
+ Valor de existir : 0
+2269   TCS  016577 
+ Valor de existir : 0
+2270   TCS  016577 
+ Valor de existir : 0
+2271   TCS  016577 
+ Valor de existir : 0
+2272   TCS  016577 
+ Valor de existir : 0
+2273   TCS  016577 
+ Valor de existir : 0
+2274   TCS  016577 
+ Valor de existir : 0
+2275   TCS  016577 
+ Valor de existir : 0
+2276   TCS  016577 
+ Valor de existir : 0
+2277   TCS  016577 
+ Valor de existir : 0
+2278   TCS  016577 
+ Valor de existir : 0
+2279   TCS  016577 
+ Valor de existir : 0
+2280   TCS  016577 
+ Valor de existir : 0
+2281   TCS  016577 
+ Valor de existir : 0
+2282   TCS  016577 
+ Valor de existir : 0
+2283   TCS  016577 
+ Valor de existir : 0
+2284   TCS  016577 
+ Valor de existir : 0
+2285   TCS  016577 
+ Valor de existir : 0
+2286   TCS  016577 
+ Valor de existir : 0
+2287   TCS  016577 
+ Valor de existir : 0
+2288   TCS  016577 
+ Valor de existir : 0
+2289   TCS  016577 
+ Valor de existir : 0
+2290   TCS  016577 
+ Valor de existir : 0
+2291   TCS  016577 
+ Valor de existir : 0
+2292   TCS  016577 
+ Valor de existir : 0
+2293   TCS  016577 
+ Valor de existir : 0
+2294   TCS  016577 
+ Valor de existir : 0
+2295   TCS  016577 
+ Valor de existir : 0
+2296   TCS  016577 
+ Valor de existir : 0
+2297   TCS  016577 
+ Valor de existir : 0
+2298   TCS  016577 
+ Valor de existir : 0
+2299   TCS  016577 
+ Valor de existir : 0
+2300   TCS  016577 
+ Valor de existir : 0
+2301   TCS  016577 
+ Valor de existir : 0
+2302   TCS  016577 
+ Valor de existir : 0
+2303   TCS  016577 
+ Valor de existir : 0
+2304   TCS  016577 
+ Valor de existir : 0
+2305   TCS  016577 
+ Valor de existir : 0
+2306   TCS  016577 
+ Valor de existir : 0
+2307   TCS  016577 
+ Valor de existir : 0
+2308   TCS  016577 
+ Valor de existir : 0
+2309   TCS  016577 
+ Valor de existir : 0
+2310   TCS  016577 
+ Valor de existir : 0
+2311   TCS  016577 
+ Valor de existir : 0
+2312   TCS  016577 
+ Valor de existir : 0
+2313   TCS  016577 
+ Valor de existir : 0
+2314   TCS  016577 
+ Valor de existir : 0
+2315   TCS  016577 
+ Valor de existir : 0
+2316   TCS  016577 
+ Valor de existir : 0
+2317   TCS  016577 
+ Valor de existir : 0
+2318   TCS  016577 
+ Valor de existir : 0
+2319   TCS  016577 
+ Valor de existir : 0
+2320   TCS  016577 
+ Valor de existir : 0
+2321   TCS  016577 
+ Valor de existir : 0
+2322   TCS  016577 
+ Valor de existir : 0
+2323   TCS  016577 
+ Valor de existir : 0
+2324   TCS  016577 
+ Valor de existir : 0
+2325   TCS  016577 
+ Valor de existir : 0
+2326   TCS  016577 
+ Valor de existir : 0
+2327   TCS  016577 
+ Valor de existir : 0
+2328   TCS  016577 
+ Valor de existir : 0
+2329   TCS  016577 
+ Valor de existir : 0
+2330   TCS  016577 
+ Valor de existir : 0
+2331   TCS  016577 
+ Valor de existir : 0
+2332   TCS  016577 
+ Valor de existir : 0
+2333   TCS  016577 
+ Valor de existir : 0
+2334   TCS  016577 
+ Valor de existir : 0
+2335   TCS  016577 
+ Valor de existir : 0
+2336   TCS  016577 
+ Valor de existir : 0
+2337   TCS  016577 
+ Valor de existir : 0
+2338   TCS  016577 
+ Valor de existir : 0
+2339   TCS  016577 
+ Valor de existir : 0
+2340   TCS  016577 
+ Valor de existir : 0
+2341   TCS  016577 
+ Valor de existir : 0
+2342   TCS  016577 
+ Valor de existir : 0
+2343   TCS  016577 
+ Valor de existir : 0
+2344   TCS  016577 
+ Valor de existir : 0
+2345   TCS  016577 
+ Valor de existir : 0
+2346   TCS  016577 
+ Valor de existir : 0
+2347   TCS  016577 
+ Valor de existir : 0
+2348   TCS  016577 
+ Valor de existir : 0
+2349   TCS  016577 
+ Valor de existir : 0
+2350   TCS  016577 
+ Valor de existir : 0
+2351   TCS  016577 
+ Valor de existir : 0
+2352   TCS  016577 
+ Valor de existir : 0
+2353   TCS  016577 
+ Valor de existir : 0
+2354   TCS  016577 
+ Valor de existir : 0
+2355   TCS  016577 
+ Valor de existir : 0
+2356   TCS  016577 
+ Valor de existir : 0
+2357   TCS  016577 
+ Valor de existir : 0
+2358   TCS  016577 
+ Valor de existir : 0
+2359   TCS  016577 
+ Valor de existir : 0
+2360   TCS  016577 
+ Valor de existir : 0
+2361   TCS  016577 
+ Valor de existir : 0
+2362   TCS  016577 
+ Valor de existir : 0
+2363   TCS  016577 
+ Valor de existir : 0
+2364   TCS  016577 
+ Valor de existir : 0
+2365   TCS  016577 
+ Valor de existir : 0
+2366   TCS  016577 
+ Valor de existir : 0
+2367   TCS  016577 
+ Valor de existir : 0
+2368   TCS  016577 
+ Valor de existir : 0
+2369   TCS  016577 
+ Valor de existir : 0
+2370   TCS  016577 
+ Valor de existir : 0
+2371   TCS  016577 
+ Valor de existir : 0
+1   TCS  019082 
+ Valor de existir : 0
+2   TCS  019082 
+ Valor de existir : 0
+3   TCS  019082 
+ Valor de existir : 0
+4   TCS  019082 
+ Valor de existir : 0
+5   TCS  019082 
+ Valor de existir : 0
+6   TCS  019082 
+ Valor de existir : 0
+7   TCS  019082 
+ Valor de existir : 0
+8   TCS  019082 
+ Valor de existir : 0
+9   TCS  019082 
+ Valor de existir : 0
+10   TCS  019082 
+ Valor de existir : 0
+11   TCS  019082 
+ Valor de existir : 0
+12   TCS  019082 
+ Valor de existir : 0
+13   TCS  019082 
+ Valor de existir : 0
+14   TCS  019082 
+ Valor de existir : 0
+15   TCS  019082 
+ Valor de existir : 0
+16   TCS  019082 
+ Valor de existir : 0
+17   TCS  019082 
+ Valor de existir : 0
+18   TCS  019082 
+ Valor de existir : 0
+19   TCS  019082 
+ Valor de existir : 0
+20   TCS  019082 
+ Valor de existir : 0
+21   TCS  019082 
+ Valor de existir : 0
+22   TCS  019082 
+ Valor de existir : 0
+23   TCS  019082 
+ Valor de existir : 0
+24   TCS  019082 
+ Valor de existir : 0
+25   TCS  019082 
+ Valor de existir : 0
+26   TCS  019082 
+ Valor de existir : 0
+27   TCS  019082 
+ Valor de existir : 0
+28   TCS  019082 
+ Valor de existir : 0
+29   TCS  019082 
+ Valor de existir : 0
+30   TCS  019082 
+ Valor de existir : 0
+31   TCS  019082 
+ Valor de existir : 0
+32   TCS  019082 
+ Valor de existir : 0
+33   TCS  019082 
+ Valor de existir : 0
+34   TCS  019082 
+ Valor de existir : 0
+35   TCS  019082 
+ Valor de existir : 0
+36   TCS  019082 
+ Valor de existir : 0
+37   TCS  019082 
+ Valor de existir : 0
+38   TCS  019082 
+ Valor de existir : 0
+39   TCS  019082 
+ Valor de existir : 0
+40   TCS  019082 
+ Valor de existir : 0
+41   TCS  019082 
+ Valor de existir : 0
+42   TCS  019082 
+ Valor de existir : 0
+43   TCS  019082 
+ Valor de existir : 0
+44   TCS  019082 
+ Valor de existir : 0
+45   TCS  019082 
+ Valor de existir : 0
+46   TCS  019082 
+ Valor de existir : 0
+47   TCS  019082 
+ Valor de existir : 0
+48   TCS  019082 
+ Valor de existir : 0
+49   TCS  019082 
+ Valor de existir : 0
+50   TCS  019082 
+ Valor de existir : 0
+51   TCS  019082 
+ Valor de existir : 0
+52   TCS  019082 
+ Valor de existir : 0
+53   TCS  019082 
+ Valor de existir : 0
+54   TCS  019082 
+ Valor de existir : 0
+55   TCS  019082 
+ Valor de existir : 0
+56   TCS  019082 
+ Valor de existir : 0
+57   TCS  019082 
+ Valor de existir : 0
+58   TCS  019082 
+ Valor de existir : 0
+59   TCS  019082 
+ Valor de existir : 0
+60   TCS  019082 
+ Valor de existir : 0
+61   TCS  019082 
+ Valor de existir : 0
+62   TCS  019082 
+ Valor de existir : 0
+63   TCS  019082 
+ Valor de existir : 0
+64   TCS  019082 
+ Valor de existir : 0
+65   TCS  019082 
+ Valor de existir : 0
+66   TCS  019082 
+ Valor de existir : 0
+67   TCS  019082 
+ Valor de existir : 0
+68   TCS  019082 
+ Valor de existir : 0
+69   TCS  019082 
+ Valor de existir : 0
+70   TCS  019082 
+ Valor de existir : 0
+71   TCS  019082 
+ Valor de existir : 0
+72   TCS  019082 
+ Valor de existir : 0
+73   TCS  019082 
+ Valor de existir : 0
+74   TCS  019082 
+ Valor de existir : 0
+75   TCS  019082 
+ Valor de existir : 0
+76   TCS  019082 
+ Valor de existir : 0
+77   TCS  019082 
+ Valor de existir : 0
+78   TCS  019082 
+ Valor de existir : 0
+79   TCS  019082 
+ Valor de existir : 0
+80   TCS  019082 
+ Valor de existir : 0
+81   TCS  019082 
+ Valor de existir : 0
+82   TCS  019082 
+ Valor de existir : 0
+83   TCS  019082 
+ Valor de existir : 0
+84   TCS  019082 
+ Valor de existir : 0
+85   TCS  019082 
+ Valor de existir : 0
+86   TCS  019082 
+ Valor de existir : 0
+87   TCS  019082 
+ Valor de existir : 0
+88   TCS  019082 
+ Valor de existir : 0
+89   TCS  019082 
+ Valor de existir : 0
+90   TCS  019082 
+ Valor de existir : 0
+91   TCS  019082 
+ Valor de existir : 0
+92   TCS  019082 
+ Valor de existir : 0
+93   TCS  019082 
+ Valor de existir : 0
+94   TCS  019082 
+ Valor de existir : 0
+95   TCS  019082 
+ Valor de existir : 0
+96   TCS  019082 
+ Valor de existir : 0
+97   TCS  019082 
+ Valor de existir : 0
+98   TCS  019082 
+ Valor de existir : 0
+99   TCS  019082 
+ Valor de existir : 0
+100   TCS  019082 
+ Valor de existir : 0
+101   TCS  019082 
+ Valor de existir : 0
+102   TCS  019082 
+ Valor de existir : 0
+103   TCS  019082 
+ Valor de existir : 0
+104   TCS  019082 
+ Valor de existir : 0
+105   TCS  019082 
+ Valor de existir : 0
+106   TCS  019082 
+ Valor de existir : 0
+107   TCS  019082 
+ Valor de existir : 0
+108   TCS  019082 
+ Valor de existir : 0
+109   TCS  019082 
+ Valor de existir : 0
+110   TCS  019082 
+ Valor de existir : 0
+111   TCS  019082 
+ Valor de existir : 0
+112   TCS  019082 
+ Valor de existir : 0
+113   TCS  019082 
+ Valor de existir : 0
+114   TCS  019082 
+ Valor de existir : 0
+115   TCS  019082 
+ Valor de existir : 0
+116   TCS  019082 
+ Valor de existir : 0
+117   TCS  019082 
+ Valor de existir : 0
+118   TCS  019082 
+ Valor de existir : 0
+119   TCS  019082 
+ Valor de existir : 0
+120   TCS  019082 
+ Valor de existir : 0
+121   TCS  019082 
+ Valor de existir : 0
+122   TCS  019082 
+ Valor de existir : 0
+123   TCS  019082 
+ Valor de existir : 0
+124   TCS  019082 
+ Valor de existir : 0
+125   TCS  019082 
+ Valor de existir : 0
+126   TCS  019082 
+ Valor de existir : 0
+127   TCS  019082 
+ Valor de existir : 0
+128   TCS  019082 
+ Valor de existir : 0
+129   TCS  019082 
+ Valor de existir : 0
+130   TCS  019082 
+ Valor de existir : 0
+131   TCS  019082 
+ Valor de existir : 0
+132   TCS  019082 
+ Valor de existir : 0
+133   TCS  019082 
+ Valor de existir : 0
+134   TCS  019082 
+ Valor de existir : 0
+135   TCS  019082 
+ Valor de existir : 0
+136   TCS  019082 
+ Valor de existir : 0
+137   TCS  019082 
+ Valor de existir : 0
+138   TCS  019082 
+ Valor de existir : 0
+139   TCS  019082 
+ Valor de existir : 0
+140   TCS  019082 
+ Valor de existir : 0
+141   TCS  019082 
+ Valor de existir : 0
+142   TCS  019082 
+ Valor de existir : 0
+143   TCS  019082 
+ Valor de existir : 0
+144   TCS  019082 
+ Valor de existir : 0
+145   TCS  019082 
+ Valor de existir : 0
+146   TCS  019082 
+ Valor de existir : 0
+147   TCS  019082 
+ Valor de existir : 0
+148   TCS  019082 
+ Valor de existir : 0
+149   TCS  019082 
+ Valor de existir : 0
+150   TCS  019082 
+ Valor de existir : 0
+151   TCS  019082 
+ Valor de existir : 0
+152   TCS  019082 
+ Valor de existir : 0
+153   TCS  019082 
+ Valor de existir : 0
+154   TCS  019082 
+ Valor de existir : 0
+155   TCS  019082 
+ Valor de existir : 0
+156   TCS  019082 
+ Valor de existir : 0
+157   TCS  019082 
+ Valor de existir : 0
+158   TCS  019082 
+ Valor de existir : 0
+159   TCS  019082 
+ Valor de existir : 0
+160   TCS  019082 
+ Valor de existir : 0
+161   TCS  019082 
+ Valor de existir : 0
+162   TCS  019082 
+ Valor de existir : 0
+163   TCS  019082 
+ Valor de existir : 0
+164   TCS  019082 
+ Valor de existir : 0
+165   TCS  019082 
+ Valor de existir : 0
+166   TCS  019082 
+ Valor de existir : 0
+167   TCS  019082 
+ Valor de existir : 0
+168   TCS  019082 
+ Valor de existir : 0
+169   TCS  019082 
+ Valor de existir : 0
+170   TCS  019082 
+ Valor de existir : 0
+171   TCS  019082 
+ Valor de existir : 0
+172   TCS  019082 
+ Valor de existir : 0
+173   TCS  019082 
+ Valor de existir : 0
+174   TCS  019082 
+ Valor de existir : 0
+175   TCS  019082 
+ Valor de existir : 0
+176   TCS  019082 
+ Valor de existir : 0
+177   TCS  019082 
+ Valor de existir : 0
+178   TCS  019082 
+ Valor de existir : 0
+179   TCS  019082 
+ Valor de existir : 0
+180   TCS  019082 
+ Valor de existir : 0
+181   TCS  019082 
+ Valor de existir : 0
+182   TCS  019082 
+ Valor de existir : 0
+183   TCS  019082 
+ Valor de existir : 0
+184   TCS  019082 
+ Valor de existir : 0
+185   TCS  019082 
+ Valor de existir : 0
+186   TCS  019082 
+ Valor de existir : 0
+187   TCS  019082 
+ Valor de existir : 0
+188   TCS  019082 
+ Valor de existir : 0
+189   TCS  019082 
+ Valor de existir : 0
+190   TCS  019082 
+ Valor de existir : 0
+191   TCS  019082 
+ Valor de existir : 0
+192   TCS  019082 
+ Valor de existir : 0
+193   TCS  019082 
+ Valor de existir : 0
+194   TCS  019082 
+ Valor de existir : 0
+195   TCS  019082 
+ Valor de existir : 0
+196   TCS  019082 
+ Valor de existir : 0
+197   TCS  019082 
+ Valor de existir : 0
+198   TCS  019082 
+ Valor de existir : 0
+199   TCS  019082 
+ Valor de existir : 0
+200   TCS  019082 
+ Valor de existir : 0
+201   TCS  019082 
+ Valor de existir : 0
+202   TCS  019082 
+ Valor de existir : 0
+203   TCS  019082 
+ Valor de existir : 0
+204   TCS  019082 
+ Valor de existir : 0
+205   TCS  019082 
+ Valor de existir : 0
+206   TCS  019082 
+ Valor de existir : 0
+207   TCS  019082 
+ Valor de existir : 0
+208   TCS  019082 
+ Valor de existir : 0
+209   TCS  019082 
+ Valor de existir : 0
+210   TCS  019082 
+ Valor de existir : 0
+211   TCS  019082 
+ Valor de existir : 0
+212   TCS  019082 
+ Valor de existir : 0
+213   TCS  019082 
+ Valor de existir : 0
+214   TCS  019082 
+ Valor de existir : 0
+215   TCS  019082 
+ Valor de existir : 0
+216   TCS  019082 
+ Valor de existir : 0
+217   TCS  019082 
+ Valor de existir : 0
+218   TCS  019082 
+ Valor de existir : 0
+219   TCS  019082 
+ Valor de existir : 0
+220   TCS  019082 
+ Valor de existir : 0
+221   TCS  019082 
+ Valor de existir : 0
+222   TCS  019082 
+ Valor de existir : 0
+223   TCS  019082 
+ Valor de existir : 0
+224   TCS  019082 
+ Valor de existir : 0
+225   TCS  019082 
+ Valor de existir : 0
+226   TCS  019082 
+ Valor de existir : 0
+227   TCS  019082 
+ Valor de existir : 0
+228   TCS  019082 
+ Valor de existir : 0
+229   TCS  019082 
+ Valor de existir : 0
+230   TCS  019082 
+ Valor de existir : 0
+231   TCS  019082 
+ Valor de existir : 0
+232   TCS  019082 
+ Valor de existir : 0
+233   TCS  019082 
+ Valor de existir : 0
+234   TCS  019082 
+ Valor de existir : 0
+235   TCS  019082 
+ Valor de existir : 0
+236   TCS  019082 
+ Valor de existir : 0
+1   TCS  019090 
+ Valor de existir : 0
+2   TCS  019090 
+ Valor de existir : 0
+3   TCS  019090 
+ Valor de existir : 0
+4   TCS  019090 
+ Valor de existir : 0
+5   TCS  019090 
+ Valor de existir : 0
+6   TCS  019090 
+ Valor de existir : 0
+7   TCS  019090 
+ Valor de existir : 0
+8   TCS  019090 
+ Valor de existir : 0
+9   TCS  019090 
+ Valor de existir : 0
+10   TCS  019090 
+ Valor de existir : 0
+11   TCS  019090 
+ Valor de existir : 0
+12   TCS  019090 
+ Valor de existir : 0
+13   TCS  019090 
+ Valor de existir : 0
+14   TCS  019090 
+ Valor de existir : 0
+15   TCS  019090 
+ Valor de existir : 0
+16   TCS  019090 
+ Valor de existir : 0
+17   TCS  019090 
+ Valor de existir : 0
+18   TCS  019090 
+ Valor de existir : 0
+19   TCS  019090 
+ Valor de existir : 0
+20   TCS  019090 
+ Valor de existir : 0
+21   TCS  019090 
+ Valor de existir : 0
+22   TCS  019090 
+ Valor de existir : 0
+23   TCS  019090 
+ Valor de existir : 0
+24   TCS  019090 
+ Valor de existir : 0
+25   TCS  019090 
+ Valor de existir : 0
+26   TCS  019090 
+ Valor de existir : 0
+27   TCS  019090 
+ Valor de existir : 0
+28   TCS  019090 
+ Valor de existir : 0
+29   TCS  019090 
+ Valor de existir : 0
+30   TCS  019090 
+ Valor de existir : 0
+31   TCS  019090 
+ Valor de existir : 0
+32   TCS  019090 
+ Valor de existir : 0
+33   TCS  019090 
+ Valor de existir : 0
+34   TCS  019090 
+ Valor de existir : 0
+35   TCS  019090 
+ Valor de existir : 0
+36   TCS  019090 
+ Valor de existir : 0
+37   TCS  019090 
+ Valor de existir : 0
+38   TCS  019090 
+ Valor de existir : 0
+39   TCS  019090 
+ Valor de existir : 0
+40   TCS  019090 
+ Valor de existir : 0
+41   TCS  019090 
+ Valor de existir : 0
+42   TCS  019090 
+ Valor de existir : 0
+43   TCS  019090 
+ Valor de existir : 0
+44   TCS  019090 
+ Valor de existir : 0
+45   TCS  019090 
+ Valor de existir : 0
+46   TCS  019090 
+ Valor de existir : 0
+47   TCS  019090 
+ Valor de existir : 0
+48   TCS  019090 
+ Valor de existir : 0
+49   TCS  019090 
+ Valor de existir : 0
+50   TCS  019090 
+ Valor de existir : 0
+51   TCS  019090 
+ Valor de existir : 0
+52   TCS  019090 
+ Valor de existir : 0
+53   TCS  019090 
+ Valor de existir : 0
+54   TCS  019090 
+ Valor de existir : 0
+55   TCS  019090 
+ Valor de existir : 0
+56   TCS  019090 
+ Valor de existir : 0
+57   TCS  019090 
+ Valor de existir : 0
+58   TCS  019090 
+ Valor de existir : 0
+59   TCS  019090 
+ Valor de existir : 0
+60   TCS  019090 
+ Valor de existir : 0
+61   TCS  019090 
+ Valor de existir : 0
+62   TCS  019090 
+ Valor de existir : 0
+63   TCS  019090 
+ Valor de existir : 0
+64   TCS  019090 
+ Valor de existir : 0
+65   TCS  019090 
+ Valor de existir : 0
+66   TCS  019090 
+ Valor de existir : 0
+67   TCS  019090 
+ Valor de existir : 0
+68   TCS  019090 
+ Valor de existir : 0
+69   TCS  019090 
+ Valor de existir : 0
+70   TCS  019090 
+ Valor de existir : 0
+71   TCS  019090 
+ Valor de existir : 0
+72   TCS  019090 
+ Valor de existir : 0
+73   TCS  019090 
+ Valor de existir : 0
+74   TCS  019090 
+ Valor de existir : 0
+75   TCS  019090 
+ Valor de existir : 0
+76   TCS  019090 
+ Valor de existir : 0
+77   TCS  019090 
+ Valor de existir : 0
+78   TCS  019090 
+ Valor de existir : 0
+79   TCS  019090 
+ Valor de existir : 0
+80   TCS  019090 
+ Valor de existir : 0
+81   TCS  019090 
+ Valor de existir : 0
+82   TCS  019090 
+ Valor de existir : 0
+83   TCS  019090 
+ Valor de existir : 0
+84   TCS  019090 
+ Valor de existir : 0
+85   TCS  019090 
+ Valor de existir : 0
+86   TCS  019090 
+ Valor de existir : 0
+87   TCS  019090 
+ Valor de existir : 0
+88   TCS  019090 
+ Valor de existir : 0
+89   TCS  019090 
+ Valor de existir : 0
+90   TCS  019090 
+ Valor de existir : 0
+91   TCS  019090 
+ Valor de existir : 0
+92   TCS  019090 
+ Valor de existir : 0
+93   TCS  019090 
+ Valor de existir : 0
+94   TCS  019090 
+ Valor de existir : 0
+95   TCS  019090 
+ Valor de existir : 0
+96   TCS  019090 
+ Valor de existir : 0
+97   TCS  019090 
+ Valor de existir : 0
+98   TCS  019090 
+ Valor de existir : 0
+99   TCS  019090 
+ Valor de existir : 0
+100   TCS  019090 
+ Valor de existir : 0
+310   TCS  019719 
+ Valor de existir : 0
+311   TCS  019719 
+ Valor de existir : 0
+312   TCS  019719 
+ Valor de existir : 0
+313   TCS  019719 
+ Valor de existir : 0
+314   TCS  019719 
+ Valor de existir : 0
+315   TCS  019719 
+ Valor de existir : 0
+316   TCS  019719 
+ Valor de existir : 0
+317   TCS  019719 
+ Valor de existir : 0
+318   TCS  019719 
+ Valor de existir : 0
+319   TCS  019719 
+ Valor de existir : 0
+320   TCS  019719 
+ Valor de existir : 0
+321   TCS  019719 
+ Valor de existir : 0
+322   TCS  019719 
+ Valor de existir : 0
+323   TCS  019719 
+ Valor de existir : 0
+324   TCS  019719 
+ Valor de existir : 0
+325   TCS  019719 
+ Valor de existir : 0
+326   TCS  019719 
+ Valor de existir : 0
+327   TCS  019719 
+ Valor de existir : 0
+328   TCS  019719 
+ Valor de existir : 0
+329   TCS  019719 
+ Valor de existir : 0
+330   TCS  019719 
+ Valor de existir : 0
+331   TCS  019719 
+ Valor de existir : 0
+332   TCS  019719 
+ Valor de existir : 0
+333   TCS  019719 
+ Valor de existir : 0
+334   TCS  019719 
+ Valor de existir : 0
+335   TCS  019719 
+ Valor de existir : 0
+336   TCS  019719 
+ Valor de existir : 0
+337   TCS  019719 
+ Valor de existir : 0
+338   TCS  019719 
+ Valor de existir : 0
+339   TCS  019719 
+ Valor de existir : 0
+340   TCS  019719 
+ Valor de existir : 0
+341   TCS  019719 
+ Valor de existir : 0
+342   TCS  019719 
+ Valor de existir : 0
+343   TCS  019719 
+ Valor de existir : 0
+344   TCS  019719 
+ Valor de existir : 0
+345   TCS  019719 
+ Valor de existir : 0
+346   TCS  019719 
+ Valor de existir : 0
+347   TCS  019719 
+ Valor de existir : 0
+348   TCS  019719 
+ Valor de existir : 0
+349   TCS  019719 
+ Valor de existir : 0
+350   TCS  019719 
+ Valor de existir : 0
+351   TCS  019719 
+ Valor de existir : 0
+352   TCS  019719 
+ Valor de existir : 0
+353   TCS  019719 
+ Valor de existir : 0
+354   TCS  019719 
+ Valor de existir : 0
+355   TCS  019719 
+ Valor de existir : 0
+356   TCS  019719 
+ Valor de existir : 0
+357   TCS  019719 
+ Valor de existir : 0
+358   TCS  019719 
+ Valor de existir : 0
+359   TCS  019719 
+ Valor de existir : 0
+360   TCS  019719 
+ Valor de existir : 0
+361   TCS  019719 
+ Valor de existir : 0
+362   TCS  019719 
+ Valor de existir : 0
+363   TCS  019719 
+ Valor de existir : 0
+364   TCS  019719 
+ Valor de existir : 0
+365   TCS  019719 
+ Valor de existir : 0
+366   TCS  019719 
+ Valor de existir : 0
+367   TCS  019719 
+ Valor de existir : 0
+368   TCS  019719 
+ Valor de existir : 0
+369   TCS  019719 
+ Valor de existir : 0
+370   TCS  019719 
+ Valor de existir : 0
+371   TCS  019719 
+ Valor de existir : 0
+372   TCS  019719 
+ Valor de existir : 0
+373   TCS  019719 
+ Valor de existir : 0
+374   TCS  019719 
+ Valor de existir : 0
+375   TCS  019719 
+ Valor de existir : 0
+376   TCS  019719 
+ Valor de existir : 0
+377   TCS  019719 
+ Valor de existir : 0
+378   TCS  019719 
+ Valor de existir : 0
+379   TCS  019719 
+ Valor de existir : 0
+380   TCS  019719 
+ Valor de existir : 0
+381   TCS  019719 
+ Valor de existir : 0
+382   TCS  019719 
+ Valor de existir : 0
+383   TCS  019719 
+ Valor de existir : 0
+384   TCS  019719 
+ Valor de existir : 0
+385   TCS  019719 
+ Valor de existir : 0
+386   TCS  019719 
+ Valor de existir : 0
+387   TCS  019719 
+ Valor de existir : 0
+388   TCS  019719 
+ Valor de existir : 0
+389   TCS  019719 
+ Valor de existir : 0
+390   TCS  019719 
+ Valor de existir : 0
+391   TCS  019719 
+ Valor de existir : 0
+392   TCS  019719 
+ Valor de existir : 0
+393   TCS  019719 
+ Valor de existir : 0
+394   TCS  019719 
+ Valor de existir : 0
+395   TCS  019719 
+ Valor de existir : 0
+396   TCS  019719 
+ Valor de existir : 0
+397   TCS  019719 
+ Valor de existir : 0
+398   TCS  019719 
+ Valor de existir : 0
+399   TCS  019719 
+ Valor de existir : 0
+400   TCS  019719 
+ Valor de existir : 0
+401   TCS  019719 
+ Valor de existir : 0
+402   TCS  019719 
+ Valor de existir : 0
+403   TCS  019719 
+ Valor de existir : 0
+404   TCS  019719 
+ Valor de existir : 0
+405   TCS  019719 
+ Valor de existir : 0
+406   TCS  019719 
+ Valor de existir : 0
+407   TCS  019719 
+ Valor de existir : 0
+408   TCS  019719 
+ Valor de existir : 0
+409   TCS  019719 
+ Valor de existir : 0
+410   TCS  019719 
+ Valor de existir : 0
+411   TCS  019719 
+ Valor de existir : 0
+412   TCS  019719 
+ Valor de existir : 0
+413   TCS  019719 
+ Valor de existir : 0
+414   TCS  019719 
+ Valor de existir : 0
+415   TCS  019719 
+ Valor de existir : 0
+416   TCS  019719 
+ Valor de existir : 0
+417   TCS  019719 
+ Valor de existir : 0
+418   TCS  019719 
+ Valor de existir : 0
+419   TCS  019719 
+ Valor de existir : 0
+420   TCS  019719 
+ Valor de existir : 0
+421   TCS  019719 
+ Valor de existir : 0
+422   TCS  019719 
+ Valor de existir : 0
+423   TCS  019719 
+ Valor de existir : 0
+424   TCS  019719 
+ Valor de existir : 0
+425   TCS  019719 
+ Valor de existir : 0
+426   TCS  019719 
+ Valor de existir : 0
+427   TCS  019719 
+ Valor de existir : 0
+428   TCS  019719 
+ Valor de existir : 0
+429   TCS  019719 
+ Valor de existir : 0
+430   TCS  019719 
+ Valor de existir : 0
+431   TCS  019719 
+ Valor de existir : 0
+432   TCS  019719 
+ Valor de existir : 0
+433   TCS  019719 
+ Valor de existir : 0
+434   TCS  019719 
+ Valor de existir : 0
+435   TCS  019719 
+ Valor de existir : 0
+436   TCS  019719 
+ Valor de existir : 0
+437   TCS  019719 
+ Valor de existir : 0
+438   TCS  019719 
+ Valor de existir : 0
+439   TCS  019719 
+ Valor de existir : 0
+440   TCS  019719 
+ Valor de existir : 0
+441   TCS  019719 
+ Valor de existir : 0
+442   TCS  019719 
+ Valor de existir : 0
+443   TCS  019719 
+ Valor de existir : 0
+444   TCS  019719 
+ Valor de existir : 0
+445   TCS  019719 
+ Valor de existir : 0
+446   TCS  019719 
+ Valor de existir : 0
+447   TCS  019719 
+ Valor de existir : 0
+448   TCS  019719 
+ Valor de existir : 0
+449   TCS  019719 
+ Valor de existir : 0
+450   TCS  019719 
+ Valor de existir : 0
+451   TCS  019719 
+ Valor de existir : 0
+452   TCS  019719 
+ Valor de existir : 0
+453   TCS  019719 
+ Valor de existir : 0
+454   TCS  019719 
+ Valor de existir : 0
+455   TCS  019719 
+ Valor de existir : 0
+456   TCS  019719 
+ Valor de existir : 0
+457   TCS  019719 
+ Valor de existir : 0
+458   TCS  019719 
+ Valor de existir : 0
+459   TCS  019719 
+ Valor de existir : 0
+460   TCS  019719 
+ Valor de existir : 0
+461   TCS  019719 
+ Valor de existir : 0
+462   TCS  019719 
+ Valor de existir : 0
+463   TCS  019719 
+ Valor de existir : 0
+464   TCS  019719 
+ Valor de existir : 0
+465   TCS  019719 
+ Valor de existir : 0
+466   TCS  019719 
+ Valor de existir : 0
+467   TCS  019719 
+ Valor de existir : 0
+468   TCS  019719 
+ Valor de existir : 0
+469   TCS  019719 
+ Valor de existir : 0
+470   TCS  019719 
+ Valor de existir : 0
+471   TCS  019719 
+ Valor de existir : 0
+472   TCS  019719 
+ Valor de existir : 0
+473   TCS  019719 
+ Valor de existir : 0
+474   TCS  019719 
+ Valor de existir : 0
+475   TCS  019719 
+ Valor de existir : 0
+476   TCS  019719 
+ Valor de existir : 0
+477   TCS  019719 
+ Valor de existir : 0
+478   TCS  019719 
+ Valor de existir : 0
+479   TCS  019719 
+ Valor de existir : 0
+480   TCS  019719 
+ Valor de existir : 0
+481   TCS  019719 
+ Valor de existir : 0
+482   TCS  019719 
+ Valor de existir : 0
+483   TCS  019719 
+ Valor de existir : 0
+484   TCS  019719 
+ Valor de existir : 0
+485   TCS  019719 
+ Valor de existir : 0
+486   TCS  019719 
+ Valor de existir : 0
+487   TCS  019719 
+ Valor de existir : 0
+488   TCS  019719 
+ Valor de existir : 0
+489   TCS  019719 
+ Valor de existir : 0
+490   TCS  019719 
+ Valor de existir : 0
+491   TCS  019719 
+ Valor de existir : 0
+492   TCS  019719 
+ Valor de existir : 0
+493   TCS  019719 
+ Valor de existir : 0
+494   TCS  019719 
+ Valor de existir : 0
+495   TCS  019719 
+ Valor de existir : 0
+496   TCS  019719 
+ Valor de existir : 0
+497   TCS  019719 
+ Valor de existir : 0
+498   TCS  019719 
+ Valor de existir : 0
+499   TCS  019719 
+ Valor de existir : 0
+500   TCS  019719 
+ Valor de existir : 0
+501   TCS  019719 
+ Valor de existir : 0
+502   TCS  019719 
+ Valor de existir : 0
+503   TCS  019719 
+ Valor de existir : 0
+504   TCS  019719 
+ Valor de existir : 0
+505   TCS  019719 
+ Valor de existir : 0
+506   TCS  019719 
+ Valor de existir : 0
+507   TCS  019719 
+ Valor de existir : 0
+508   TCS  019719 
+ Valor de existir : 0
+509   TCS  019719 
+ Valor de existir : 0
+510   TCS  019719 
+ Valor de existir : 0
+511   TCS  019719 
+ Valor de existir : 0
+512   TCS  019719 
+ Valor de existir : 0
+513   TCS  019719 
+ Valor de existir : 0
+514   TCS  019719 
+ Valor de existir : 0
+515   TCS  019719 
+ Valor de existir : 0
+516   TCS  019719 
+ Valor de existir : 0
+517   TCS  019719 
+ Valor de existir : 0
+518   TCS  019719 
+ Valor de existir : 0
+519   TCS  019719 
+ Valor de existir : 0
+520   TCS  019719 
+ Valor de existir : 0
+521   TCS  019719 
+ Valor de existir : 0
+522   TCS  019719 
+ Valor de existir : 0
+523   TCS  019719 
+ Valor de existir : 0
+524   TCS  019719 
+ Valor de existir : 0
+525   TCS  019719 
+ Valor de existir : 0
+526   TCS  019719 
+ Valor de existir : 0
+527   TCS  019719 
+ Valor de existir : 0
+528   TCS  019719 
+ Valor de existir : 0
+529   TCS  019719 
+ Valor de existir : 0
+530   TCS  019719 
+ Valor de existir : 0
+531   TCS  019719 
+ Valor de existir : 0
+532   TCS  019719 
+ Valor de existir : 0
+533   TCS  019719 
+ Valor de existir : 0
+534   TCS  019719 
+ Valor de existir : 0
+535   TCS  019719 
+ Valor de existir : 0
+536   TCS  019719 
+ Valor de existir : 0
+537   TCS  019719 
+ Valor de existir : 0
+538   TCS  019719 
+ Valor de existir : 0
+539   TCS  019719 
+ Valor de existir : 0
+540   TCS  019719 
+ Valor de existir : 0
+541   TCS  019719 
+ Valor de existir : 0
+542   TCS  019719 
+ Valor de existir : 0
+543   TCS  019719 
+ Valor de existir : 0
+544   TCS  019719 
+ Valor de existir : 0
+545   TCS  019719 
+ Valor de existir : 0
+546   TCS  019719 
+ Valor de existir : 0
+547   TCS  019719 
+ Valor de existir : 0
+548   TCS  019719 
+ Valor de existir : 0
+549   TCS  019719 
+ Valor de existir : 0
+550   TCS  019719 
+ Valor de existir : 0
+551   TCS  019719 
+ Valor de existir : 0
+552   TCS  019719 
+ Valor de existir : 0
+553   TCS  019719 
+ Valor de existir : 0
+554   TCS  019719 
+ Valor de existir : 0
+555   TCS  019719 
+ Valor de existir : 0
+556   TCS  019719 
+ Valor de existir : 0
+557   TCS  019719 
+ Valor de existir : 0
+558   TCS  019719 
+ Valor de existir : 0
+559   TCS  019719 
+ Valor de existir : 0
+560   TCS  019719 
+ Valor de existir : 0
+561   TCS  019719 
+ Valor de existir : 0
+562   TCS  019719 
+ Valor de existir : 0
+563   TCS  019719 
+ Valor de existir : 0
+564   TCS  019719 
+ Valor de existir : 0
+565   TCS  019719 
+ Valor de existir : 0
+566   TCS  019719 
+ Valor de existir : 0
+567   TCS  019719 
+ Valor de existir : 0
+568   TCS  019719 
+ Valor de existir : 0
+569   TCS  019719 
+ Valor de existir : 0
+570   TCS  019719 
+ Valor de existir : 0
+571   TCS  019719 
+ Valor de existir : 0
+572   TCS  019719 
+ Valor de existir : 0
+573   TCS  019719 
+ Valor de existir : 0
+574   TCS  019719 
+ Valor de existir : 0
+575   TCS  019719 
+ Valor de existir : 0
+576   TCS  019719 
+ Valor de existir : 0
+577   TCS  019719 
+ Valor de existir : 0
+578   TCS  019719 
+ Valor de existir : 0
+579   TCS  019719 
+ Valor de existir : 0
+580   TCS  019719 
+ Valor de existir : 0
+581   TCS  019719 
+ Valor de existir : 0
+582   TCS  019719 
+ Valor de existir : 0
+583   TCS  019719 
+ Valor de existir : 0
+584   TCS  019719 
+ Valor de existir : 0
+585   TCS  019719 
+ Valor de existir : 0
+586   TCS  019719 
+ Valor de existir : 0
+587   TCS  019719 
+ Valor de existir : 0
+588   TCS  019719 
+ Valor de existir : 0
+589   TCS  019719 
+ Valor de existir : 0
+590   TCS  019719 
+ Valor de existir : 0
+591   TCS  019719 
+ Valor de existir : 0
+592   TCS  019719 
+ Valor de existir : 0
+593   TCS  019719 
+ Valor de existir : 0
+594   TCS  019719 
+ Valor de existir : 0
+595   TCS  019719 
+ Valor de existir : 0
+596   TCS  019719 
+ Valor de existir : 0
+597   TCS  019719 
+ Valor de existir : 0
+598   TCS  019719 
+ Valor de existir : 0
+599   TCS  019719 
+ Valor de existir : 0
+600   TCS  019719 
+ Valor de existir : 0
+601   TCS  019719 
+ Valor de existir : 0
+602   TCS  019719 
+ Valor de existir : 0
+603   TCS  019719 
+ Valor de existir : 0
+604   TCS  019719 
+ Valor de existir : 0
+605   TCS  019719 
+ Valor de existir : 0
+606   TCS  019719 
+ Valor de existir : 0
+607   TCS  019719 
+ Valor de existir : 0
+608   TCS  019719 
+ Valor de existir : 0
+609   TCS  019719 
+ Valor de existir : 0
+610   TCS  019719 
+ Valor de existir : 0
+611   TCS  019719 
+ Valor de existir : 0
+612   TCS  019719 
+ Valor de existir : 0
+613   TCS  019719 
+ Valor de existir : 0
+614   TCS  019719 
+ Valor de existir : 0
+615   TCS  019719 
+ Valor de existir : 0
+616   TCS  019719 
+ Valor de existir : 0
+617   TCS  019719 
+ Valor de existir : 0
+618   TCS  019719 
+ Valor de existir : 0
+619   TCS  019719 
+ Valor de existir : 0
+620   TCS  019719 
+ Valor de existir : 0
+621   TCS  019719 
+ Valor de existir : 0
+622   TCS  019719 
+ Valor de existir : 0
+623   TCS  019719 
+ Valor de existir : 0
+624   TCS  019719 
+ Valor de existir : 0
+625   TCS  019719 
+ Valor de existir : 0
+626   TCS  019719 
+ Valor de existir : 0
+627   TCS  019719 
+ Valor de existir : 0
+628   TCS  019719 
+ Valor de existir : 0
+629   TCS  019719 
+ Valor de existir : 0
+630   TCS  019719 
+ Valor de existir : 0
+631   TCS  019719 
+ Valor de existir : 0
+632   TCS  019719 
+ Valor de existir : 0
+633   TCS  019719 
+ Valor de existir : 0
+634   TCS  019719 
+ Valor de existir : 0
+635   TCS  019719 
+ Valor de existir : 0
+636   TCS  019719 
+ Valor de existir : 0
+637   TCS  019719 
+ Valor de existir : 0
+638   TCS  019719 
+ Valor de existir : 0
+639   TCS  019719 
+ Valor de existir : 0
+640   TCS  019719 
+ Valor de existir : 0
+641   TCS  019719 
+ Valor de existir : 0
+642   TCS  019719 
+ Valor de existir : 0
+643   TCS  019719 
+ Valor de existir : 0
+644   TCS  019719 
+ Valor de existir : 0
+645   TCS  019719 
+ Valor de existir : 0
+646   TCS  019719 
+ Valor de existir : 0
+647   TCS  019719 
+ Valor de existir : 0
+648   TCS  019719 
+ Valor de existir : 0
+649   TCS  019719 
+ Valor de existir : 0
+650   TCS  019719 
+ Valor de existir : 0
+651   TCS  019719 
+ Valor de existir : 0
+652   TCS  019719 
+ Valor de existir : 0
+653   TCS  019719 
+ Valor de existir : 0
+654   TCS  019719 
+ Valor de existir : 0
+655   TCS  019719 
+ Valor de existir : 0
+656   TCS  019719 
+ Valor de existir : 0
+657   TCS  019719 
+ Valor de existir : 0
+658   TCS  019719 
+ Valor de existir : 0
+659   TCS  019719 
+ Valor de existir : 0
+660   TCS  019719 
+ Valor de existir : 0
+661   TCS  019719 
+ Valor de existir : 0
+662   TCS  019719 
+ Valor de existir : 0
+663   TCS  019719 
+ Valor de existir : 0
+664   TCS  019719 
+ Valor de existir : 0
+665   TCS  019719 
+ Valor de existir : 0
+666   TCS  019719 
+ Valor de existir : 0
+667   TCS  019719 
+ Valor de existir : 0
+668   TCS  019719 
+ Valor de existir : 0
+669   TCS  019719 
+ Valor de existir : 0
+670   TCS  019719 
+ Valor de existir : 0
+671   TCS  019719 
+ Valor de existir : 0
+672   TCS  019719 
+ Valor de existir : 0
+673   TCS  019719 
+ Valor de existir : 0
+674   TCS  019719 
+ Valor de existir : 0
+675   TCS  019719 
+ Valor de existir : 0
+676   TCS  019719 
+ Valor de existir : 0
+677   TCS  019719 
+ Valor de existir : 0
+678   TCS  019719 
+ Valor de existir : 0
+679   TCS  019719 
+ Valor de existir : 0
+680   TCS  019719 
+ Valor de existir : 0
+681   TCS  019719 
+ Valor de existir : 0
+682   TCS  019719 
+ Valor de existir : 0
+683   TCS  019719 
+ Valor de existir : 0
+684   TCS  019719 
+ Valor de existir : 0
+685   TCS  019719 
+ Valor de existir : 0
+686   TCS  019719 
+ Valor de existir : 0
+687   TCS  019719 
+ Valor de existir : 0
+688   TCS  019719 
+ Valor de existir : 0
+689   TCS  019719 
+ Valor de existir : 0
+690   TCS  019719 
+ Valor de existir : 0
+691   TCS  019719 
+ Valor de existir : 0
+692   TCS  019719 
+ Valor de existir : 0
+693   TCS  019719 
+ Valor de existir : 0
+694   TCS  019719 
+ Valor de existir : 0
+695   TCS  019719 
+ Valor de existir : 0
+696   TCS  019719 
+ Valor de existir : 0
+697   TCS  019719 
+ Valor de existir : 0
+698   TCS  019719 
+ Valor de existir : 0
+699   TCS  019719 
+ Valor de existir : 0
+700   TCS  019719 
+ Valor de existir : 0
+701   TCS  019719 
+ Valor de existir : 0
+702   TCS  019719 
+ Valor de existir : 0
+703   TCS  019719 
+ Valor de existir : 0
+704   TCS  019719 
+ Valor de existir : 0
+705   TCS  019719 
+ Valor de existir : 0
+706   TCS  019719 
+ Valor de existir : 0
+707   TCS  019719 
+ Valor de existir : 0
+708   TCS  019719 
+ Valor de existir : 0
+709   TCS  019719 
+ Valor de existir : 0
+710   TCS  019719 
+ Valor de existir : 0
+711   TCS  019719 
+ Valor de existir : 0
+712   TCS  019719 
+ Valor de existir : 0
+713   TCS  019719 
+ Valor de existir : 0
+714   TCS  019719 
+ Valor de existir : 0
+715   TCS  019719 
+ Valor de existir : 0
+716   TCS  019719 
+ Valor de existir : 0
+717   TCS  019719 
+ Valor de existir : 0
+718   TCS  019719 
+ Valor de existir : 0
+719   TCS  019719 
+ Valor de existir : 0
+720   TCS  019719 
+ Valor de existir : 0
+721   TCS  019719 
+ Valor de existir : 0
+722   TCS  019719 
+ Valor de existir : 0
+723   TCS  019719 
+ Valor de existir : 0
+724   TCS  019719 
+ Valor de existir : 0
+725   TCS  019719 
+ Valor de existir : 0
+726   TCS  019719 
+ Valor de existir : 0
+727   TCS  019719 
+ Valor de existir : 0
+728   TCS  019719 
+ Valor de existir : 0
+729   TCS  019719 
+ Valor de existir : 0
+730   TCS  019719 
+ Valor de existir : 0
+731   TCS  019719 
+ Valor de existir : 0
+732   TCS  019719 
+ Valor de existir : 0
+733   TCS  019719 
+ Valor de existir : 0
+734   TCS  019719 
+ Valor de existir : 0
+735   TCS  019719 
+ Valor de existir : 0
+736   TCS  019719 
+ Valor de existir : 0
+737   TCS  019719 
+ Valor de existir : 0
+738   TCS  019719 
+ Valor de existir : 0
+739   TCS  019719 
+ Valor de existir : 0
+740   TCS  019719 
+ Valor de existir : 0
+741   TCS  019719 
+ Valor de existir : 0
+742   TCS  019719 
+ Valor de existir : 0
+743   TCS  019719 
+ Valor de existir : 0
+744   TCS  019719 
+ Valor de existir : 0
+745   TCS  019719 
+ Valor de existir : 0
+746   TCS  019719 
+ Valor de existir : 0
+747   TCS  019719 
+ Valor de existir : 0
+748   TCS  019719 
+ Valor de existir : 0
+749   TCS  019719 
+ Valor de existir : 0
+750   TCS  019719 
+ Valor de existir : 0
+751   TCS  019719 
+ Valor de existir : 0
+752   TCS  019719 
+ Valor de existir : 0
+753   TCS  019719 
+ Valor de existir : 0
+754   TCS  019719 
+ Valor de existir : 0
+755   TCS  019719 
+ Valor de existir : 0
+756   TCS  019719 
+ Valor de existir : 0
+757   TCS  019719 
+ Valor de existir : 0
+758   TCS  019719 
+ Valor de existir : 0
+759   TCS  019719 
+ Valor de existir : 0
+760   TCS  019719 
+ Valor de existir : 0
+761   TCS  019719 
+ Valor de existir : 0
+762   TCS  019719 
+ Valor de existir : 0
+763   TCS  019719 
+ Valor de existir : 0
+764   TCS  019719 
+ Valor de existir : 0
+765   TCS  019719 
+ Valor de existir : 0
+766   TCS  019719 
+ Valor de existir : 0
+767   TCS  019719 
+ Valor de existir : 0
+768   TCS  019719 
+ Valor de existir : 0
+769   TCS  019719 
+ Valor de existir : 0
+770   TCS  019719 
+ Valor de existir : 0
+771   TCS  019719 
+ Valor de existir : 0
+772   TCS  019719 
+ Valor de existir : 0
+773   TCS  019719 
+ Valor de existir : 0
+774   TCS  019719 
+ Valor de existir : 0
+775   TCS  019719 
+ Valor de existir : 0
+776   TCS  019719 
+ Valor de existir : 0
+777   TCS  019719 
+ Valor de existir : 0
+778   TCS  019719 
+ Valor de existir : 0
+779   TCS  019719 
+ Valor de existir : 0
+780   TCS  019719 
+ Valor de existir : 0
+781   TCS  019719 
+ Valor de existir : 0
+782   TCS  019719 
+ Valor de existir : 0
+783   TCS  019719 
+ Valor de existir : 0
+784   TCS  019719 
+ Valor de existir : 0
+785   TCS  019719 
+ Valor de existir : 0
+786   TCS  019719 
+ Valor de existir : 0
+787   TCS  019719 
+ Valor de existir : 0
+788   TCS  019719 
+ Valor de existir : 0
+789   TCS  019719 
+ Valor de existir : 0
+790   TCS  019719 
+ Valor de existir : 0
+791   TCS  019719 
+ Valor de existir : 0
+792   TCS  019719 
+ Valor de existir : 0
+793   TCS  019719 
+ Valor de existir : 0
+794   TCS  019719 
+ Valor de existir : 0
+795   TCS  019719 
+ Valor de existir : 0
+796   TCS  019719 
+ Valor de existir : 0
+797   TCS  019719 
+ Valor de existir : 0
+798   TCS  019719 
+ Valor de existir : 0
+799   TCS  019719 
+ Valor de existir : 0
+800   TCS  019719 
+ Valor de existir : 0
+801   TCS  019719 
+ Valor de existir : 0
+802   TCS  019719 
+ Valor de existir : 0
+803   TCS  019719 
+ Valor de existir : 0
+804   TCS  019719 
+ Valor de existir : 0
+805   TCS  019719 
+ Valor de existir : 0
+806   TCS  019719 
+ Valor de existir : 0
+807   TCS  019719 
+ Valor de existir : 0
+808   TCS  019719 
+ Valor de existir : 0
+809   TCS  019719 
+ Valor de existir : 0
+810   TCS  019719 
+ Valor de existir : 0
+811   TCS  019719 
+ Valor de existir : 0
+812   TCS  019719 
+ Valor de existir : 0
+813   TCS  019719 
+ Valor de existir : 0
+814   TCS  019719 
+ Valor de existir : 0
+815   TCS  019719 
+ Valor de existir : 0
+816   TCS  019719 
+ Valor de existir : 0
+817   TCS  019719 
+ Valor de existir : 0
+818   TCS  019719 
+ Valor de existir : 0
+819   TCS  019719 
+ Valor de existir : 0
+820   TCS  019719 
+ Valor de existir : 0
+821   TCS  019719 
+ Valor de existir : 0
+822   TCS  019719 
+ Valor de existir : 0
+823   TCS  019719 
+ Valor de existir : 0
+824   TCS  019719 
+ Valor de existir : 0
+825   TCS  019719 
+ Valor de existir : 0
+826   TCS  019719 
+ Valor de existir : 0
+827   TCS  019719 
+ Valor de existir : 0
+828   TCS  019719 
+ Valor de existir : 0
+829   TCS  019719 
+ Valor de existir : 0
+830   TCS  019719 
+ Valor de existir : 0
+831   TCS  019719 
+ Valor de existir : 0
+832   TCS  019719 
+ Valor de existir : 0
+833   TCS  019719 
+ Valor de existir : 0
+834   TCS  019719 
+ Valor de existir : 0
+835   TCS  019719 
+ Valor de existir : 0
+836   TCS  019719 
+ Valor de existir : 0
+837   TCS  019719 
+ Valor de existir : 0
+838   TCS  019719 
+ Valor de existir : 0
+839   TCS  019719 
+ Valor de existir : 0
+840   TCS  019719 
+ Valor de existir : 0
+841   TCS  019719 
+ Valor de existir : 0
+842   TCS  019719 
+ Valor de existir : 0
+843   TCS  019719 
+ Valor de existir : 0
+844   TCS  019719 
+ Valor de existir : 0
+845   TCS  019719 
+ Valor de existir : 0
+846   TCS  019719 
+ Valor de existir : 0
+847   TCS  019719 
+ Valor de existir : 0
+848   TCS  019719 
+ Valor de existir : 0
+849   TCS  019719 
+ Valor de existir : 0
+850   TCS  019719 
+ Valor de existir : 0
+851   TCS  019719 
+ Valor de existir : 0
+852   TCS  019719 
+ Valor de existir : 0
+853   TCS  019719 
+ Valor de existir : 0
+854   TCS  019719 
+ Valor de existir : 0
+855   TCS  019719 
+ Valor de existir : 0
+856   TCS  019719 
+ Valor de existir : 0
+857   TCS  019719 
+ Valor de existir : 0
+858   TCS  019719 
+ Valor de existir : 0
+859   TCS  019719 
+ Valor de existir : 0
+860   TCS  019719 
+ Valor de existir : 0
+861   TCS  019719 
+ Valor de existir : 0
+862   TCS  019719 
+ Valor de existir : 0
+863   TCS  019719 
+ Valor de existir : 0
+864   TCS  019719 
+ Valor de existir : 0
+865   TCS  019719 
+ Valor de existir : 0
+866   TCS  019719 
+ Valor de existir : 0
+867   TCS  019719 
+ Valor de existir : 0
+868   TCS  019719 
+ Valor de existir : 0
+869   TCS  019719 
+ Valor de existir : 0
+870   TCS  019719 
+ Valor de existir : 0
+871   TCS  019719 
+ Valor de existir : 0
+872   TCS  019719 
+ Valor de existir : 0
+873   TCS  019719 
+ Valor de existir : 0
+874   TCS  019719 
+ Valor de existir : 0
+875   TCS  019719 
+ Valor de existir : 0
+876   TCS  019719 
+ Valor de existir : 0
+877   TCS  019719 
+ Valor de existir : 0
+878   TCS  019719 
+ Valor de existir : 0
+879   TCS  019719 
+ Valor de existir : 0
+880   TCS  019719 
+ Valor de existir : 0
+881   TCS  019719 
+ Valor de existir : 0
+882   TCS  019719 
+ Valor de existir : 0
+883   TCS  019719 
+ Valor de existir : 0
+884   TCS  019719 
+ Valor de existir : 0
+885   TCS  019719 
+ Valor de existir : 0
+886   TCS  019719 
+ Valor de existir : 0
+887   TCS  019719 
+ Valor de existir : 0
+888   TCS  019719 
+ Valor de existir : 0
+889   TCS  019719 
+ Valor de existir : 0
+890   TCS  019719 
+ Valor de existir : 0
+891   TCS  019719 
+ Valor de existir : 0
+892   TCS  019719 
+ Valor de existir : 0
+893   TCS  019719 
+ Valor de existir : 0
+894   TCS  019719 
+ Valor de existir : 0
+895   TCS  019719 
+ Valor de existir : 0
+896   TCS  019719 
+ Valor de existir : 0
+897   TCS  019719 
+ Valor de existir : 0
+898   TCS  019719 
+ Valor de existir : 0
+899   TCS  019719 
+ Valor de existir : 0
+900   TCS  019719 
+ Valor de existir : 0
+901   TCS  019719 
+ Valor de existir : 0
+902   TCS  019719 
+ Valor de existir : 0
+903   TCS  019719 
+ Valor de existir : 0
+904   TCS  019719 
+ Valor de existir : 0
+905   TCS  019719 
+ Valor de existir : 0
+906   TCS  019719 
+ Valor de existir : 0
+907   TCS  019719 
+ Valor de existir : 0
+908   TCS  019719 
+ Valor de existir : 0
+909   TCS  019719 
+ Valor de existir : 0
+910   TCS  019719 
+ Valor de existir : 0
+911   TCS  019719 
+ Valor de existir : 0
+912   TCS  019719 
+ Valor de existir : 0
+913   TCS  019719 
+ Valor de existir : 0
+914   TCS  019719 
+ Valor de existir : 0
+915   TCS  019719 
+ Valor de existir : 0
+916   TCS  019719 
+ Valor de existir : 0
+917   TCS  019719 
+ Valor de existir : 0
+918   TCS  019719 
+ Valor de existir : 0
+919   TCS  019719 
+ Valor de existir : 0
+920   TCS  019719 
+ Valor de existir : 0
+921   TCS  019719 
+ Valor de existir : 0
+922   TCS  019719 
+ Valor de existir : 0
+923   TCS  019719 
+ Valor de existir : 0
+924   TCS  019719 
+ Valor de existir : 0
+925   TCS  019719 
+ Valor de existir : 0
+926   TCS  019719 
+ Valor de existir : 0
+927   TCS  019719 
+ Valor de existir : 0
+928   TCS  019719 
+ Valor de existir : 0
+929   TCS  019719 
+ Valor de existir : 0
+930   TCS  019719 
+ Valor de existir : 0
+931   TCS  019719 
+ Valor de existir : 0
+932   TCS  019719 
+ Valor de existir : 0
+933   TCS  019719 
+ Valor de existir : 0
+934   TCS  019719 
+ Valor de existir : 0
+935   TCS  019719 
+ Valor de existir : 0
+936   TCS  019719 
+ Valor de existir : 0
+937   TCS  019719 
+ Valor de existir : 0
+938   TCS  019719 
+ Valor de existir : 0
+939   TCS  019719 
+ Valor de existir : 0
+940   TCS  019719 
+ Valor de existir : 0
+941   TCS  019719 
+ Valor de existir : 0
+942   TCS  019719 
+ Valor de existir : 0
+943   TCS  019719 
+ Valor de existir : 0
+944   TCS  019719 
+ Valor de existir : 0
+945   TCS  019719 
+ Valor de existir : 0
+946   TCS  019719 
+ Valor de existir : 0
+947   TCS  019719 
+ Valor de existir : 0
+948   TCS  019719 
+ Valor de existir : 0
+949   TCS  019719 
+ Valor de existir : 0
+950   TCS  019719 
+ Valor de existir : 0
+951   TCS  019719 
+ Valor de existir : 0
+952   TCS  019719 
+ Valor de existir : 0
+953   TCS  019719 
+ Valor de existir : 0
+954   TCS  019719 
+ Valor de existir : 0
+955   TCS  019719 
+ Valor de existir : 0
+956   TCS  019719 
+ Valor de existir : 0
+957   TCS  019719 
+ Valor de existir : 0
+958   TCS  019719 
+ Valor de existir : 0
+959   TCS  019719 
+ Valor de existir : 0
+960   TCS  019719 
+ Valor de existir : 0
+961   TCS  019719 
+ Valor de existir : 0
+962   TCS  019719 
+ Valor de existir : 0
+963   TCS  019719 
+ Valor de existir : 0
+964   TCS  019719 
+ Valor de existir : 0
+965   TCS  019719 
+ Valor de existir : 0
+966   TCS  019719 
+ Valor de existir : 0
+967   TCS  019719 
+ Valor de existir : 0
+968   TCS  019719 
+ Valor de existir : 0
+969   TCS  019719 
+ Valor de existir : 0
+970   TCS  019719 
+ Valor de existir : 0
+971   TCS  019719 
+ Valor de existir : 0
+972   TCS  019719 
+ Valor de existir : 0
+973   TCS  019719 
+ Valor de existir : 0
+974   TCS  019719 
+ Valor de existir : 0
+975   TCS  019719 
+ Valor de existir : 0
+976   TCS  019719 
+ Valor de existir : 0
+977   TCS  019719 
+ Valor de existir : 0
+978   TCS  019719 
+ Valor de existir : 0
+979   TCS  019719 
+ Valor de existir : 0
+980   TCS  019719 
+ Valor de existir : 0
+981   TCS  019719 
+ Valor de existir : 0
+982   TCS  019719 
+ Valor de existir : 0
+983   TCS  019719 
+ Valor de existir : 0
+984   TCS  019719 
+ Valor de existir : 0
+985   TCS  019719 
+ Valor de existir : 0
+986   TCS  019719 
+ Valor de existir : 0
+987   TCS  019719 
+ Valor de existir : 0
+988   TCS  019719 
+ Valor de existir : 0
+989   TCS  019719 
+ Valor de existir : 0
+990   TCS  019719 
+ Valor de existir : 0
+991   TCS  019719 
+ Valor de existir : 0
+992   TCS  019719 
+ Valor de existir : 0
+993   TCS  019719 
+ Valor de existir : 0
+994   TCS  019719 
+ Valor de existir : 0
+995   TCS  019719 
+ Valor de existir : 0
+996   TCS  019719 
+ Valor de existir : 0
+997   TCS  019719 
+ Valor de existir : 0
+998   TCS  019719 
+ Valor de existir : 0
+999   TCS  019719 
+ Valor de existir : 0
+1000   TCS  019719 
+ Valor de existir : 0
+1001   TCS  019719 
+ Valor de existir : 0
+1002   TCS  019719 
+ Valor de existir : 0
+1003   TCS  019719 
+ Valor de existir : 0
+1004   TCS  019719 
+ Valor de existir : 0
+1005   TCS  019719 
+ Valor de existir : 0
+1006   TCS  019719 
+ Valor de existir : 0
+1007   TCS  019719 
+ Valor de existir : 0
+1008   TCS  019719 
+ Valor de existir : 0
+1009   TCS  019719 
+ Valor de existir : 0
+1010   TCS  019719 
+ Valor de existir : 0
+1011   TCS  019719 
+ Valor de existir : 0
+1012   TCS  019719 
+ Valor de existir : 0
+1013   TCS  019719 
+ Valor de existir : 0
+1014   TCS  019719 
+ Valor de existir : 0
+1015   TCS  019719 
+ Valor de existir : 0
+1016   TCS  019719 
+ Valor de existir : 0
+1017   TCS  019719 
+ Valor de existir : 0
+1018   TCS  019719 
+ Valor de existir : 0
+1019   TCS  019719 
+ Valor de existir : 0
+1020   TCS  019719 
+ Valor de existir : 0
+1021   TCS  019719 
+ Valor de existir : 0
+1022   TCS  019719 
+ Valor de existir : 0
+1023   TCS  019719 
+ Valor de existir : 0
+1024   TCS  019719 
+ Valor de existir : 0
+1025   TCS  019719 
+ Valor de existir : 0
+1026   TCS  019719 
+ Valor de existir : 0
+1027   TCS  019719 
+ Valor de existir : 0
+1028   TCS  019719 
+ Valor de existir : 0
+1029   TCS  019719 
+ Valor de existir : 0
+1030   TCS  019719 
+ Valor de existir : 0
+1031   TCS  019719 
+ Valor de existir : 0
+1032   TCS  019719 
+ Valor de existir : 0
+1033   TCS  019719 
+ Valor de existir : 0
+1034   TCS  019719 
+ Valor de existir : 0
+1035   TCS  019719 
+ Valor de existir : 0
+1036   TCS  019719 
+ Valor de existir : 0
+1037   TCS  019719 
+ Valor de existir : 0
+1038   TCS  019719 
+ Valor de existir : 0
+1039   TCS  019719 
+ Valor de existir : 0
+1040   TCS  019719 
+ Valor de existir : 0
+1041   TCS  019719 
+ Valor de existir : 0
+1042   TCS  019719 
+ Valor de existir : 0
+1043   TCS  019719 
+ Valor de existir : 0
+1044   TCS  019719 
+ Valor de existir : 0
+1045   TCS  019719 
+ Valor de existir : 0
+1046   TCS  019719 
+ Valor de existir : 0
+1047   TCS  019719 
+ Valor de existir : 0
+1048   TCS  019719 
+ Valor de existir : 0
+1049   TCS  019719 
+ Valor de existir : 0
+1050   TCS  019719 
+ Valor de existir : 0
+1051   TCS  019719 
+ Valor de existir : 0
+1052   TCS  019719 
+ Valor de existir : 0
+1053   TCS  019719 
+ Valor de existir : 0
+1054   TCS  019719 
+ Valor de existir : 0
+1055   TCS  019719 
+ Valor de existir : 0
+1056   TCS  019719 
+ Valor de existir : 0
+1057   TCS  019719 
+ Valor de existir : 0
+1058   TCS  019719 
+ Valor de existir : 0
+1059   TCS  019719 
+ Valor de existir : 0
+1060   TCS  019719 
+ Valor de existir : 0
+1061   TCS  019719 
+ Valor de existir : 0
+1062   TCS  019719 
+ Valor de existir : 0
+1063   TCS  019719 
+ Valor de existir : 0
+1064   TCS  019719 
+ Valor de existir : 0
+1065   TCS  019719 
+ Valor de existir : 0
+1066   TCS  019719 
+ Valor de existir : 0
+1067   TCS  019719 
+ Valor de existir : 0
+1068   TCS  019719 
+ Valor de existir : 0
+1069   TCS  019719 
+ Valor de existir : 0
+1070   TCS  019719 
+ Valor de existir : 0
+1071   TCS  019719 
+ Valor de existir : 0
+1072   TCS  019719 
+ Valor de existir : 0
+1073   TCS  019719 
+ Valor de existir : 0
+1074   TCS  019719 
+ Valor de existir : 0
+1075   TCS  019719 
+ Valor de existir : 0
+1076   TCS  019719 
+ Valor de existir : 0
+1077   TCS  019719 
+ Valor de existir : 0
+1078   TCS  019719 
+ Valor de existir : 0
+1079   TCS  019719 
+ Valor de existir : 0
+1080   TCS  019719 
+ Valor de existir : 0
+1081   TCS  019719 
+ Valor de existir : 0
+1082   TCS  019719 
+ Valor de existir : 0
+1083   TCS  019719 
+ Valor de existir : 0
+1084   TCS  019719 
+ Valor de existir : 0
+1085   TCS  019719 
+ Valor de existir : 0
+1086   TCS  019719 
+ Valor de existir : 0
+1087   TCS  019719 
+ Valor de existir : 0
+1088   TCS  019719 
+ Valor de existir : 0
+1089   TCS  019719 
+ Valor de existir : 0
+1090   TCS  019719 
+ Valor de existir : 0
+1091   TCS  019719 
+ Valor de existir : 0
+1092   TCS  019719 
+ Valor de existir : 0
+1093   TCS  019719 
+ Valor de existir : 0
+1094   TCS  019719 
+ Valor de existir : 0
+1095   TCS  019719 
+ Valor de existir : 0
+1096   TCS  019719 
+ Valor de existir : 0
+1097   TCS  019719 
+ Valor de existir : 0
+1098   TCS  019719 
+ Valor de existir : 0
+1   TCS  020652 
+ Valor de existir : 0
+2   TCS  020652 
+ Valor de existir : 0
+3   TCS  020652 
+ Valor de existir : 0
+4   TCS  020652 
+ Valor de existir : 0
+5   TCS  020652 
+ Valor de existir : 0
+6   TCS  020652 
+ Valor de existir : 0
+7   TCS  020652 
+ Valor de existir : 0
+8   TCS  020652 
+ Valor de existir : 0
+9   TCS  020652 
+ Valor de existir : 0
+10   TCS  020652 
+ Valor de existir : 0
+11   TCS  020652 
+ Valor de existir : 0
+12   TCS  020652 
+ Valor de existir : 0
+13   TCS  020652 
+ Valor de existir : 0
+14   TCS  020652 
+ Valor de existir : 0
+15   TCS  020652 
+ Valor de existir : 0
+16   TCS  020652 
+ Valor de existir : 0
+17   TCS  020652 
+ Valor de existir : 0
+18   TCS  020652 
+ Valor de existir : 0
+19   TCS  020652 
+ Valor de existir : 0
+20   TCS  020652 
+ Valor de existir : 0
+21   TCS  020652 
+ Valor de existir : 0
+22   TCS  020652 
+ Valor de existir : 0
+23   TCS  020652 
+ Valor de existir : 0
+24   TCS  020652 
+ Valor de existir : 0
+25   TCS  020652 
+ Valor de existir : 0
+26   TCS  020652 
+ Valor de existir : 0
+27   TCS  020652 
+ Valor de existir : 0
+28   TCS  020652 
+ Valor de existir : 0
+29   TCS  020652 
+ Valor de existir : 0
+30   TCS  020652 
+ Valor de existir : 0
+31   TCS  020652 
+ Valor de existir : 0
+32   TCS  020652 
+ Valor de existir : 0
+33   TCS  020652 
+ Valor de existir : 0
+34   TCS  020652 
+ Valor de existir : 0
+35   TCS  020652 
+ Valor de existir : 0
+36   TCS  020652 
+ Valor de existir : 0
+37   TCS  020652 
+ Valor de existir : 0
+38   TCS  020652 
+ Valor de existir : 0
+39   TCS  020652 
+ Valor de existir : 0
+40   TCS  020652 
+ Valor de existir : 0
+41   TCS  020652 
+ Valor de existir : 0
+42   TCS  020652 
+ Valor de existir : 0
+43   TCS  020652 
+ Valor de existir : 0
+44   TCS  020652 
+ Valor de existir : 0
+45   TCS  020652 
+ Valor de existir : 0
+46   TCS  020652 
+ Valor de existir : 0
+47   TCS  020652 
+ Valor de existir : 0
+48   TCS  020652 
+ Valor de existir : 0
+49   TCS  020652 
+ Valor de existir : 0
+50   TCS  020652 
+ Valor de existir : 0
+51   TCS  020652 
+ Valor de existir : 0
+52   TCS  020652 
+ Valor de existir : 0
+53   TCS  020652 
+ Valor de existir : 0
+54   TCS  020652 
+ Valor de existir : 0
+55   TCS  020652 
+ Valor de existir : 0
+56   TCS  020652 
+ Valor de existir : 0
+57   TCS  020652 
+ Valor de existir : 0
+58   TCS  020652 
+ Valor de existir : 0
+59   TCS  020652 
+ Valor de existir : 0
+60   TCS  020652 
+ Valor de existir : 0
+61   TCS  020652 
+ Valor de existir : 0
+62   TCS  020652 
+ Valor de existir : 0
+63   TCS  020652 
+ Valor de existir : 0
+64   TCS  020652 
+ Valor de existir : 0
+65   TCS  020652 
+ Valor de existir : 0
+66   TCS  020652 
+ Valor de existir : 0
+67   TCS  020652 
+ Valor de existir : 0
+68   TCS  020652 
+ Valor de existir : 0
+69   TCS  020652 
+ Valor de existir : 0
+70   TCS  020652 
+ Valor de existir : 0
+71   TCS  020652 
+ Valor de existir : 0
+72   TCS  020652 
+ Valor de existir : 0
+73   TCS  020652 
+ Valor de existir : 0
+74   TCS  020652 
+ Valor de existir : 0
+75   TCS  020652 
+ 

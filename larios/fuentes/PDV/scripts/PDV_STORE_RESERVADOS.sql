@@ -1,0 +1,29 @@
+﻿DROP PROCEDURE IF EXISTS PDV_STORE_RESERVADOS;
+DELIMITER $$
+CREATE PROCEDURE PDV_STORE_RESERVADOS(IN IN_CORRIDA VARCHAR(10), IN IN_FECHA VARCHAR(10),
+                                      IN IN_HORA VARCHAR(8), IN IN_DESTINO VARCHAR(5))
+BEGIN
+        SELECT DISTINCT A.ID_CORRIDA,
+                    CONCAT((SELECT
+                                CASE P.TIPO_CORRIDA
+                                  WHEN 'E' THEN P.TIPO_CORRIDA
+                                  WHEN 'N' THEN ''
+                                  WHEN 'F' THEN ''
+                                END AS TEXTO
+                             FROM PDV_T_CORRIDA P
+                WHERE P.ID_CORRIDA = D.ID_CORRIDA AND P.FECHA = D.FECHA),' ',D.HORA)  AS TIPO, D.FECHA, A.DESTINO, D.HORA,
+                (SELECT CURRENT_TIMESTAMP() <= (CAST(CONCAT(D.FECHA,' ',D.HORA) AS DATETIME)))AS COMPARA,
+               (S.ABREVIACION)AS ABREVIA, (1)AS ID_TRAMO , D.ID_RUTA, D.ID_CORRIDA, C.ID_TIPO_AUTOBUS,
+                AU.NOMBRE_IMAGEN,AU.ASIENTOS,C.TIPOSERVICIO, 0
+        FROM PDV_T_ASIENTO A INNER JOIN PDV_T_CORRIDA_D D ON A.ID_CORRIDA = D.ID_CORRIDA AND
+                                                        CAST(A.FECHA_HORA_CORRIDA AS DATE) = D.FECHA AND
+                                                        CAST(A.FECHA_HORA_CORRIDA AS TIME) = D.HORA
+                            INNER JOIN PDV_T_CORRIDA C ON D.FECHA = C.FECHA AND D.HORA = C.HORA
+                            INNER JOIN SERVICIOS S ON S.TIPOSERVICIO = C.TIPOSERVICIO
+                            INNER JOIN T_C_RUTA R ON R.ID_RUTA = D.ID_RUTA
+                            INNER JOIN PDV_C_TIPO_AUTOBUS AU ON C.ID_TIPO_AUTOBUS = AU.ID_TIPO_AUTOBUS
+        WHERE D.ID_CORRIDA = IN_CORRIDA AND D.FECHA = CAST(IN_FECHA AS DATE) AND D.HORA = CAST(IN_HORA AS TIME) AND
+            A.DESTINO = IN_DESTINO AND A.STATUS IN ('R','A')
+        ORDER BY D.FECHA, D.HORA;
+END$$
+DELIMITER;

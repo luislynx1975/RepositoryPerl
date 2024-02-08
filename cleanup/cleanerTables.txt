@@ -1,0 +1,32 @@
+Para ejecutar el script que depura la informacion que se encuentran almacenadas en las tablas
+del sistema Mercurio, estas son actualizadas en base a la cantidad de registros que cada una contiene,
+por tal motivo se eliminan registros en la ciudad que el usuario parametrice al ejecutar el script,
+las tablas que afecta este proceso son PDV_T_ASIENTO y PDV_T_BOLETO, estas tablas se depuran
+y solo dejan un maximo permitido de dos años, es decir si el script se ejecuta el 1 de septiembre del 
+2022, dejara en la cada tabla registros que se encuentran de la fecha en que se ejecuta con dos años
+de vigencia 1 de septiembre del 2020, esto es para las dos tablas mencionadas.
+
+Para ejecutar el script se puede realizar desde cualquier punto, con los diferentes requerimientos, que el
+equipo en donde se ejecuta se encuentre dentro de la red y que se tenga instalado el interprete
+que es PERL, si no se cuenta con esta aplicación descargarlo del sitio https://www.perl.org/,
+no se tiene contemplado una version especifica del lenguaje para que se ejecute.
+
+
+Ejecutando el script. 
+Tener el archivo cleanerTables.pl para esto se guarda en alguna lugar dentro del disco duro
+del equipo donde se almacenara, ejemplo en C:\Users\luislynx\Documents\perl\cleanerTables.pl, al 
+tener el archivo alojado en la carperta, abriremos la aplicacion CMD, nos dirigiremos en donde se
+tiene guardado el scrip y aqui ejecutaremos de la siguiente manera :
+
+perl cleanerTables.pl MEX
+
+perl : Es el intereprete que se encarga de ejecutar el script que es pasado como parametro al
+       interprete.
+
+cleanerTables.pl : Es el script elaborado en perl que realiza la limpieza de información.
+
+MEX : Es la ciudad que se pasa como parametro al script en donde este toma el parametro
+      para realizar la limpieza de información. 
+
+
+

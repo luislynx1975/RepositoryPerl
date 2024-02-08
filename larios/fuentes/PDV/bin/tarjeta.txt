@@ -1,0 +1,9 @@
+
+                            GRUPO PULLMAN DE MORELOS
+                   Impresion Guía De Víaje
+                                                                                                              
+Folío de Guia : 1     Hora Salida : 10:20/11:14     Autobus : 400
+Clave Terminal : MEX     Conductor : X4-000 NAVA SOTO AURELIO Boletera : 0
+Clave Ruta : 1      Ruta : MEXICO TAXQUEÑA - CUE CASINO  Servicio : PULLMAN  Corrida : 398
+Lugar y Fecha : MEX 2022-12-21
+Impreso por: root root root

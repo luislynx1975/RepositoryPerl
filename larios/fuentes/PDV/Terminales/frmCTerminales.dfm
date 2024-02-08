@@ -1,0 +1,203 @@
+object frmTerminales: TfrmTerminales
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  Caption = 'Catalogo de Ciudades'
+  ClientHeight = 188
+  ClientWidth = 286
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  OnActivate = FormActivate
+  OnCloseQuery = FormCloseQuery
+  OnCreate = FormCreate
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 3
+    Top = 15
+    Width = 123
+    Height = 13
+    Caption = 'Identificador de Terminal:'
+  end
+  object Label2: TLabel
+    Left = 16
+    Top = 39
+    Width = 110
+    Height = 13
+    Caption = 'Nombre de la Terminal:'
+  end
+  object Label3: TLabel
+    Left = 102
+    Top = 65
+    Width = 24
+    Height = 13
+    Caption = 'Tipo:'
+  end
+  object Label4: TLabel
+    Left = 71
+    Top = 117
+    Width = 55
+    Height = 13
+    Caption = 'Ventanillas:'
+  end
+  object Label5: TLabel
+    Left = 71
+    Top = 90
+    Width = 55
+    Height = 13
+    Caption = 'Tipo Venta:'
+  end
+  object lblBaja: TLabel
+    Left = 0
+    Top = 140
+    Width = 286
+    Height = 23
+    Align = alBottom
+    Alignment = taCenter
+    Caption = 'CIUDAD CON ESTATUS BAJA'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clRed
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    Visible = False
+    ExplicitTop = 142
+    ExplicitWidth = 241
+  end
+  object edtIDterminal: TEdit
+    Left = 132
+    Top = 10
+    Width = 146
+    Height = 21
+    CharCase = ecUpperCase
+    MaxLength = 4
+    TabOrder = 0
+    OnKeyPress = edtIDterminalKeyPress
+  end
+  object edtDescripcion: TEdit
+    Left = 132
+    Top = 36
+    Width = 146
+    Height = 21
+    CharCase = ecUpperCase
+    MaxLength = 60
+    TabOrder = 1
+    OnKeyPress = edtDescripcionKeyPress
+  end
+  object cbTipo: TlsComboBox
+    Left = 132
+    Top = 62
+    Width = 145
+    Height = 21
+    CharCase = ecUpperCase
+    TabOrder = 2
+    OnKeyPress = edtDescripcionKeyPress
+    Items.Strings = (
+      'COMISION'
+      'PASO'
+      'TERMINAL')
+    Complete = True
+    ForceIndexOnExit = True
+    IDs.Strings = (
+      'C'
+      'P'
+      'T')
+    MinLengthComplete = 0
+  end
+  object cbTipoVenta: TlsComboBox
+    Left = 132
+    Top = 87
+    Width = 145
+    Height = 21
+    CharCase = ecUpperCase
+    TabOrder = 3
+    OnKeyPress = edtDescripcionKeyPress
+    Items.Strings = (
+      'AUTOMATIZADO'
+      'MANUAL')
+    Complete = True
+    ForceIndexOnExit = True
+    IDs.Strings = (
+      'A'
+      'M')
+    MinLengthComplete = 0
+  end
+  object ActionMainMenuBar1: TActionMainMenuBar
+    Left = 0
+    Top = 163
+    Width = 286
+    Height = 25
+    UseSystemFont = False
+    ActionManager = AM1
+    Align = alBottom
+    Caption = 'ActionMainMenuBar1'
+    Color = clMenuBar
+    ColorMap.HighlightColor = clWhite
+    ColorMap.UnusedColor = clWhite
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlack
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    Spacing = 0
+  end
+  object edtVentanillas: TEdit
+    Left = 132
+    Top = 112
+    Width = 128
+    Height = 21
+    TabOrder = 5
+    Text = '0'
+    OnKeyPress = edtDescripcionKeyPress
+  end
+  object UpDown1: TUpDown
+    Left = 260
+    Top = 112
+    Width = 18
+    Height = 21
+    Associate = edtVentanillas
+    TabOrder = 6
+  end
+  object AM1: TActionManager
+    ActionBars = <
+      item
+        Items = <
+          item
+            Action = actLimpiar
+            Caption = '&Limpiar'
+          end
+          item
+            Action = Action1
+            Caption = '&Guardar'
+          end
+          item
+            Action = actSalir
+            Caption = '&Salir'
+          end>
+        ActionBar = ActionMainMenuBar1
+      end>
+    Left = 24
+    Top = 72
+    StyleName = 'Platform Default'
+    object actSalir: TAction
+      Caption = 'Salir'
+      OnExecute = actSalirExecute
+    end
+    object Action1: TAction
+      Caption = 'Guardar'
+      OnExecute = Action1Execute
+    end
+    object actLimpiar: TAction
+      Caption = 'Limpiar'
+      OnExecute = actLimpiarExecute
+    end
+  end
+end

@@ -1,0 +1,4 @@
+//------------------------------------------------------------
+Fecha : 15/11/2022 12:31 
+Error : Error en la conexion del server central
+SQL   : SQL Error: Client does not support authentication protocol requested by server; consider upgrading MariaDB client
