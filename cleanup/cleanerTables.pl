@@ -30,7 +30,6 @@ sub conectaServer{
 ################################################################################
 sub getTerminalsDB{
     my $termnl = shift;
-    print("$termnl\n");
     my @out = undef;
     my $idx = 0;
     my $query = "SELECT BD_BASEDATOS, IPV4, BD_USUARIO, BD_PASSWORD, IPV4, ID_TERMINAL ".
@@ -177,15 +176,15 @@ sub backUpTickets{
 		    "TC, IVA, TOTAL_IVA, ID_FORMA_PAGO_SUB, FECHA_BOLETO, HORA_BOLETO, TARIFA_REAL, HORA_CORRIDA) ".
 		    "VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?  )";
 	my $d_borra = $S_CORPO->prepare( $query );
-	$d_borra->execute ( @outs );
-	$d_borra->finish();
+	   $d_borra->execute ( @outs );
+	   $d_borra->finish();
      }
      $d_ticketCentral->finish();
 }
 
 ################################################################################
 sub deleteTickets{
-     my ($cve, $terminal, $dias) = @_;
+     my ($cve, $terminal, $dias, $_REMOTO) = @_;
      &backUpTickets($cve, $terminal, $dias);
      my $query = "DELETE FROM PDV_T_BOLETO ".
 		 "WHERE TRAB_ID = ? AND ID_TERMINAL = ? AND CAST(FECHA_HORA_BOLETO AS DATE) = ?";
@@ -195,16 +194,17 @@ sub deleteTickets{
      $d_ticket->bind_param(3, $dias);
     ##$d_ticket->execute();
 
- print("$R_SERVER \n");
+ print("aqui vamos  $cve   $terminal  $dias \n");
      my $query = "INSERT INTO PDV_T_TICKET_FOR_DELETE ".
                  "SELECT b.ID_BOLETO, b.ID_TERMINAL, b.TRAB_ID ".
                  "FROM PDV_T_BOLETO b ".
                  "WHERE b.TRAB_ID = ? AND b.ID_TERMINAL = ? AND cAST(FECHA_HORA_BOLETO AS DATE) = ? ";
-     $d_ticket = $R_SERVER->prepare( $query );
+     $d_ticket = $_REMOTO->prepare( $query );
      $d_ticket->bind_param(1, $cve );
      $d_ticket->bind_param(2, $terminal );
      $d_ticket->bind_param(3, $dias );
-     $d_ticket->execute();
+     $d_ticket->execute() or die "execution failed: $d_ticket->errstr()";
+
 #insert in the table ticket for delete
 
      $query = "DELETE FROM PDV_T_ASIENTO WHERE CAST(FECHA_HORA_CORRIDA AS DATE) = ?";
@@ -233,7 +233,6 @@ sub deleteTickets{
      $d_ticket->bind_param(1, $dias);
      $d_ticket->execute();
 
-     $r_ticket->finish();
 }
 
 ################################################################################
@@ -382,13 +381,16 @@ if ($#ARGV != 0){
 }
 
 $S_CORPO = &conectaServer($d_bBOLETO, $d_hBOLETO, $d_uBOLETO, $d_pBOLETO, $d_portBOLETO ); 
-print("$argv_terminal\n");
 my @aTerminals = &getTerminalsDB($argv_terminal);
+if($argv_terminal =~ 'Test'){
+    $argv_terminal = 'MEX';
+}
 my $dias_borrado = &getNumberOfDays();
 print("Dias borrados $dias_borrado\n");
 #Create table where store the tickets for deleted of database by administrator
 #foreach my $x(0..@aTerminals - 1 ){
 	$R_SERVER = &conectaServer($aTerminals[0][0], $aTerminals[0][1],  $aTerminals[0][2],  $aTerminals[0][3], $d_portBOLETO);
+print("   $aTerminals[0][0], $aTerminals[0][1],  $aTerminals[0][2],  $aTerminals[0][3], $d_portBOLETO\n");
 #        &setTableDeleteTicket();
 
 	if(!$R_SERVER){
@@ -402,14 +404,14 @@ print("Dias borrados $dias_borrado\n");
 	      }
 
 	      foreach my $diaBorrado ( @array_dias ){
-#		  print("Procesando el dia : $diaBorrado del promotor : $_\n");
 	          my @atickets = &getTicketsRemote( $_, $diaBorrado );
 		  my $valor = scalar @atickets;
 		 if($valor > 1){	
 	            foreach my $y (0..@atickets -1){
 		    	&seekInsertTicketServer( @{$atickets[$y]} );
 	            }#borrar boletos 1 año hacia atras y dejando el ultimo local y validado con el server central
-	    	    &deleteTickets( $_, $aTerminals[$x][5], $diaBorrado);
+	    	    &deleteTickets( $_, $argv_terminal, $diaBorrado, $R_SERVER);
+	    	    #&deleteTickets( $_, $aTerminals[$x][5], $diaBorrado, $R_SERVER);
 		  }else{
 #			print("El dia no tiene datos $diaBorrado\n");
 		  }
